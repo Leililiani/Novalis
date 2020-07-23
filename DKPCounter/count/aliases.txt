@@ -85,6 +85,7 @@ Crusher1,Crusher,Crush,crusher1,crusher,crush
 Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,dd
 Dab,dab
 Dabstar,dabstar
+Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
 Dakuna,Dak,dakuna,dak
