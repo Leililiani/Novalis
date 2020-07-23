@@ -43,6 +43,7 @@ Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
+BlackSash,sash
 Black Cobra
 BlazinStar,blazinstar,Blazin,blazin
 BlueGlow
@@ -64,7 +65,7 @@ Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
 Chainz,chainz,Chains,chains
 ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
 Charlesr9,Charles,charlesr9,charles
-Charmin,charm,char
+Charmin,charm,char,charming
 CheeksMcGee,Cheeks,cheeksmcgee,cheeks
 Cheering T,Cheering,Cheer,cheering t,cheering,cheer,CheeringT,cheeringt
 Chele,chele
@@ -91,7 +92,7 @@ DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya
-DailyDouble,dailydouble,daily,Daily,DD,dd
+DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,Dead,dead inside,dead
 Death Spite,Death,deathspite,death
 Dementia,Dem,dementia,dem
@@ -116,10 +117,12 @@ EllaofEden,Ella,Eden
 Elvia Jones,Elvia,Elva,elvia jones,elvia,elva
 Elysian,elys,ely
 Episode,Epi,episode,epi
+Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
-Ethan,ethan
+Ethan,ethan,ethan1
 Exio,exio
 False,false
+FastBlade,fb,fast,blade
 Fei,Fie,fei,fie
 Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
 FireAndFire,Fnf,fireandfire,fnf
@@ -149,8 +152,10 @@ Goonsquad,goonsquad
 Grimalkin,grimalkin
 grimheals,grim,Grimheals,grim
 GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
+Grimoire,grimo
 Gspot,gspot
 guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
+GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops
 Guyun,Guy,guyun,guy
 Headhunterz,headhunter,head
 HealsFromAbove,Hfa,healsfromabove,hfa
@@ -170,6 +175,7 @@ ICxRogue,icxrogue
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
 Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi
+Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImperialFlame,imperialflame,IF,if
@@ -192,6 +198,7 @@ Katrek,katrek,rek
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
 Kellogs,kellogs,kelloggs,kellgos,kellogs
+Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
 Kinglad,king,lad
@@ -221,6 +228,7 @@ LlamaHunter,Llama,llamahunter,llama
 LockBlock,lockblock
 Longgg,Longg,Long,longgg,longg,long
 LookAtme,lookatme,look,Look
+LordCihann,Lord,Cihann,Cihan,Ciha,Lordci,lord c,lordc,lordcihan
 LoveIsMe,loveisme,Love,love
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
@@ -263,7 +271,7 @@ MyWorld1,myworld,Myworld
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
-Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja
+Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj
 NeonLights,neonlights,Neon,neon
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
@@ -286,13 +294,15 @@ Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
 Potatochip,potato,potato chip
-ProteinChipmunk,Protein,proteinchipmunk,protein
+ProteinChipmunk,Protein,proteinchipmunk,protein,protien
 Proteus Prime,Prot,proteus prime,prot
 Purepk9r,pk9r
 Pyropete,pyro
 Quickie,quickie
 Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick
+QuickStriker
 R0,ro,Ro,r0
+Radner,rad,radn
 Ragz,ragz
 RangedAssassin,RA,rangedassassin,ra
 RangerIT,IT,ranger it,it
@@ -317,6 +327,7 @@ Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah
 Saraaaa98,Sara,saraaa,sara
+Sarang,saran
 Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
 Savos,savos
@@ -385,7 +396,7 @@ Ungodly,ungodly
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
-Valkyrja,valkyria
+Valkyrja,valkyria,valk,valkyr,valkrja
 Valyria,valyria,Valy,valy,Valyr,valyr
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
@@ -443,4 +454,4 @@ Zenitsu,zenitsu,Zen,zen
 Zn,zn
 Zodiac X,zodiac
 Zol,zol
-Zxra,zora,zxrs,zx,zxar
+Zxra,zora,zxrs,zx,zxar,zxr,zara
