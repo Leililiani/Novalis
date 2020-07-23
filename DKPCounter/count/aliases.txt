@@ -43,7 +43,8 @@ Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
-BlackSash,sash
+BlackRhinoJr,Blackrhino,rhino
+BlackSash,sash,black sash
 Black Cobra
 BlazinStar,blazinstar,Blazin,blazin
 BlueGlow
@@ -52,10 +53,11 @@ bone7,bone
 Bonlucky,Bon,bonlucky,bon
 BossMaster,bossmaster,Boss,boss master
 Braden Cole,Braden,braden cole,braden,brad
+Braydan,bray,brayd,brayden,bryadan
 Bria Bellin,bria,bri,bellin
 Brightly,Bright,brightly,bright
 Brkn2013,Brkn,brkn2013,brkn
-Bryan33,bryan33,Bryan,bryan
+Bryan33,bryan33,Bryan,bryan,bryon
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj
 Bunibuns,bunibuns,Buni,buni,bun
@@ -87,6 +89,7 @@ DaedricLord,dae
 DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daric Pierce,Daric,daric pierce,daric
+Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard
 Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darouin,darouin
@@ -122,7 +125,7 @@ Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Exio,exio
 False,false
-FastBlade,fb,fast,blade
+FastBlade,fb,fast,blade,fast blade
 Fei,Fie,fei,fie
 Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
 FireAndFire,Fnf,fireandfire,fnf
@@ -133,8 +136,8 @@ FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
-Formal,formal,Form,form,fromal
-franko,Franko,frank
+Formal,formal,Form,form,fromal,forma
+Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio
@@ -155,7 +158,7 @@ GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
 Grimoire,grimo
 Gspot,gspot
 guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
-GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops
+GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
 Guyun,Guy,guyun,guy
 Headhunterz,headhunter,head
 HealsFromAbove,Hfa,healsfromabove,hfa
@@ -259,6 +262,7 @@ Morgatha,Morg,morgatha,morg
 Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
+MrNiceGuy420,mrniceguy,mrnice,niceguy
 MrRogue,Mr,mrrogue,mr,mrrouge
 mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
 Msboby,msboby
@@ -271,7 +275,7 @@ MyWorld1,myworld,Myworld
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
-Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj
+Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,
 NeonLights,neonlights,Neon,neon
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
@@ -288,7 +292,7 @@ OwO,owo,0w0
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
-PEHLIVANBEY,Pehli,pehlivanbey,pehli
+PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
@@ -344,7 +348,7 @@ Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soe,soe
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
-soulless,Soulless,Soul,soul
+Soulless,soulless,Soul,soul
 Spacemaker 300,Spacemaker,space,Space,spacemaker3000
 SpartanIII,Spartan
 Speedz,speedz,Speed,speed,Sz,sz
@@ -396,7 +400,7 @@ Ungodly,ungodly
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
-Valkyrja,valkyria,valk,valkyr,valkrja
+Valkyrja,valkyria,valk,valkyr,valkrja,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
