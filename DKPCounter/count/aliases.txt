@@ -154,11 +154,11 @@ g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
 Goonch,goonch
 Goonsquad,goonsquad
 Grimalkin,grimalkin
-grimheals,grim,Grimheals,grim
+Grimheals,grim,grimheals,grim
 GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
 Grimoire,grimo
 Gspot,gspot
-guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
+Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
 Guyun,Guy,guyun,guy
 Headhunterz,headhunter,head
@@ -263,7 +263,7 @@ Morgatha,Morg,morgatha,morg
 Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
-MrNiceGuy420,mrniceguy,mrnice,niceguy
+MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
 MrRogue,Mr,mrrogue,mr,mrrouge
 mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
 Msboby,msboby
@@ -293,12 +293,12 @@ OwO,owo,0w0
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
-PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli
+PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
-Potatochip,potato,potato chip
+Potatochip*,potato,potato chip
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien
 Proteus Prime,Prot,proteus prime,prot
 Purepk9r,pk9r
@@ -405,8 +405,9 @@ Valkyrja,valkyria,valk,valkyr,valkrja,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved
+Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr
+Vendy,vend
 Vestas,vestas
 Veto,veto
 Vhen,vhen
