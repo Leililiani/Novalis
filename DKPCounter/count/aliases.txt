@@ -154,9 +154,9 @@ g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
 Goonch,goonch
 Goonsquad,goonsquad
 Grimalkin,grimalkin
-Grimheals,grim,grimheals,grim
+Grimheals
 GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
-Grimoire,grimo
+Grimoire,grimo,grim
 Gspot,gspot
 Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
