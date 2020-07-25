@@ -24,7 +24,8 @@ Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
-Architect,archi,arch,arc
+Arcta,archangel,arc,arct
+Architect,archi,arch
 Armadillo,armadillo,Arma,arma,arna
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
@@ -44,7 +45,7 @@ Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
 BlackRhinoJr,Blackrhino,rhino
-BlackSash,sash,black sash
+BlackSash,sash,black sash,blaksash,blak sash
 Black Cobra
 BlazinStar,blazinstar,Blazin,blazin
 BlueGlow
@@ -95,7 +96,7 @@ Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
-Dayanara,dayanara,Day,day,daya
+Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,Dead,dead inside,dead
 Death Spite,Death,deathspite,death
@@ -276,7 +277,7 @@ MyWorld1,myworld,Myworld
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
-Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,
+Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen
 NeonLights,neonlights,Neon,neon
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
@@ -436,7 +437,7 @@ xHoneyx,Honey,honey
 XNoirX,noir
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res
-xRougeMasterx,Rouge,RM,roguemaster,rogue,rm
+xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
 xTooxBlackx
