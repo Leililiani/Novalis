@@ -48,6 +48,7 @@ BlackRhinoJr,Blackrhino,rhino
 BlackSash,sash,black sash,blaksash,blak sash
 Black Cobra
 BlazinStar,blazinstar,Blazin,blazin
+Bloodsweezy,blood,bloods,sweezy
 BlueGlow
 Bobymage,Boby,bobymage,boby
 bone7,bone
@@ -104,7 +105,7 @@ Dementia,Dem,dementia,dem
 Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil,devils
 Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
 Dima1,Dima,dima1,dima
-Donaldtheduck,Donald,donaldtheduck,donald
+Donaldtheduck,Donald,donaldtheduck,donald,donald the duck36
 Donatello,Don,donatello,don,Dona,dona
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
@@ -237,7 +238,7 @@ LordCihann,Lord,Cihann,Cihan,Ciha,Lordci,lord c,lordc,lordcihan
 LoveIsMe,loveisme,Love,love
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
-Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious
+Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky
 Madara Uchiha,Madara,madara urchiha,madara
@@ -251,7 +252,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint
 Medical,medical,Med,med
-Michaelangelo,Mich,michaelangelo,mich,much,Michael
+Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour
 Miss Angelina,Angelina,miss angelina,angelina
@@ -294,13 +295,13 @@ OwO,owo,0w0
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
-PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey
+PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
 Potatochip*,potato,potato chip
-ProteinChipmunk,Protein,proteinchipmunk,protein,protien
+ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin
 Proteus Prime,Prot,proteus prime,prot
 Purepk9r,pk9r
 Pyropete,pyro
@@ -402,7 +403,7 @@ Ungodly,ungodly
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
-Valkyrja,valkyria,valk,valkyr,valkrja,valkryja
+Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra
 Valyria,valyria,Valy,valy,Valyr,valyr
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
@@ -414,7 +415,7 @@ Veto,veto
 Vhen,vhen
 Vibrancy,Vib,vibrancy,vib
 Villain,villian
-Viscaria,Visc,Vis,viscaria,visc,vis
+Viscaria,Visc,Vis,viscaria,visc,vis,viascaria
 Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
 Vortar Tolan,Vortar,vortar tolan,vortar
 Werts00alts,Wert,werts00alts,wert
@@ -438,6 +439,7 @@ XNoirX,noir
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master
+xRoYaLx
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
 xTooxBlackx
@@ -461,4 +463,4 @@ Zenitsu,zenitsu,Zen,zen
 Zn,zn
 Zodiac X,zodiac
 Zol,zol
-Zxra,zora,zxrs,zx,zxar,zxr,zara
+Zxra,zora,zxrs,zx,zxar,zxr,zara,zxraa
