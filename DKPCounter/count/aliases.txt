@@ -109,6 +109,7 @@ Donaldtheduck,Donald,donaldtheduck,donald,donald the duck36
 Donatello,Don,donatello,don,Dona,dona
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
+DragonSlayer,dragonsl4yer,dragaonsl,dragonsl
 Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury
 DRUID,druid,DRU1D,dru1d,Bowner,Bow,Boner,bowner,bow,boner,Lock Block,lock block,Filet Mignon,filet mignon,Filet,filet,fillet
@@ -238,7 +239,7 @@ LordCihann,Lord,Cihann,Cihan,Ciha,Lordci,lord c,lordc,lordcihan
 LoveIsMe,loveisme,Love,love
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
-Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim
+Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky
 Madara Uchiha,Madara,madara urchiha,madara
@@ -332,7 +333,7 @@ Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
-Saerah Magar,Sae,saerah magar,sae,Saerah,saerah
+Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
 Sasori12,Sasori,sasori,sasori12
