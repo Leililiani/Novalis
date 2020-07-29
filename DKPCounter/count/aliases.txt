@@ -92,7 +92,7 @@ DaedricLord,dae
 DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daric Pierce,Daric,daric pierce,daric
-Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard
+Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard
 Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darouin,darouin
@@ -111,7 +111,7 @@ Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl
 Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
-DrakonicFury,Drakonic,Drak,drak,drakonicFury
+DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
 DRUID,druid,DRU1D,dru1d,Bowner,Bow,Boner,bowner,bow,boner,Lock Block,lock block,Filet Mignon,filet mignon,Filet,filet,fillet
 DruiDiz
 Druidz,druidz
@@ -194,6 +194,7 @@ ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
 Ivan Drago,Ivan,ivan drago,ivan
+Jakez,jakezz,jake,jakezzz,jakes
 jnors1,Jnors1,Jnors,jnors
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
 Kahala,kahala
@@ -239,7 +240,7 @@ LordCihann,Lord,Cihann,Cihan,Ciha,Lordci,lord c,lordc,lordcihan
 LoveIsMe,loveisme,Love,love
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
-Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy
+Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky
 Madara Uchiha,Madara,madara urchiha,madara
@@ -315,7 +316,7 @@ Ragz,ragz
 RangedAssassin,RA,rangedassassin,ra
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
-Razt,razt
+Razt,razt,rast
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin
 Revive,revive
@@ -364,7 +365,7 @@ Stabetha,stabetha
 Starrynight54,starrynight54,starry
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
-Sundown,Sun,sundown,sun
+Sundown,Sun,sundown,sun,sundow
 Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
 Swish,swish
 Swishy,swishy
@@ -405,7 +406,7 @@ Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
 Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra
-Valyria,valyria,Valy,valy,Valyr,valyr
+Valyria,valyria,Valy,valy,Valyr,valyr,valeria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
 Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy
@@ -428,7 +429,7 @@ Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
 Windward,Wind,windward,wind
 Wiro,wiro
-XBalanque,xbal,x,balanque,bal
+XBalanque,xbal,x,balanque,bal,xbalan
 xBast,Bast,xbast,bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
