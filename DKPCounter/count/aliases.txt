@@ -303,8 +303,8 @@ Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
 Potatochip*,potato,potato chip
-ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin
-Proteus Prime,Prot,proteus prime,prot
+ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
+Proteus Prime,proteus prime
 Purepk9r,pk9r
 Pyropete,pyro
 Quickie,quickie
@@ -317,6 +317,7 @@ RangedAssassin,RA,rangedassassin,ra
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
 Razt,razt,rast
+Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin
 Revive,revive
