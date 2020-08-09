@@ -224,6 +224,7 @@ Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
 Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla
 Lendoerl,lendoerl,Len,len,Lend,lend
+Lesniik,lesnik,les,lesn,niik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
 LiamX,Liam,liamx,liam
@@ -244,6 +245,7 @@ Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky
 Madara Uchiha,Madara,madara urchiha,madara
+Maev,mae
 Maga,Mag,maga,mag
 Mamison,mamison,Mami,mami,Mam,mam,mani,manison
 Mana Ogilvie,Mana,mana ogilvie,mana
@@ -403,6 +405,7 @@ Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
 Tymur,tymur,Ty,ty,Tym,tym
 Ungodly,ungodly
+UrMom69,ur,urm,urmom,mom,mom69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
@@ -430,7 +433,7 @@ Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
 Windward,Wind,windward,wind
 Wiro,wiro
-XBalanque,xbal,x,balanque,bal,xbalan
+XBalanque,xbal,x,balanque,bal,xbalan,xball
 xBast,Bast,xbast,bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
@@ -466,4 +469,5 @@ Zenitsu,zenitsu,Zen,zen
 Zn,zn
 Zodiac X,zodiac
 Zol,zol
+Zxn
 Zxra,zora,zxrs,zx,zxar,zxr,zara,zxraa
