@@ -206,6 +206,7 @@ Katrek,katrek,rek
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
 Kellogs,kellogs,kelloggs,kellgos,kellogs
+Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
@@ -439,6 +440,7 @@ XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
+xElektrax,ele,elek,elektra
 Xeni1387,Xeni
 xHoneyx,Honey,honey
 XNoirX,noir
