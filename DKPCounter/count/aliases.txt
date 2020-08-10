@@ -33,6 +33,7 @@ Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria
 Athlete,Lete,athlete,lete
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe
+Ayana,aya,ayan
 Azena,azena,Zena,zena
 Azenia,azenia,Zenia,zenia
 Azona,azona,Zona,zona,az
@@ -80,6 +81,7 @@ Chokachi,chok,Chok
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
+Coldsteel,cold,steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
@@ -225,7 +227,7 @@ Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
 Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla
 Lendoerl,lendoerl,Len,len,Lend,lend
-Lesniik,lesnik,les,lesn,niik
+Lesniik,lesnik,les,lesn,niik,less
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
 LiamX,Liam,liamx,liam
@@ -384,6 +386,7 @@ Temperr,Temper,temperr,temper
 Tenacity,tenacity,Ten,ten,tena,tenac
 TerminNater,Term,Terminnater,terminater,term,termin
 Terz,terz
+Thaika,thai,thaik
 Thanatus,thanatus,Than,than
 The Darkness,Darkness,the darkness,darkness
 The Diz,Diz,the diz,diz,thediz
