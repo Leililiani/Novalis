@@ -56,7 +56,7 @@ bone7,bone
 Bonlucky,Bon,bonlucky,bon
 BossMaster,bossmaster,Boss,boss master
 Braden Cole,Braden,braden cole,braden,brad
-Braydan,bray,brayd,brayden,bryadan
+Braydan,bray,brayd,brayden,bryadan,braydam
 Bria Bellin,bria,bri,bellin
 Brightly,Bright,brightly,bright
 Brkn2013,Brkn,brkn2013,brkn
@@ -111,6 +111,7 @@ Donaldtheduck,Donald,donaldtheduck,donald,donald the duck36
 Donatello,Don,donatello,don,Dona,dona
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
+Dragole,drago,dragol,dragone
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl
 Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
@@ -187,11 +188,13 @@ Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
+ImmortalLegend,immortal
 ImperialFlame,imperialflame,IF,if
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Infused,infused,Infuse,infuse
 Interruption,Interrupt,Inter,interruption,interrupt,inter
+IronFist,iron,fist,xironfistx
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
@@ -199,7 +202,7 @@ Ivan Drago,Ivan,ivan drago,ivan
 Jakez,jakezz,jake,jakezzz,jakes
 jnors1,Jnors1,Jnors,jnors
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
-Kahala,kahala
+Kahala,kahala,kahal,kaha
 Kalina,kalina,Kal,kal
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
@@ -227,7 +230,7 @@ Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
 Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla
 Lendoerl,lendoerl,Len,len,Lend,lend
-Lesniik,lesnik,les,lesn,niik,less
+Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
 LiamX,Liam,liamx,liam
@@ -321,7 +324,8 @@ Ragz,ragz
 RangedAssassin,RA,rangedassassin,ra
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
-Razt,razt,rast
+Razt,razt,rast,ratz
+Rebound,reb,rebo
 Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin
@@ -413,7 +417,7 @@ UrMom69,ur,urm,urmom,mom,mom69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
-Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra
+Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky
 Valyria,valyria,Valy,valy,Valyr,valyr,valeria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
