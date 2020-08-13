@@ -81,7 +81,7 @@ Chokachi,chok,Chok
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
-Coldsteel,cold,steel
+Coldsteel,cold,steel,xcoldsteelx
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
@@ -236,6 +236,7 @@ LewTheGod,lew
 LiamX,Liam,liamx,liam
 Lifebonds,Lb,lifebonds,lb
 LifeGuard,Lg,lifeguard,lg
+LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
 LittleH,H,little h,h
 Livid,livid
