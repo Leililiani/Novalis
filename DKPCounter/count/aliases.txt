@@ -412,6 +412,7 @@ Transgress,tran,trans
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
+Twisted Rogue,twisted,twist,twiste
 Tymur,tymur,Ty,ty,Tym,tym
 Ungodly,ungodly
 UrMom69,ur,urm,urmom,mom,mom69
