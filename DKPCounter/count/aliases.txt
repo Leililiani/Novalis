@@ -263,7 +263,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint
 Medical,medical,Med,med
-Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo
+Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour
 Miss Angelina,Angelina,miss angelina,angelina
@@ -419,11 +419,11 @@ UrMom69,ur,urm,urmom,mom,mom69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
-Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky
+Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr,valeria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy
+Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr
 Vendy,vend
 Vestas,vestas
