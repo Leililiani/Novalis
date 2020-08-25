@@ -31,6 +31,7 @@ Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
 Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria
 Athlete,Lete,athlete,lete
+Audden,aud,audd
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe
 Ayana,aya,ayan
@@ -46,7 +47,7 @@ Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
 BlackRhinoJr,Blackrhino,rhino
-BlackSash,sash,black sash,blaksash,blak sash
+BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv
 Black Cobra
 BlazinStar,blazinstar,Blazin,blazin
 Bloodsweezy,blood,bloods,sweezy
@@ -66,6 +67,7 @@ Buj4nski,Buj,buj4nski,buj
 Bunibuns,bunibuns,Buni,buni,bun
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
+ByulHa,byul,byulh
 Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
 Chainz,chainz,Chains,chains
 ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
@@ -81,7 +83,7 @@ Chokachi,chok,Chok
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
-Coldsteel,cold,steel,xcoldsteelx
+Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
@@ -204,10 +206,10 @@ jnors1,Jnors1,Jnors,jnors
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
 Kahala,kahala,kahal,kaha
 Kalina,kalina,Kal,kal
-Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan
+Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
 Katrak,katrak,rak
-Katrek,katrek,rek
+Katrek,katrek,rek,katrec,katr
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
 Kellogs,kellogs,kelloggs,kellgos,kellogs
@@ -219,6 +221,7 @@ Kinglad,king,lad
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
+Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
 LadyFate,ladyfate
@@ -265,7 +268,7 @@ Master Splinter,master splinter,Splint,splint
 Medical,medical,Med,med
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
-Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour
+Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
 Miss Angelina,Angelina,miss angelina,angelina
 Missfired,missfired
 MisterWC,Mrwc,misterwc,mrwc
