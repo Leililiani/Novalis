@@ -186,7 +186,7 @@ Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursa
 I Am,Iam,i am,iam
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
-ICxRogue,icxrogue
+ICxRogue,icxrogue,icx,icxr
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
 Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi
@@ -195,6 +195,7 @@ Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImmortalLegend,immortal
 ImperialFlame,imperialflame,IF,if
+ImSoSavage,savage,im,imso
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Infused,infused,Infuse,infuse
@@ -229,6 +230,7 @@ Lady Anarchy,lady anarchy
 Lady Lock,lady lock
 LadyFate,ladyfate
 Lanre,lanre
+Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
 Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
