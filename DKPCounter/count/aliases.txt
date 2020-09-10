@@ -6,6 +6,7 @@
 0Zeus0,Zeus,zeus
 1Eleven1,11,eleven
 2Quick,2quick,TooQuick,tooquick,ToQuick,2quik
+3rd Eye,3rd,third,eye,3rdeye
 5inch,inch,5
 Accord,Acc,accord,acc
 Adam09,Adam,adam
@@ -32,7 +33,7 @@ Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
 Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria
 Athlete,Lete,athlete,lete
-Audden,aud,audd
+Audden,aud,audd,audden finley
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe
 Ayana,aya,ayan
@@ -107,6 +108,7 @@ Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,Dead,dead inside,dead
 Death Spite,Death,deathspite,death
+Dellboy,dell,boy
 Dementia,Dem,dementia,dem
 Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil,devils
 Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
