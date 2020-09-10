@@ -16,7 +16,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 10,
+            kill6: 0,
         }
     },
     DL_165: {
@@ -25,7 +25,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 10,
+            kill6: 0,
         }
     },
     DL_170: {
@@ -33,8 +33,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
-            kill6: 50,
+            kill5: 10,
+            kill6: 25,
         }
     },
     DL_180: {
@@ -42,8 +42,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
-            kill6: 50,
+            kill5: 10,
+            kill6: 25,
         }
     },
 
@@ -52,45 +52,45 @@ const Boss = {
         aliases: ["185", "dog", "doggy", "dogg", "ifryn"],
         points: {
             camp: 0,
-            kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill4: 0,
+            kill5: 0,
+            kill6: 0,
         }
     },
     EDL_190: {
         aliases: ["190", "skath", "magister"],
         points: {
             camp: 0,
-            kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill4: 0,
+            kill5: 0,
+            kill6: 0,
         }
     },
     EDL_195: {
         aliases: ["195", "gron", "general"],
         points: {
             camp: 0,
-            kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill4: 0,
+            kill5: 0,
+            kill6: 0,
         }
     },
     EDL_200: {
         aliases: ["200", "krother", "imp"],
         points: {
             camp: 0,
-            kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill4: 0,
+            kill5: 0,
+            kill6: 0,
         }
     },
     EDL_205: {
         aliases: ["205", "cragskor", "dragon"],
         points: {
             camp: 0,
-            kill4: 10,
-            kill5: 30,
-            kill6: 60,
+            kill4: 5,
+            kill5: 15,
+            kill6: 25,
         }
     },
     EDL_210: {
