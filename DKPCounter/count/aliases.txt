@@ -191,7 +191,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -461,10 +461,11 @@ Xde,xde
 XdiabloX,diablo
 xElektrax,ele,elek,elektra
 Xeni1387,Xeni
+Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
-xResonatex,Res,resonate,res
+xResonatex,Res,resonate,res,xres,xresonate
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master
 xRoYaLx
 xSweetiex,Sweetie,sweetie
