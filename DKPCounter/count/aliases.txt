@@ -138,6 +138,7 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Exio,exio
+Eyemruss,eye,russ,eyem
 False,false
 FastBlade,fb,fast,blade,fast blade
 Fei,Fie,fei,fie
@@ -451,8 +452,9 @@ Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
-Windward,Wind,windward,wind
+Windward,Wind,windward,wind,windy
 Wiro,wiro
+Wisteria,wist,wister
 XBalanque,xbal,x,balanque,bal,xbalan,xball
 xBast,Bast,xbast,bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
@@ -487,7 +489,7 @@ Zavier,zavier,Zav,zav,zaviar,xavier,xav
 Zapp,zapp,Zap,zap
 Zealot,Z,Zea,zealot,z,zea
 Zeero,Zero,zeero,zero
-Zenitsu,zenitsu,Zen,zen
+Zenitsu,zenitsu,Zen,zen,zenitus
 Zn,zn
 Zodiac X,zodiac
 Zol,zol
