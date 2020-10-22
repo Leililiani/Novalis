@@ -109,7 +109,7 @@ DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,Dead,dead inside,dead
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
-Dementia,Dem,dementia,dem
+Dementia,Dem,dementia,dem,demen,dement
 Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil,devils
 Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
 Dima1,Dima,dima1,dima
@@ -126,7 +126,7 @@ DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
 Dunkinn,Dunk,dunkinn,dunk
-EatMySpells,eat,eatmy,myspells,spells,spell
+EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
 ElDiablo,ElDia,eldiablo,eldia
 EliteHealz,Elite,eliteheals,elite,Eh,eh
