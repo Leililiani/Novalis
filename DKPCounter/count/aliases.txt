@@ -316,7 +316,7 @@ OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
 Oryx
 OwO,owo,0w0
-OweinColt,owein,owe,colt
+Owein Colt,owein,owe,colt
 Oxygen,oxy,gen
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
