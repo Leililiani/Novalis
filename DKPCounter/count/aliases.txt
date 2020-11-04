@@ -85,7 +85,7 @@ Chokachi,chok,Chok
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
-Cloudstorm,cloud,storm
+Cloudstorm,cloud,storm,cloud storm
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Crixos*,Crix,crixos,crix
@@ -99,7 +99,7 @@ DaedricLord,dae
 DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daric Pierce,Daric,daric pierce,daric
-Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard
+Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard
 Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darouin,darouin
@@ -252,7 +252,7 @@ LifeGuard,Lg,lifeguard,lg
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
 LittleH,H,little h,h,lh
-Little Monster,littlem,monster,lm
+Little Monster,littlem,monster,lm,little mister
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama,ilama,iiama
 LockBlock,lockblock
@@ -277,7 +277,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -347,7 +347,7 @@ Razt,razt,rast,ratz
 Rebound,reb,rebo
 Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
-Redpumpkin,Pumpkin,redpumpkin,pumpkin
+Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump
 Revive,revive
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
@@ -408,7 +408,7 @@ Tankie,tankie,Tanki,tanki
 tankasaurus,Tankasaurus
 Temperr,Temper,temperr,temper
 Tenacity,tenacity,Ten,ten,tena,tenac,tenisity,tenicity
-TerminNater,Term,Terminnater,terminater,term,termin
+TerminNater,Term,Terminnater,terminater,term,termin,terminator
 Terz,terz
 Thaika,thai,thaik
 Thanatus,thanatus,Than,than
