@@ -61,7 +61,6 @@ BossMaster,bossmaster,Boss,boss master
 Braden Cole,Braden,braden cole,braden,brad
 Braydan,bray,brayd,brayden,bryadan,braydam
 Bria Bellin,bria,bri,bellin
-Brightly,Bright,brightly,bright
 Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon
 Buffy,Buff,Buf,buffy,buff,buf
@@ -86,6 +85,7 @@ Chokachi,chok,Chok
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
+Cloudstorm,cloud,storm
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Crixos*,Crix,crixos,crix
@@ -251,7 +251,8 @@ Lifebonds,Lb,lifebonds,lb
 LifeGuard,Lg,lifeguard,lg
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
-LittleH,H,little h,h
+LittleH,H,little h,h,lh
+Little Monster,littlem,monster,lm
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama,ilama,iiama
 LockBlock,lockblock
@@ -276,6 +277,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint
 Medical,medical,Med,med
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -321,6 +323,7 @@ Oxygen,oxy,gen
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
+Peachyy,peachy,peach
 PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
@@ -346,7 +349,7 @@ Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin
 Revive,revive
-Rickstyle,Rick,rickstyle,rick
+Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
