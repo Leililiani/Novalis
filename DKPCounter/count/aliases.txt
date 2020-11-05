@@ -102,6 +102,7 @@ Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard
 Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
+Darky69,darky,69
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
@@ -268,6 +269,7 @@ Macky
 Madara Uchiha,Madara,madara urchiha,madara
 Maev,mae
 Maga,Mag,maga,mag
+MagicMerlin,magic,merlin
 Mamison,mamison,Mami,mami,Mam,mam,mani,manison
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
