@@ -27,6 +27,7 @@ Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
 Arcta,archangel,arc,arct
+Archilies,archil
 Architect,archi,arch
 Armadillo,armadillo,Arma,arma,arna
 Ashley A,Ashley,Ash,ashley a,ashley,ash
@@ -149,6 +150,7 @@ Firecrotch,firecrotch,FC,fc
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs,Fire,fire
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
+Fleets,fleet,flee
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
@@ -253,7 +255,7 @@ LifeGuard,Lg,lifeguard,lg
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
 LittleH,H,little h,h,lh
-Little Monster,littlem,monster,lm,little mister
+Little Monster,littlem,monster,lm,little mister,little
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama,ilama,iiama
 LockBlock,lockblock
@@ -305,6 +307,7 @@ Mythic,mythic
 MyWorld1,myworld,Myworld
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
+Narcisse,narc,narci
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen
 NeonLights,neonlights,Neon,neon
@@ -479,7 +482,7 @@ xHoneyx,Honey,honey
 XNoirX,noir
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
-xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master
+xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn
 xRoYaLx
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
