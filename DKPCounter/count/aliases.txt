@@ -52,7 +52,7 @@ Bill Gryll,Bill,bill gryll,bill
 BlackRhinoJr,Blackrhino,rhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv
 Black Cobra
-BlazinStar,blazinstar,Blazin,blazin,blazing
+BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
 Bloodsweezy,blood,bloods,sweezy
 BlueGlow
 Bobymage,Boby,bobymage,boby
@@ -271,7 +271,7 @@ Macky
 Madara Uchiha,Madara,madara urchiha,madara
 Maev,mae
 Maga,Mag,maga,mag
-MagicMerlin,magic,merlin
+MagicMerlin,magic,merlin,magic merlin,megic,megicmerlin,megic merlin
 Mamison,mamison,Mami,mami,Mam,mam,mani,manison
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
@@ -403,7 +403,7 @@ Sundown,Sun,sundown,sun,sundow
 Supermedo,super,medo
 Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
 Swish,swish
-Swishy,swishy
+Swishy,swishy,swshy
 Taborlin,taborlin.Tab,tab
 Taffy,taffy
 Tagus,tagus,Tag,tag
