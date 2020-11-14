@@ -334,7 +334,7 @@ Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
-Potatochip,potato,potato chip
+Potatochip,potato,potato chip,pitatochip,pitato chip
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
 Purepk9r,pk9r
@@ -365,7 +365,7 @@ Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood
 Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
-Royalninja,Royal,royalninja,royal
+Royalninja,Royal,royalninja,royal,royal ninja
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
@@ -433,7 +433,7 @@ Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire
 Toxins,toxin
-Transgress,tran,trans
+Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
