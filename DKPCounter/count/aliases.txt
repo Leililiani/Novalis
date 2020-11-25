@@ -99,6 +99,7 @@ Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
 Dakuna,Dak,dakuna,dak
+Daliah,dal,dali,dalah
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard
 Darkly,darkly
@@ -178,7 +179,7 @@ Gspot,gspot
 Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
 Guyun,Guy,guyun,guy
-GwartLucas,lucas,gwart,gwar,gwarr
+GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa
@@ -250,6 +251,7 @@ Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
 LiamX,Liam,liamx,liam
+Lianna,lia,lian,liann
 Lifebonds,Lb,lifebonds,lb
 LifeGuard,Lg,lifeguard,lg
 LikeaBossz,like,likea,bossz
