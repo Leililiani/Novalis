@@ -210,6 +210,7 @@ ImThatOne1,Ito,imthatone,ito
 Infused,infused,Infuse,infuse
 Interruption,Interrupt,Inter,interruption,interrupt,inter
 IronFist,iron,fist,xironfistx
+Iseabal,isea
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
@@ -402,7 +403,7 @@ Starrynight54,starrynight54,starry
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
 Sundown,Sun,sundown,sun,sundow
-Supermedo,super,medo
+Supermedo,super,medo,super medo
 Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
 Swish,swish
 Swishy,swishy,swshy
