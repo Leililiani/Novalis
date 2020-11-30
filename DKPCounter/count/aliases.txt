@@ -210,7 +210,7 @@ ImThatOne1,Ito,imthatone,ito
 Infused,infused,Infuse,infuse
 Interruption,Interrupt,Inter,interruption,interrupt,inter
 IronFist,iron,fist,xironfistx
-Iseabal,isea,ise
+Iseabal,isea,ise,isaebel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
