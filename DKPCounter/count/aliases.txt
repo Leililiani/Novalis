@@ -182,7 +182,7 @@ Guyun,Guy,guyun,guy
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs
 Headhunterz,headhunter,head
 HealingSpells,healing
-HealsFromAbove,Hfa,healsfromabove,hfa
+HealsFromAbove,Hfa,healsfromabove,hfa,heals
 Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
 Heavyshot,Heavy,HS,heavyshot,heavy,hs
 Helldiver,Hell,helldiver,hell
@@ -226,7 +226,7 @@ Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
-Kellogs,kellogs,kelloggs,kellgos,kellogs
+Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog
 Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
@@ -313,7 +313,7 @@ NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen
-NeonLights,neonlights,Neon,neon
+NeonLights,neonlights,Neon,neon,neon lights
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik,nikh
@@ -397,7 +397,7 @@ Speedz,speedz,Speed,speed,Sz,sz
 Spiritaldeath,spiritaldeath,spirit,spiritual
 Squirrel,squirrel,squirel,Squirrrrel,squirrrel
 Squirts,squirts
-Squirtz,squirtz
+Squirtz,squirtz,squirt
 Stabetha,stabetha
 Starrynight54,starrynight54,starry
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
@@ -435,7 +435,7 @@ Tiff,tiff
 Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire
-Toxins,toxin
+Toxins,toxin,todins
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
