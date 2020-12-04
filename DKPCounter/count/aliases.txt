@@ -351,6 +351,7 @@ Ragz,ragz
 RangedAssassin,RA,rangedassassin,ra
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
+Raznik,raz,razn
 Razt,razt,rast,ratz
 Rebound,reb,rebo
 Redbud,bud,Redb
@@ -402,6 +403,7 @@ Stabetha,stabetha
 Starrynight54,starrynight54,starry
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
+Stringer,String
 Sundown,Sun,sundown,sun,sundow
 Supermedo,super,medo,super medo
 Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
