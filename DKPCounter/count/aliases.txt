@@ -128,7 +128,7 @@ DRUID,druid,DRU1D,dru1d,Bowner,Bow,Boner,bowner,bow,boner,Lock Block,lock block,
 DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
-Dunkinn,Dunk,dunkinn,dunk
+Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
 ElDiablo,ElDia,eldiablo,eldia
@@ -159,10 +159,11 @@ Formal,formal,Form,form,fromal,forma
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
 FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio,galoi
+Galio,galio,galoi,gaio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
+Gauze,gauz,guze,gaze
 Gebu,gebu
 Ghostshot,Ghost,ghostshot,ghost
 Godflame,godflame,Flame,flame,Gf,gf
@@ -275,9 +276,10 @@ Madara Uchiha,Madara,madara urchiha,madara
 Maev,mae
 Maga,Mag,maga,mag
 MagicMerlin,magic,merlin,magic merlin,megic,megicmerlin,megic merlin
-Mamison,mamison,Mami,mami,Mam,mam,mani,manison
+Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
+MaraJade,mara,jade,marja
 Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark,markistan
@@ -364,7 +366,7 @@ Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
 Roda,roda
 Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
-Roguepower,Rp,roguepower,rp
+Roguepower,Rp,roguepower,rp,rougepower
 Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood
 Rosee eh,rosee eh,Rose,rose
