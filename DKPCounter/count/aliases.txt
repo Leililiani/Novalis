@@ -101,7 +101,7 @@ DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daliah,dal,dali,dalah
 Daric Pierce,Daric,daric pierce,daric
-Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard
+Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard
 Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darky69,darky,69
@@ -156,16 +156,18 @@ Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
 Formal,formal,Form,form,fromal,forma
+Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
 FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio,galoi,gaio
+Galio,galio,galoi,gaio,galli
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
 Gauze,gauz,guze,gaze
 Gebu,gebu
 Ghostshot,Ghost,ghostshot,ghost
+Ginsu,gin,gins,ginsi
 Godflame,godflame,Flame,flame,Gf,gf
 Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
@@ -180,7 +182,7 @@ Gspot,gspot
 Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
 Guyun,Guy,guyun,guy
-GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs
+GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa,heals
@@ -279,14 +281,14 @@ MagicMerlin,magic,merlin,magic merlin,megic,megicmerlin,megic merlin
 Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
-MaraJade,mara,jade,marja
+MaraJade,mara,jade,marja,mj
 Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -372,6 +374,7 @@ Rolling Wood,Rolling,roll,Roll,rolling wood
 Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal,royal ninja
+Royalpain
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
@@ -414,6 +417,7 @@ Swishy,swishy,swshy
 Taborlin,taborlin.Tab,tab
 Taffy,taffy
 Tagus,tagus,Tag,tag
+Talon,tal,talo,tali,talonkarrde
 Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro,tanji
 Tank of Mabon,tank of mabon,tankofmabon,tank ofmabon,tankof mabon,tank
 Tankie,tankie,Tanki,tanki
@@ -436,10 +440,11 @@ Thermal Healz,thermal healz,thermalhealz,thermalheals
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
+Todins,tod,todi
 Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire
-Toxins,toxin,todins
+Toxins,toxin,
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
@@ -457,7 +462,7 @@ Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
 Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr
-Vendy,vend
+Vendy,vend,vendu
 Vestas,vestas
 Veto,veto
 Vhen,vhen
