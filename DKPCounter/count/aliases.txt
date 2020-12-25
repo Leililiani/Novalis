@@ -155,7 +155,8 @@ Fleets,fleet,flee
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
-Formal,formal,Form,form,fromal,forma
+Forex,rex,for
+Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
@@ -164,10 +165,10 @@ Galio,galio,galoi,gaio,galli
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
-Gauze,gauz,guze,gaze
+Gauze,gauz,guze,gaze,gause
 Gebu,gebu
 Ghostshot,Ghost,ghostshot,ghost
-Ginsu,gin,gins,ginsi
+Ginsu,gin,gins,ginsi,gisnu
 Godflame,godflame,Flame,flame,Gf,gf
 Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
@@ -229,7 +230,7 @@ Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
-Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog
+Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog,kellogg
 Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
@@ -460,7 +461,7 @@ Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr,valeria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld
+Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr
 Vendy,vend,vendu
 Vestas,vestas
