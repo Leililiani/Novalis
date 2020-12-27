@@ -101,7 +101,7 @@ DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daliah,dal,dali,dalah
 Daric Pierce,Daric,daric pierce,daric
-Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard
+Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz
 Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darky69,darky,69
