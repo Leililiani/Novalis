@@ -36,7 +36,7 @@ Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria
 Athlete,Lete,athlete,lete
 Audden,aud,audd,audden finley
 Avalon2,avalon2,Avalon,avalon,Ava,ava
-AxeYouAQuestion,axeyouaquestion,Axe,axe
+AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua
 Ayana,aya,ayan
 Azena,azena,Zena,zena
 Azenia,azenia,Zenia,zenia
@@ -161,7 +161,7 @@ Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
 FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio,galoi,gaio,galli
+Galio,galio,galoi,gaio,galli,halio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
@@ -202,7 +202,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -214,7 +214,7 @@ ImThatOne1,Ito,imthatone,ito
 Infused,infused,Infuse,infuse
 Interruption,Interrupt,Inter,interruption,interrupt,inter
 IronFist,iron,fist,xironfistx
-Iseabal,isea,ise,isaebel
+Iseabal,isea,ise,isaebel,bale
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
@@ -250,7 +250,7 @@ Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
-Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla
+Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil
 Lendoerl,lendoerl,Len,len,Lend,lend
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
@@ -287,9 +287,9 @@ Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
-Master Splinter,master splinter,Splint,splint
+Master Splinter,master splinter,Splint,splint,splinter
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -371,7 +371,7 @@ Roda,roda
 Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
 Roguepower,Rp,roguepower,rp,rougepower
 Rohin,rohin
-Rolling Wood,Rolling,roll,Roll,rolling wood
+Rolling Wood,Rolling,roll,Roll,rolling wood,roling
 Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal,royal ninja
@@ -461,7 +461,7 @@ Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr,valeria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy
+Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy,vedrch
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr
 Vendy,vend,vendu
 Vestas,vestas
@@ -495,8 +495,9 @@ xHoneyx,Honey,honey
 XNoirX,noir
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
-xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn
+xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster
 xRoYaLx
+xShionx,shi,shion,xshion,shionx
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
 xTooxBlackx
