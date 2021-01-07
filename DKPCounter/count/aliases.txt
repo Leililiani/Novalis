@@ -66,7 +66,7 @@ Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj
-Bunibuns,bunibuns,Buni,buni,bun
+Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
 ByulHa,byul,byulh
@@ -83,6 +83,7 @@ ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
 Chipmunk,Chip,chipmunk,chip
 Chokachi,chok,Chok
+Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
@@ -91,7 +92,7 @@ Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
-Crusher1,Crusher,Crush,crusher1,crusher,crush
+Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
 Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,dd
 Dab,dab
 Dabstar,dabstar
@@ -188,7 +189,7 @@ Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa,heals
 Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
-Heavyshot,Heavy,HS,heavyshot,heavy,hs
+Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
 HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi,hiiiiiiiii,hiiii
@@ -250,7 +251,7 @@ Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
-Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil
+Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila
 Lendoerl,lendoerl,Len,len,Lend,lend
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
@@ -259,6 +260,7 @@ LiamX,Liam,liamx,liam
 Lianna,lia,lian,liann
 Lifebonds,Lb,lifebonds,lb
 LifeGuard,Lg,lifeguard,lg
+Lightly69,light,lightly,lighty,lighty69
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
 LittleH,H,little h,h,lh
@@ -287,10 +289,10 @@ Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
-Master Splinter,master splinter,Splint,splint,splinter
+Master Splinter,master splinter,Splint,splint,splinter,master
 Medical,medical,Med,med
 Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh
-Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo
+Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
 Miss Angelina,Angelina,miss angelina,angelina
@@ -371,7 +373,7 @@ Roda,roda
 Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
 Roguepower,Rp,roguepower,rp,rougepower
 Rohin,rohin
-Rolling Wood,Rolling,roll,Roll,rolling wood,roling
+Rolling Wood,Rolling,roll,Roll,rolling wood,roling,rollingwood
 Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal,royal ninja
@@ -445,7 +447,7 @@ Todins,tod,todi
 Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire
-Toxins,toxin,
+Toxins,toxin,toxine
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
@@ -488,7 +490,7 @@ XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
-xElektrax,ele,elek,elektra
+xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax
 Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
