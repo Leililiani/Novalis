@@ -133,6 +133,7 @@ Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
 ElDiablo,ElDia,eldiablo,eldia
+Elementz,element,ele,elem
 EliteHealz,Elite,eliteheals,elite,Eh,eh
 EllaofEden,Ella,Eden
 Elvia Jones,Elvia,Elva,elvia jones,elvia,elva
@@ -291,7 +292,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -355,9 +356,10 @@ QuickStriker
 R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
-RangedAssassin,RA,rangedassassin,ra
+RangedAssassin,RA,rangedassassin,ra,ranged
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
+Raven Spike,spike,raven,ravenspike
 Raznik,raz,razn
 Razt,razt,rast,ratz
 Rebound,reb,rebo
@@ -366,6 +368,7 @@ Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump
 Revive,revive
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright
+Rikimarro,riki,rikim,marro
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
