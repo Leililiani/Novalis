@@ -13,7 +13,7 @@ Adam09,Adam,adam
 Aemis,aemis
 Aetna,aetna
 Ahava,aha
-Ajentj,ajentj,aj,Aj
+Ajentj,ajentj,aj,Aj,ajent
 Akeno,akeno
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
@@ -29,7 +29,7 @@ Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
 Arcta,archangel,arc,arct
 Archilies,archil
 Architect,archi,arch
-Armadillo,armadillo,Arma,arma,arna
+Armadillo,armadillo,Arma,arma,arna,arm
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
 Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria
@@ -126,7 +126,7 @@ Dragole,drago,dragol,dragone
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl
 Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DRUID,druid,DRU1D,dru1d
+DRUID,druid,DRU1D,dru1d,drud
 DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
@@ -134,7 +134,7 @@ Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
 ElDiablo,ElDia,eldiablo,eldia
-Elementz,element,ele,elem
+Elementz,element,ele,elem,elememtz,elememts,elements
 EliteHealz,Elite,eliteheals,elite,Eh,eh
 EllaofEden,Ella,Eden
 Elvia Jones,Elvia,Elva,elvia jones,elvia,elva
@@ -267,7 +267,7 @@ Lightly69,light,lightly,lighty,lighty69
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
 LittleH,H,little h,h,lh
-Little Monster,littlem,monster,lm,little mister,little
+Little Monster,littlem,monster,lm,little mister,little,littlemonster
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama,ilama,iiama
 Lock Block,lock block
@@ -323,7 +323,7 @@ Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
-Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen
+Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen, neneja
 NeonLights,neonlights,Neon,neon,neon lights
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
@@ -359,7 +359,7 @@ QuickStriker
 R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
-RangedAssassin,RA,rangedassassin,ra,ranged
+RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
 Raven Spike,spike,raven,ravenspike
@@ -371,7 +371,7 @@ Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump
 Revive,revive
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright
-Rikimarro,riki,rikim,marro
+Rikimarro,riki,rikim,marro,rikki
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
@@ -385,7 +385,7 @@ Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal,royal ninja
 Royalpain
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
-Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
+Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
