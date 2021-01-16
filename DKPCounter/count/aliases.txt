@@ -159,7 +159,7 @@ Fleets,fleet,flee
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
-Forex,rex,for
+Forex,rex,for,frorex
 Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
@@ -255,7 +255,7 @@ Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
 Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila
-Lendoerl,lendoerl,Len,len,Lend,lend
+Lendoerl,lendoerl,Len,len,Lend,lend,landoerl,lendoer1,lendorl
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
@@ -363,7 +363,7 @@ RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
 Raven Spike,spike,raven,ravenspike
-Raznik,raz,razn
+Raznik,raz,razn,razniik
 Razt,razt,rast,ratz
 Rebound,reb,rebo
 Redbud,bud,Redb
@@ -469,7 +469,7 @@ Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr,valeria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy,vedrch
+Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy,vedrch,vedrichmcroy
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr
 Vendy,vend,vendu
 Vestas,vestas
@@ -501,6 +501,7 @@ Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
+xRapidd,xrapid,rapid,rapidd
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster
