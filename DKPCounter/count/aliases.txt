@@ -84,13 +84,13 @@ ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
 Chipmunk,Chip,chipmunk,chip
 Chokachi,chok,Chok
-Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
 Cloudstorm,cloud,storm,cloud storm
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
+Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
 Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
@@ -219,7 +219,7 @@ ImThatOne1,Ito,imthatone,ito
 Infused,infused,Infuse,infuse
 Interruption,Interrupt,Inter,interruption,interrupt,inter
 IronFist,iron,fist,xironfistx
-Iseabal,isea,ise,isaebel,bale
+Iseabal,isea,ise,isaebel,bale,isabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
@@ -490,7 +490,7 @@ Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
 Windward,Wind,windward,wind,windy
 Wiro,wiro
-Wisteria,wist,wister
+Wisteria,wist,wister,wisy
 XBalanque,xbal,x,balanque,bal,xbalan,xball
 xBast,Bast,xbast,bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
@@ -502,7 +502,7 @@ Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
-xRapidd,xrapid,rapid,rapidd,rapi
+xRapidd,xrapid,rapid,rapidd,rapi,rapif
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster
