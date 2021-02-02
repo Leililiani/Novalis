@@ -228,6 +228,7 @@ Jakez,jakezz,jake,jakezzz,jakes
 jnors1,Jnors1,Jnors,jnors
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
 Kahala,kahala,kahal,kaha
+Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
@@ -333,6 +334,7 @@ Noblesse,noblesse
 NugNug,nugnug,Nug,nug
 Nyx,nyx
 OG Mudbone,OG,og mudbone,og
+Ojah,oh ah
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -467,7 +469,7 @@ Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
 Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
-Valyria,valyria,Valy,valy,Valyr,valyr,valeria
+Valyria,valyria,Valy,valy,Valyr,valyr,valeria,balyria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
 Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy,vedrch,vedrichmcroy
