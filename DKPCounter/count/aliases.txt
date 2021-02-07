@@ -32,7 +32,7 @@ Architect,archi,arch
 Armadillo,armadillo,Arma,arma,arna,arm
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
-Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria
+Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti
 Athlete,Lete,athlete,lete
 Audden,aud,audd,audden finley
 Avalon2,avalon2,Avalon,avalon,Ava,ava
@@ -184,6 +184,7 @@ Grimalkin,grimalkin
 Grimheals
 GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
 Grimoire,grimo,grim
+Grinding,grind,grinder,griding
 Gspot,gspot
 Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
@@ -256,7 +257,7 @@ Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
-Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila
+Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani
 Lendoerl,lendoerl,Len,len,Lend,lend,landoerl,lendoer1,lendorl,lendoer,lendoeri
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
@@ -334,7 +335,7 @@ Noblesse,noblesse
 NugNug,nugnug,Nug,nug
 Nyx,nyx
 OG Mudbone,OG,og mudbone,og
-Ojah,oh ah
+Ojah,oh ah,oj
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -490,7 +491,7 @@ Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
-Windward,Wind,windward,wind,windy
+Windward,Wind,windward,wind,windy,winward
 Wiro,wiro
 Wisteria,wist,wister,wisy
 XBalanque,xbal,x,balanque,bal,xbalan,xball
