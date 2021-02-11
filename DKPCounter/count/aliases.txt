@@ -51,7 +51,7 @@ BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
 BlackRhinoJr,Blackrhino,rhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv
-Black Cobra
+Black Cobra,blackcobra,cobra
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
 Bloodsweezy,blood,bloods,sweezy
 BlueGlow
@@ -243,6 +243,7 @@ Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
 Kinglad,king,lad
+Kittenkicker,kitten,kitt,kit,kicker,kick,kittenkick,:(
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
@@ -470,7 +471,7 @@ Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val,valin
 Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
-Valyria,valyria,Valy,valy,Valyr,valyr,valeria,balyria
+Valyria,valyria,Valy,valy,Valyr,valyr,valeria,balyria,valria,valrya
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
 Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy,vedrch,vedrichmcroy
@@ -505,7 +506,7 @@ Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
-xRapidd,xrapid,rapid,rapidd,rapi,rapif
+xRapid,xrapidd,rapid,rapidd,rapi,rapif
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster
