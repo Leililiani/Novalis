@@ -380,6 +380,7 @@ Rikimarro,riki,rikim,marro,rikki
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
+Rochambeau,roch,rocham
 Roda,roda
 Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
 Roguepower,Rp,roguepower,rp,rougepower
@@ -402,7 +403,7 @@ SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,Shadow,shad,Shad,shadow,striker,strikerx,shadowstriker
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
-Sk33ze,sk33ze,Skeeze,skeeze
+Sk33ze,sk33ze,Skeeze,skeeze,sk3
 Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher
 Sky Era,sky era
 sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
