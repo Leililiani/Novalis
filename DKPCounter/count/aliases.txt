@@ -380,7 +380,7 @@ Rikimarro,riki,rikim,marro,rikki
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
-Rochambeau,roch,rocham
+Rochambeau,roch,rocham,roc
 Roda,roda
 Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
 Roguepower,Rp,roguepower,rp,rougepower
