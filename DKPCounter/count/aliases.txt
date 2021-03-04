@@ -53,7 +53,7 @@ BlackRhinoJr,Blackrhino,rhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv
 Black Cobra,blackcobra,cobra
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
-Bloodsweezy,blood,bloods,sweezy
+Bloodsweezy,blood,bloods,sweezy,bloodsweez
 BlueGlow
 Bobymage,Boby,bobymage,boby
 bone7,bone
@@ -90,7 +90,7 @@ Clinch,clich
 Cloudstorm,cloud,storm,cloud storm
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
-Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss
+Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
 Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
@@ -123,7 +123,7 @@ Donatello,Don,donatello,don,Dona,dona
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
 Dragole,drago,dragol,dragone
-DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons
+DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
 DRUID,druid,DRU1D,dru1d,drud
@@ -150,7 +150,7 @@ FastBlade,fb,fast,blade,fast blade
 Fei,Fie,fei,fie
 Filet Mignon,filet mignon,Filet,filet,fillet
 Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
-FireAndFire,Fnf,fireandfire,fnf
+FireAndFire,Fnf,fireandfire,fnf,fire and fire,fireand
 Firecrotch,firecrotch,FC,fc
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs,Fire,fire
@@ -165,7 +165,7 @@ Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
 FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio,galoi,gaio,galli,halio
+Galio,galio,galoi,gaio,galli,halio,gal
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
@@ -193,6 +193,7 @@ GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa,heals
+HealsonWheels,wheels,wheel,healson,heals on
 Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
 Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
@@ -208,7 +209,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -260,6 +261,7 @@ Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
 Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani
 Lendoerl,lendoerl,Len,len,Lend,lend,landoerl,lendoer1,lendorl,lendoer,lendoeri
+Leo mdeivel,Leo,leomdeivel,mdeivel
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
@@ -359,7 +361,8 @@ Proteus Prime,proteus prime
 Purepk9r,pk9r
 Pyropete,pyro
 Quickie,quickie
-Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick
+Quickscope,quikscope
+Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick,quick steal
 QuickStriker
 R0,ro,Ro,r0
 Radner,rad,radn
@@ -410,6 +413,7 @@ sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soe,soe
+Soul1
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
 Soulless,soulless,Soul,soul
 Spacemaker 300,Spacemaker,space,Space,spacemaker3000
@@ -475,7 +479,7 @@ Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr,valeria,balyria,valria,valrya
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy,vedrch,vedrichmcroy
+Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved,vedrich mcroy,veld,veldrich,velrich,vedrichmccroy,vedrch,vedrichmcroy,verd
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr,veldrich jr
 Vendy,vend,vendu
 Vestas,vestas
