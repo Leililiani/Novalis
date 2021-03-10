@@ -8,6 +8,7 @@
 2Quick,2quick,TooQuick,tooquick,ToQuick,2quik
 3rd Eye,3rd,third,eye,3rdeye
 5inch,inch,5
+5hade,shade
 Accord,Acc,accord,acc
 Adam09,Adam,adam
 Aemis,aemis
@@ -413,9 +414,9 @@ sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soe,soe
-Soul1
+Soul1,soul
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
-Soulless,soulless,Soul,soul
+Soulless,soulless
 Spacemaker 300,Spacemaker,space,Space,spacemaker3000
 SpartanIII,Spartan
 Speedz,speedz,Speed,speed,Sz,sz
