@@ -9,6 +9,7 @@
 3rd Eye,3rd,third,eye,3rdeye
 5inch,inch,5
 5hade,shade
+Accident,acci,accid
 Accord,Acc,accord,acc
 Adam09,Adam,adam
 Aemis,aemis
@@ -89,9 +90,10 @@ Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
 Cloudstorm,cloud,storm,cloud storm
+Colby1,colb,col,colby
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
-Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina
+Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina,cristis
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
 Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
@@ -326,6 +328,7 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
+N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci,narcis,narcise
@@ -350,8 +353,8 @@ Oxygen,oxy,gen
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
-Peachyy,peachy,peach
-PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh
+Peachyy,peachy,peach,peachhy
+PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
