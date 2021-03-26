@@ -271,7 +271,7 @@ LewTheGod,lew
 LiamX,Liam,liamx,liam
 Lianna,lia,lian,liann
 Lifebonds,Lb,lifebonds,lb
-LifeGuard,Lg,lifeguard,lg
+LifeGuard,Lg,lifeguard,lg,life
 Lightly69,light,lightly,lighty,lighty69
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
@@ -279,7 +279,7 @@ LittleH,H,little h,h,lh
 Little Monster,littlem,monster,lm,little mister,little,littlemonster
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama,ilama,iiama
-Lock Block,lock block
+Lock Block,lock block,lock
 LockBlock,lockblock
 Longgg,Longg,Long,longgg,longg,long
 LookAtme,lookatme,look,Look
@@ -328,7 +328,7 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
-N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee
+N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci,narcis,narcise
@@ -419,7 +419,7 @@ Sobriety,Sob,sobriety,sob
 Soe,soe
 Soul1,soul
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
-Soulless,soulless
+Soulless,soulless,soulles
 Spacemaker 300,Spacemaker,space,Space,spacemaker3000
 SpartanIII,Spartan
 Speedz,speedz,Speed,speed,Sz,sz
@@ -472,6 +472,7 @@ Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
+Try Again,try,tryagain,again
 Twisted Rogue,twisted,twist,twiste
 Tymur,tymur,Ty,ty,Tym,tym
 Ungodly,ungodly
