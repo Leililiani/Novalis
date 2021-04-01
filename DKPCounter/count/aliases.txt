@@ -3,7 +3,7 @@
 21
 2po,po
 00Zedd00,Zedd,Zed,zed,zedd
-0Zeus0,Zeus,zeus
+0Zeus0,Zeus,zeus,ozeuso,ozueso
 1Eleven1,11,eleven
 2Quick,2quick,TooQuick,tooquick,ToQuick,2quik
 3rd Eye,3rd,third,eye,3rdeye
@@ -46,6 +46,7 @@ Azona,azona,Zona,zona,az
 Bangin,Bang,bangin,bang
 BapeLord,bapelord,Bape,bape,Bap,bap
 Bashbashbash,Bash,Bashbashbash,bash
+Baybee,bay,bayb,baybe,baby
 Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
@@ -328,7 +329,7 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
-N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee
+N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci,narcis,narcise
@@ -353,8 +354,8 @@ Oxygen,oxy,gen
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
-Peachyy,peachy,peach,peachhy
-PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel
+Peachyy,peachy,peach,peachhy,peachhyy
+PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel,pehl,phil
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
