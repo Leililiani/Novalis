@@ -1,3 +1,4 @@
+0blivion,Oblivion,0b,Ob,oblivion,ob,0bliv,Obliv,obliv
 000000000000000,00000,0000,000,00,0
 21
 2po,po
@@ -296,8 +297,8 @@ Macky
 Madara Uchiha,Madara,madara urchiha,madara
 Maev,mae,meave,meav
 Maga,Mag,maga,mag
-Magicest,magi
-MagicMerlin,magic,merlin,magic merlin,megic,megicmerlin,megic merlin
+Magicest,magi,magic
+MagicMerlin,merlin,magic merlin,megic,megicmerlin,megic merlin
 Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
