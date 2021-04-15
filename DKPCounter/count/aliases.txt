@@ -204,7 +204,7 @@ Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
 HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi,hiiiiiiiii,hiiii
-Holmes,holme,holm
+Holmes,holme,holm,holmens
 Hostile,hostile
 Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
@@ -326,7 +326,7 @@ Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
 MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
 MrRogue,Mr,mrrogue,mr,mrrouge
-MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty
+MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty
 mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
 Msboby,msboby
 Mukk,Muk,mukk,muk
