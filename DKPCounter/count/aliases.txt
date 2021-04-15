@@ -197,8 +197,8 @@ Guyun,Guy,guyun,guy
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 Headhunterz,headhunter,head
 HealingSpells,healing
-HealsFromAbove,Hfa,healsfromabove,hfa,heals
-HealsonWheels,wheels,wheel,healson,heals on
+HealsFromAbove,Hfa,healsfromabove,hfa
+HealsonWheels,wheels,wheel,healson,heals on,heals
 Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
 Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
