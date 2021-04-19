@@ -22,7 +22,7 @@ AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
 Alcohol,alcohol,Alchol,alchol
 Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
-Alpi,alpi,Alp,alp
+Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita
 Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
@@ -169,6 +169,7 @@ Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
+Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
@@ -374,7 +375,7 @@ Purepk9r,pk9r
 Purpose,purp
 Pyropete,pyro
 Quickie,quickie
-Quickscope,quikscope
+Quickscope,quikscope, quick scope
 Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick,quick steal
 QuickStriker
 R0,ro,Ro,r0
@@ -390,7 +391,9 @@ Rebound,reb,rebo
 Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump
+Reverie,rev,reve,rever,reveri
 Revive,revive
+Rhinoking1,rhino,rhinoking,rhino king,king1
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright
 Rikimarro,riki,rikim,marro,rikki
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
