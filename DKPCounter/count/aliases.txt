@@ -53,7 +53,7 @@ Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
-BlackRhinoJr,Blackrhino,rhino
+BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash
 Black Cobra,blackcobra,cobra
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
@@ -199,7 +199,7 @@ GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa
-HealsonWheels,wheels,wheel,healson,heals on,heals
+HealsonWheels,wheels,wheel,healson,heals on,heals,healsonwhels
 Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
 Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
@@ -351,7 +351,7 @@ Noblesse,noblesse
 NugNug,nugnug,Nug,nug
 Nyx,nyx
 OG Mudbone,OG,og mudbone,og
-Ojah,oh ah,oj
+Ojah,oh ah,oj,joah
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
