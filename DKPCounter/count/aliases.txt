@@ -216,7 +216,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -251,6 +251,7 @@ Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
+Killua,killu,kilu,kill
 Kinglad,king,lad
 Kittenkicker,kitten,kitt,kit,kicker,kick,kittenkick,:(
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
@@ -311,7 +312,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -410,7 +411,7 @@ Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal,royal ninja,ninja
 Royalpain
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
-Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs
+Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
@@ -530,7 +531,7 @@ Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
-xRapid,xrapidd,rapid,rapidd,rapi,rapif
+xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster
