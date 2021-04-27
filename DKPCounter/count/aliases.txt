@@ -199,7 +199,7 @@ GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa
-HealsonWheels,wheels,wheel,healson,heals on,heals,healsonwhels
+HealsonWheels,wheels,wheel,healson,heals on,heals,healsonwhels,wherls
 Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
 Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
@@ -251,7 +251,7 @@ Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
-Killua,killu,kilu,kill
+Killua,killu,kilu,kill,killua13
 Kinglad,king,lad
 Kittenkicker,kitten,kitt,kit,kicker,kick,kittenkick,:(
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
@@ -352,7 +352,7 @@ Noblesse,noblesse
 NugNug,nugnug,Nug,nug
 Nyx,nyx
 OG Mudbone,OG,og mudbone,og
-Ojah,oh ah,oj,joah
+Ojah,oh ah,oj,joah,ojha
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -474,6 +474,7 @@ TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
+TheWino,wino,wimp,thewimp
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
