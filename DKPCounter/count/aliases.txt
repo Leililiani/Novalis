@@ -164,7 +164,7 @@ Fleets,fleet,flee
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
-Forex,rex,for,frorex
+Forex,rex,for,frorex,forecx
 Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
@@ -178,7 +178,7 @@ Garein,garein
 Gauze,gauz,guze,gaze,gause
 Gebu,gebu
 Ghostshot,Ghost,ghostshot,ghost
-Ginsu,gin,gins,ginsi,gisnu
+Ginsu,gin,gins,ginsi,gisnu,gunsu
 Godflame,godflame,Flame,flame,Gf,gf
 Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
@@ -241,7 +241,7 @@ Kahala,kahala,kahal,kaha
 Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
-Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
+Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat,katie macarn
 Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
@@ -392,9 +392,10 @@ Rebound,reb,rebo
 Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump
+ReignWrath,reign,wrath
 Reverie,rev,reve,rever,reveri
 Revive,revive
-Rhinoking1,rhino,rhinoking,rhino king,king1
+Rhinoking1,rhino,rhinoking,rhino king,king1,rhinoking01
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright
 Rikimarro,riki,rikim,marro,rikki
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
@@ -403,7 +404,7 @@ Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
 Rochambeau,roch,rocham,roc
 Roda,roda
 Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
-Roguepower,Rp,roguepower,rp,rougepower
+Roguepower,Rp,roguepower,rp,rougepower,rogue power, rouge power
 Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood,roling,rollingwood
 Rosee eh,rosee eh,Rose,rose
@@ -542,6 +543,7 @@ xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
 xTooxBlackx
 xxdarkroguexx,dr,darkrogue,darkrouge
+XxLoadingxX,load,loading,loadin,xloadingx,xloading
 xxLovelyRoguexx,Lovely,lovely
 XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
