@@ -199,7 +199,7 @@ GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa
-HealsonWheels,wheels,wheel,healson,heals on,heals,healsonwhels,wherls
+HealsonWheels,wheels,wheel,healson,heals on,heals,healsonwhels,wherls,whees
 Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
 Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
@@ -270,7 +270,7 @@ Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
 Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani
 Lendoerl,lendoerl,Len,len,Lend,lend,landoerl,lendoer1,lendorl,lendoer,lendoeri
-Leo mdeivel,Leo,leomdeivel,mdeivel
+Leo mdeivel,Leo,leomdeivel,mdeivel,leo mdeival
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
@@ -352,7 +352,7 @@ Noblesse,noblesse
 NugNug,nugnug,Nug,nug
 Nyx,nyx
 OG Mudbone,OG,og mudbone,og
-Ojah,oh ah,oj,joah,ojha
+Ojah,oh ah,oj,joah,ojha,the ojah
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -460,6 +460,7 @@ Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro,tanji
 Tank of Mabon,tank of mabon,tankofmabon,tank ofmabon,tankof mabon,tank
 Tankie,tankie,Tanki,tanki
 tankasaurus,Tankasaurus
+Teal,tael
 Temperr,Temper,temperr,temper
 Tenacity,tenacity,Ten,ten,tena,tenac,tenisity,tenicity
 TerminNater,Term,Terminnater,terminater,term,termin,terminator
@@ -543,7 +544,7 @@ xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
 xTooxBlackx
 xxdarkroguexx,dr,darkrogue,darkrouge
-XxLoadingxX,load,loading,loadin,xloadingx,xloading
+XxLoadingxX,load,loading,loadin,xloadingx,xloading,xxloading
 xxLovelyRoguexx,Lovely,lovely
 XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
