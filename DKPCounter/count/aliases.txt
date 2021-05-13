@@ -31,6 +31,7 @@ Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
 Arcta,archangel,arc,arct
 Archilies,archil
 Architect,archi,arch,arcitect,architecht
+Arcta,archta,arctra
 Armadillo,armadillo,Arma,arma,arna,arm
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
@@ -148,6 +149,7 @@ Episode,Epi,episode,epi
 Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
+Evondarty,evon,darty,evan
 Exio,exio
 Eyemruss,eye,russ,eyem,eyemrus
 False,false
@@ -169,7 +171,7 @@ Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
-Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument
+Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
@@ -251,9 +253,10 @@ Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
-Killua,killu,kilu,kill,killua13
+Killua,killu,kilu,kill,killua13,kilua
 Kinglad,king,lad
 Kittenkicker,kitten,kitt,kit,kicker,kick,kittenkick,:(
+ksfaii,ksf,ksfai
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
@@ -337,7 +340,7 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
-N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1
+N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci,narcis,narcise
@@ -392,6 +395,7 @@ Rebound,reb,rebo
 Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump
+ReevesHealer,reeves
 ReignWrath,reign,wrath
 Reverie,rev,reve,rever,reveri
 Revive,revive
@@ -487,6 +491,7 @@ ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire
 Toxins,toxin,toxine
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
+Trillion,trill,trilion
 Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
 Try Again,try,tryagain,again
@@ -515,6 +520,8 @@ Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
 Vortar Tolan,Vortar,vortar tolan,vortar
 Werts00alts,Wert,werts00alts,wert
 Whimsy,whimsy
+Whisperr,whisper,whisp
+WhiteArrow
 WHITEDEATH,whitedeath,WhiteDeath,Death,death
 Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
@@ -534,7 +541,7 @@ Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
-xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit
+xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster
@@ -554,6 +561,7 @@ Yoshimura,yoshi,yosh
 YourHero,yourhero,YH,yh,Yh,yH
 Ysana Pembroke,Ysana,ysana
 Yuh1,Yuh,yuh
+Zabet,zab
 Zafira,zafira,Fira,fira,zaf
 Zahid,zahid
 Zavier,zavier,Zav,zav,zaviar,xavier,xav
