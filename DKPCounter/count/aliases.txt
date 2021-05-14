@@ -213,6 +213,7 @@ Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
 Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur,hursaaaaaay,Hursaaaaaay,hursaaaaaaay
 I Am,Iam,i am,iam
+I Bite,bite
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
