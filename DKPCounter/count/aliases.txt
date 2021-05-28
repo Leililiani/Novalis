@@ -47,6 +47,7 @@ Azona,azona,Zona,zona,az
 Bangin,Bang,bangin,bang
 BapeLord,bapelord,Bape,bape,Bap,bap
 Bashbashbash,Bash,Bashbashbash,bash
+Baubles,baub,bauble
 Baybee,bay,bayb,baybe,baby
 Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
@@ -129,7 +130,7 @@ Donatello,Don,donatello,don,Dona,dona
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
 Dragole,drago,dragol,dragone
-DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,drag
+DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,drag,dragon slayer,sl4yer
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
 DRUID,druid,DRU1D,dru1d,drud
@@ -243,6 +244,7 @@ JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
 Kahala,kahala,kahal,kaha
 Kalhalla,kalhala
 Kalina,kalina,Kal,kal
+Kamii,kami
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat,katie macarn
 Katrak,katrak,rak
@@ -254,7 +256,7 @@ Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
-Killua,killu,kilu,kill,killua13,kilua
+Killua,killu,kilu,kill,killua13,kilua,kill us
 Kinglad,king,lad
 Kittenkicker,kitten,kitt,kit,kicker,kick,kittenkick,:(
 ksfaii,ksf,ksfai
@@ -373,7 +375,7 @@ Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
-Potatochip,potato,potato chip,pitatochip,pitato chip
+Potatochip,potato,potato chip,pitatochip,pitato chip,patato
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
 Purepk9r,pk9r
@@ -459,7 +461,7 @@ Swish,swish
 Swishy,swishy,swshy
 Taborlin,taborlin.Tab,tab
 Taffy,taffy
-Tagus,tagus,Tag,tag
+Tagus,tagus,Tag,tag,tangu
 Talon,tal,talo,tali,talonkarrde
 Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro,tanji
 Tank of Mabon,tank of mabon,tankofmabon,tank ofmabon,tankof mabon,tank
