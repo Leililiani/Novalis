@@ -31,7 +31,7 @@ Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
 Arcta,archangel,arc,arct
 Archilies,archil
 Architect,archi,arch,arcitect,architecht
-Arcta,archta,arctra
+Arcta,archta,arctra,acrta,areta
 Armadillo,armadillo,Arma,arma,arna,arm
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
@@ -88,7 +88,7 @@ Cheering T,Cheering,Cheer,cheering t,cheering,cheer,CheeringT,cheeringt
 Chele,chele
 ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
-Chipmunk,Chip,chipmunk,chip
+Chipmunk,munk
 Chokachi,chok,Chok
 Cinch,cinch
 Clayton369,clayton,clay
@@ -138,6 +138,7 @@ DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
 Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin
+Eandra,eand,ean
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
 ElDiablo,ElDia,eldiablo,eldia
@@ -150,6 +151,7 @@ Episode,Epi,episode,epi
 Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
+etoik,eto,etok,etoi
 Evondarty,evon,darty,evan
 Exio,exio
 Eyemruss,eye,russ,eyem,eyemrus
@@ -174,7 +176,7 @@ Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from
 FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio
+Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
@@ -214,7 +216,7 @@ Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
 Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur,hursaaaaaay,Hursaaaaaay,hursaaaaaaay
 I Am,Iam,i am,iam
-I Bite,bite
+I Bite,bite,ibite
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
@@ -375,7 +377,7 @@ Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
-Potatochip,potato,potato chip,pitatochip,pitato chip,patato
+Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
 Purepk9r,pk9r
@@ -384,10 +386,11 @@ Pyropete,pyro
 Quickie,quickie
 Quickscope,quikscope, quick scope
 Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick,quick steal
-QuickStriker
+QuickStriker,quickstrikee
 R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
+Rampage,rampageeex
 RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin,ranged assassin
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
@@ -435,7 +438,7 @@ Sk33ze,sk33ze,Skeeze,skeeze,sk3
 Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher
 Sky Era,sky era
 sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
-Sneakyattack,sneaky attack
+Sneakyattack,sneaky attack,sneackyattack
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soe,soe
@@ -483,7 +486,7 @@ TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
-TheWino,wino,wimp,thewimp
+TheWino,wino,wimp,thewimp,the wino
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
@@ -521,7 +524,7 @@ Villain,villian
 Viscaria,Visc,Vis,viscaria,visc,vis,viascaria
 Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
 Vortar Tolan,Vortar,vortar tolan,vortar
-Werts00alts,Wert,werts00alts,wert
+Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt
 Whimsy,whimsy
 Whisperr,whisper,whisp
 WhiteArrow
