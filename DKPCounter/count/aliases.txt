@@ -386,11 +386,11 @@ Pyropete,pyro
 Quickie,quickie
 Quickscope,quikscope, quick scope
 Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick,quick steal
-QuickStriker,quickstrikee
+QuickStriker,quickstrikee,quikstrikee,quick strikee
 R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
-Rampage,rampageeex
+Rampage,rampageeex,ramp,rampageex
 RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin,ranged assassin
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
