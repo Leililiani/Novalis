@@ -160,10 +160,10 @@ FastBlade,fb,fast,blade,fast blade
 Fei,Fie,fei,fie
 Filet Mignon,filet mignon,Filet,filet,fillet
 Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
-FireAndFire,Fnf,fireandfire,fnf,fire and fire,fireand
+FireAndFire,Fnf,fireandfire,fnf,fire and fire,fireand,faf,fire
 Firecrotch,firecrotch,FC,fc
 Fired,fired
-Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs,Fire,fire
+Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
 Fleets,fleet,flee
 Flexypants,flex,flexy
@@ -222,7 +222,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -310,7 +310,7 @@ Maev,mae,meave,meav
 Maga,Mag,maga,mag
 Magicest,magi,magic,magicet
 MagicMerlin,merlin,magic merlin,megic,megicmerlin,megic merlin
-Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison
+Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
 MaraJade,mara,jade,marja,mj
@@ -327,7 +327,7 @@ Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
 Miss Angelina,Angelina,miss angelina,angelina
 Missfired,missfired
 MisterWC,Mrwc,misterwc,mrwc
-Mo Mo,Momo,mo mo,momo,Mo,mo,mo-mo
+Mo Mo,Momo,mo mo,momo,Mo,mo,mo-mo,mono
 Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
@@ -345,7 +345,7 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
-N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o
+N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci,narcis,narcise
@@ -371,7 +371,7 @@ Oxygen,oxy,gen
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
-Peachyy,peachy,peach,peachhy,peachhyy
+Peachyy,peachy,peach,peachhy,peachhyy,peacyy
 PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel,pehl,phil
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
@@ -386,7 +386,7 @@ Pyropete,pyro
 Quickie,quickie
 Quickscope,quikscope, quick scope
 Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick,quick steal
-QuickStriker,quickstrikee,quikstrikee,quick strikee
+QuickStriker,quickstrikee,quikstrikee,quick strikee,quickstrike
 R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
@@ -406,7 +406,7 @@ ReignWrath,reign,wrath
 Reverie,rev,reve,rever,reveri
 Revive,revive
 Rhinoking1,rhino,rhinoking,rhino king,king1,rhinoking01
-Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright
+Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright,rick style
 Rikimarro,riki,rikim,marro,rikki
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
@@ -550,7 +550,7 @@ XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonatex,Res,resonate,res,xres,xresonate
-xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster
+xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster,rogue master
 xRoYaLx
 xShionx,shi,shion,xshion,shionx
 xSweetiex,Sweetie,sweetie
