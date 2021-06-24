@@ -52,7 +52,7 @@ Baybee,bay,bayb,baybe,baby
 Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
-Berry Iceman,berry,iceman
+Berry Iceman,berry,iceman,beryy
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
 BlackRhinoJr,Blackrhino
@@ -113,7 +113,7 @@ Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz
 Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
-Darky69,darky,69
+Darky69,darky,69,dark69
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
@@ -173,7 +173,7 @@ Forex,rex,for,frorex,forecx
 Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
-Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
+Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq
@@ -287,7 +287,7 @@ LiamX,Liam,liamx,liam
 Lianna,lia,lian,liann
 Lifebonds,Lb,lifebonds,lb
 LifeGuard,Lg,lifeguard,lg,life
-Lightly69,light,lightly,lighty,lighty69
+Lightly69,light,lightly,lighty,lighty69,litghty69
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
 LittleH,H,little h,h,lh
@@ -320,7 +320,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -336,7 +336,7 @@ Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
 MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
 MrRogue,Mr,mrrogue,mr,mrrouge
-MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty
+MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty,meaty,mrsmeaty
 mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
 Msboby,msboby
 Mukk,Muk,mukk,muk
@@ -345,7 +345,8 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
-N30p1r4t3,Neo,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1
+N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1
+Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 Narcisse,narc,narci,narcis,narcise
@@ -437,6 +438,7 @@ Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze,sk3
 Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher
 Sky Era,sky era
+Slasher42,slash,slasher
 sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
 Sneakyattack,sneaky attack,sneackyattack
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
@@ -533,7 +535,7 @@ Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
-Windward,Wind,windward,wind,windy,winward
+Windward,Wind,windward,wind,windy,winward,win
 Wiro,wiro
 Wisteria,wist,wister,wisy
 XBalanque,xbal,x,balanque,bal,xbalan,xball
@@ -549,7 +551,7 @@ xHoneyx,Honey,honey
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
-xResonatex,Res,resonate,res,xres,xresonate
+xResonatex,Res,resonate,res,xres,xresonate,reso
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster,rogue master
 xRoYaLx
 xShionx,shi,shion,xshion,shionx
@@ -572,7 +574,7 @@ Zafira,zafira,Fira,fira,zaf
 Zahid,zahid
 Zavier,zavier,Zav,zav,zaviar,xavier,xav
 Zapp,zapp,Zap,zap
-Zealot,Z,Zea,zealot,z,zea
+Zealot,Z,Zea,zealot,z,zea,zeal
 Zeero,Zero,zeero,zero
 Zenitsu,zenitsu,Zen,zen,zenitus
 Zn,zn
