@@ -169,7 +169,7 @@ Fleets,fleet,flee
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
-Forex,rex,for,frorex,forecx
+Forex,rex,for,frorex,forecx,fore
 Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
@@ -336,7 +336,7 @@ Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
 MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
 MrRogue,Mr,mrrogue,mr,mrrouge
-MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty,meaty,mrsmeaty
+MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty,meaty,mrsmeaty,mrscheamty
 mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
 Msboby,msboby
 Mukk,Muk,mukk,muk
