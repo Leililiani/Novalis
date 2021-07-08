@@ -15,7 +15,7 @@ Adam09,Adam,adam
 Aemis,aemis
 Aetna,aetna
 Ahava,aha,shaba
-Ajentj,ajentj,aj,Aj,ajent,aje
+Ajentj,ajentj,aj,Aj,ajent,aje,ajenj
 Akeno,akeno
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
@@ -98,7 +98,7 @@ Cloudstorm,cloud,storm,cloud storm
 Colby1,colb,col,colby
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
-Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina,cristis,christinaa
+Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina,cristis,christinaa,cristina,cristinaa,christina
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
 Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
@@ -138,7 +138,7 @@ DRUID,druid,DRU1D,dru1d,drud
 DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
-Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino
+Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin
 Eandra,eand,ean,enadra
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
@@ -186,6 +186,7 @@ Gebu,gebu
 Ghostshot,Ghost,ghostshot,ghost
 Ginsu,gin,gins,ginsi,gisnu,gunsu
 Godflame,godflame,Flame,flame,Gf,gf
+GodlyDruid,godly
 Godstrike,God,Gs,godstrike,god,gs,godstrilke
 GodTank,Gt,godtank,gt
 g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
@@ -237,7 +238,7 @@ Infused,infused,Infuse,infuse
 Ino,lno
 Interruption,Interrupt,Inter,interruption,interrupt,inter
 IronFist,iron,fist,xironfistx
-Iseabal,isea,ise,isaebel,bale,isabel
+Iseabal,isea,ise,isaebel,bale,isabel,iseabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
@@ -263,7 +264,7 @@ Killshot,Ks,killshot,ks
 Killua,killu,kilu,kill,killua13,kilua,kill us
 Kinglad,king,lad
 Kittenkicker,kitten,kitt,kit,kicker,kick,kittenkick,:(
-ksfaii,ksf,ksfai
+ksfaii,ksf,ksfai,kasfaii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
@@ -284,7 +285,7 @@ Leo mdeivel,Leo,leomdeivel,mdeivel,leo mdeival
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
-Lexion,lex,lexicon
+Lexion,lex,lexicon,lexionn
 LiamX,Liam,liamx,liam
 Lianna,lia,lian,liann,liana
 Lifebonds,Lb,lifebonds,lb
@@ -322,7 +323,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
@@ -389,11 +390,12 @@ Pyropete,pyro
 Quickie,quickie
 Quickscope,quikscope, quick scope
 Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick,quick steal
-QuickStriker,quickstrikee,quikstrikee,quick strikee,quickstrike
+QuickStriker
+Quickstrike,quickstrikee,,quikstrikee,quick strikee
 R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
-Rampage,rampageeex,ramp,rampageex,rampag
+Rampage,rampageeex,ramp,rampageex,rampag,rampagee
 RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin,ranged assassin
 RangerIT,IT,ranger it,it
 Rapheal,rapheal,Rap,rap
@@ -551,9 +553,9 @@ Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
-xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid
+xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
-xResonatex,Res,resonate,res,xres,xresonate,reso,xreso
+xResonatex,Res,resonate,res,xres,xresonate,reso
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster,rogue master
 xRoYaLx
 xShionx,shi,shion,xshion,shionx
