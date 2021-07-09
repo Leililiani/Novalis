@@ -62,7 +62,7 @@ BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
 Bloodsweezy,blood,bloods,sweezy,bloodsweez
 BlueGlow
 Bobymage,Boby,bobymage,boby
-bone7,bone
+Bone7,bone
 Bonlucky,Bon,bonlucky,bon
 BossMaster,bossmaster,Boss,boss master
 Bowner,Bow,Boner,bowner,bow,boner
@@ -152,7 +152,7 @@ Episode,Epi,episode,epi
 Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
-etoik,eto,etok,etoi
+Etoik,eto,etok,etoi
 Evondarty,evon,darty,evan
 Exio,exio
 Eyemruss,eye,russ,eyem,eyemrus
@@ -263,8 +263,9 @@ Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
 Killua,killu,kilu,kill,killua13,kilua,kill us
 Kinglad,king,lad
-Kittenkicker,kitten,kitt,kit,kicker,kick,kittenkick,:(
-ksfaii,ksf,ksfai,kasfaii
+Kit Kat,kitkat,kit,kat,tik tak
+Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
+Ksfaii,ksf,ksfai,kasfaii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
@@ -279,7 +280,7 @@ Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
-Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani
+Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani,leiliani
 Lendoerl,lendoerl,Len,len,Lend,lend,landoerl,lendoer1,lendorl,lendoer,lendoeri
 Leo mdeivel,Leo,leomdeivel,mdeivel,leo mdeival
 Lesniik,lesnik,les,lesn,niik,less,lesiik
@@ -539,7 +540,7 @@ Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
-Windward,Wind,windward,wind,windy,winward,win
+Windward,Wind,windward,wind,windy,winward,win,windward windward
 Wiro,wiro
 Wisteria,wist,wister,wisy
 XBalanque,xbal,x,balanque,bal,xbalan,xball
