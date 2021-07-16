@@ -30,8 +30,8 @@ Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
 Arcta,archangel,arc,arct
 Archilies,archil
-Architect,archi,arch,arcitect,architecht
-Arcta,archta,arctra,acrta,areta
+Architect,archi,arch,arcitect,architecht,architech
+Arcta,archta,arctra,acrta,areta,arcra
 Armadillo,armadillo,Arma,arma,arna,arm
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
@@ -132,14 +132,14 @@ Donatello,Don,donatello,don,Dona,dona
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
 Dragole,drago,dragol,dragone
-DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,drag,dragon slayer,sl4yer
+DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,drag,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
 DRUID,druid,DRU1D,dru1d,drud
 DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
-Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin
+Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin,dunk\,dunnkin
 Eandra,eand,ean,enadra
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
@@ -175,7 +175,7 @@ Forex,rex,for,frorex,forecx,fore
 Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
-Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth
+Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq
@@ -213,7 +213,7 @@ Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
 HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi,hiiiiiiiii,hiiii
-Holmes,holme,holm,holmens,homes
+Holmes,holme,holm,holmens,homes,homles
 Hostile,hostile
 Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
@@ -252,7 +252,7 @@ Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kamii,kami
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
-Kartos,kart,kar,kartos78,kartox78
+Kartos,kart,kar,kartos78,kartox78,kratos
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat,katie macarn
 Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
@@ -352,7 +352,7 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
-N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee
+N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee,ne0
 Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
@@ -380,7 +380,7 @@ OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
 Peachyy,peachy,peach,peachhy,peachhyy,peacyy
-PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel,pehl,phil
+PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel,pehl,phil,pehlv,pelv,phelivanbey
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
@@ -412,7 +412,7 @@ Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump
 ReevesHealer,reeves
 ReignWrath,reign,wrath
-Renaissance,ren,renais,renaise
+Renaissance,ren,renais,renaise,rena,renai,rennaisance,reinassance
 Reverie,rev,reve,rever,reveri
 Revive,revive
 Rhinoking1,rhino,rhinoking,rhino king,king1,rhinoking01
@@ -513,7 +513,7 @@ Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
 Try Again,try,tryagain,again,tru
 Twisted Rogue,twisted,twist,twiste
-Tymur,tymur,Ty,ty,Tym,tym
+Tymur,tymur,Ty,ty,Tym,tym,ty ur
 Ungodly,ungodly
 UrMom69,ur,urm,urmom,mom,mom69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
@@ -560,7 +560,7 @@ xHoneyx,Honey,honey
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
-xResonatex,Res,resonate,res,xres,xresonate,reso
+xResonate,Res,resonate,res,xres,xresonate,reso,xresonatex
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster,rogue master
 xRoYaLx
 xShionx,shi,shion,xshion,shionx
