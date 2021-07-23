@@ -53,7 +53,7 @@ Baybee,bay,bayb,baybe,baby
 Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
-Berry Iceman,berry,iceman,beryy
+Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
 Blade77,blade
@@ -385,7 +385,7 @@ Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
-Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip
+Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip,portato
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
 Purepk9r,pk9r
@@ -395,7 +395,7 @@ Quickie,quickie
 Quickscope,quikscope, quick scope
 Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick,quick steal
 QuickStriker
-Quickstrike,quickstrikee,quikstrikee,quick strikee,quockstrikee
+Quickstrike,quickstrikee,quikstrikee,quick strikee,quockstrikee,quichstrikee
 R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
@@ -429,8 +429,9 @@ Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood,roling,rollingwood
 Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
-Royalninja,Royal,royalninja,royal,royal ninja,ninja
+Royalninja,Royal,royalninja,royal,royal ninja,ninja,royalnonja
 Royalpain
+Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
@@ -467,7 +468,7 @@ Stabetha,stabetha
 Starrynight54,starrynight54,starry
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
-Stringer,String
+Stringer,String,stinger
 Stu,st
 Sundown,Sun,sundown,sun,sundow
 Supermedo,super,medo,super medo
@@ -482,7 +483,7 @@ Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro,tanji
 Tank of Mabon,tank of mabon,tankofmabon,tank ofmabon,tankof mabon,tank
 Tankie,tankie,Tanki,tanki
 tankasaurus,Tankasaurus
-Targaryen,targ,gary
+Targaryen,targ,gary,tarq
 Teal,tael
 Temperr,Temper,temperr,temper
 Tenacity,tenacity,Ten,ten,tena,tenac,tenisity,tenicity
@@ -536,7 +537,7 @@ Villain,villian
 Viscaria,Visc,Vis,viscaria,visc,vis,viascaria
 Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
 Vortar Tolan,Vortar,vortar tolan,vortar,vortartolan
-Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt,wrest00alt
+Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt,wrest00alt,welts
 Whimsy,whimsy
 Whisperr,whisper,whisp
 WhiteArrow
@@ -571,7 +572,7 @@ xTooxBlackx
 xxdarkroguexx,dr,darkrogue,darkrouge
 XxLoadingxX,load,loading,loadin,xloadingx,xloading,xxloading
 xxLovelyRoguexx,Lovely,lovely
-XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch
+XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch,mlgcluth
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
 xxWarcrusherxx,War,warcrusher,war
 YAMUM101,YAMUM,Mum,mum,yamum,yamom
