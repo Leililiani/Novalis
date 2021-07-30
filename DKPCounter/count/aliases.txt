@@ -123,7 +123,7 @@ DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds
+DeadShadows,dead,shadow,shadows,ds,deadahadows
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
@@ -228,7 +228,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -289,7 +289,7 @@ Leo mdeivel,Leo,leomdeivel,mdeivel,leo mdeival
 Lesniik,lesnik,les,lesn,niik,less,lesiik
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
-Lexion,lex,lexicon,lexionn
+Lexion,lex,lexicon,lexionn,lexi
 LiamX,Liam,liamx,liam
 Lianna,lia,lian,liann,liana
 Lifebonds,Lb,lifebonds,lb
@@ -374,6 +374,7 @@ Ojah,oh ah,oj,joah,ojha,the ojah
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
+Oopsie,oops,oopsi,opsie,opsi
 Oryx
 OwO,owo,0w0
 Owein Colt,owein,owe,colt,oweincolt
