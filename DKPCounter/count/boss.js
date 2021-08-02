@@ -226,7 +226,7 @@ const Boss = {
 
     /** Legacies **/
     LEGACY_150: {
-        aliases: ["legacy150", "legacy_150", "witchfinder", "hopkins", "comrack", "akais", "hurricanes", "typhoons", "garyn", "devestator", "jalan", "paradai", "blizzardgore", "synak", "mono"],
+        aliases: ["legacy150", "legacy_150", "witchfinder", "hopkins", "comrack", "akais", "hurricanes", "typhoons", "garyn", "devestator", "jalan", "paradai", "blizzardgore", "synak"],
         points: {
             camp: 0,
             kill4: 0,
