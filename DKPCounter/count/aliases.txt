@@ -123,7 +123,7 @@ DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds,deadahadows
+DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
@@ -169,6 +169,7 @@ FireAndFire,Fnf,fireandfire,fnf,fire and fire,fireand,faf,fire
 Firecrotch,firecrotch,FC,fc
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
+Firz,firez
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw
 Fleets,fleet,flee
 Flexypants,flex,flexy
@@ -234,7 +235,7 @@ Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImmortalLegend,immortal
 ImperialFlame,imperialflame,IF,if
-ImSoSavage,savage,im,imso,imasavage
+ImSoSavage,savage,im,imso,imasavage,imsosavafe
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Inactive,ina,active
@@ -353,7 +354,7 @@ MukkDruid,mukkdruid
 MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
-MyWorld1,myworld,Myworld
+MyWorld1,myworld,Myworld,myworld11
 N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee,ne0
 Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
@@ -388,7 +389,7 @@ Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
-Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip,portato,potatocho
+Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip,portato,potatocho,potatopchip
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
 Purepk9r,pk9r
@@ -446,12 +447,13 @@ Savos,savos
 Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
+Shipwreck,ship,wreck
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze,sk3
 Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher
 Sky Era,sky era
-Slasher42,slash,slasher
+Slasher42,slash,slasher,dasher
 sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
 Sneakyattack,sneaky attack,sneackyattack
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
