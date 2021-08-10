@@ -24,6 +24,7 @@ Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita
+Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy
 Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
@@ -123,7 +124,7 @@ DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows
+DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
@@ -156,7 +157,7 @@ Episode,Epi,episode,epi
 Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
-Etoik,eto,etok,etoi,etok griffiths
+Etoik,eto,etok,etoi,etok griffiths,etiok
 Evondarty,evon,darty,evan
 Exio,exio
 Eyemruss,eye,russ,eyem,eyemrus
@@ -183,7 +184,7 @@ Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo
-GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv
+GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
 Gauze,gauz,guze,gaze,gause
@@ -226,7 +227,7 @@ I Am,Iam,i am,iam
 I Bite,bite,ibite
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
-ICxRogue,icxrogue,icx,icxr
+ICxRogue,icxrogue,icx,icxr,icxrouge
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
 Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi
@@ -269,14 +270,14 @@ Killua,killu,kilu,kill,killua13,kilua,kill us
 Kinglad,king,lad
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
-Ksfaii,ksf,ksfai,kasfaii,kafaii
+Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
 Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
-LadyFate,ladyfate
+LadyFate,ladyfate,lady
 Lanre,lanre
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
@@ -332,7 +333,7 @@ Medical,medical,Med,med
 Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,on mhhmm,mmhm
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
-Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids
+Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids,misdem
 Miss Angelina,Angelina,miss angelina,angelina
 Missfired,missfired
 MisterWC,Mrwc,misterwc,mrwc
@@ -437,7 +438,7 @@ Royalninja,Royal,royalninja,royal,royal ninja,ninja,royalnonja
 Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
-Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav
+Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
@@ -492,7 +493,7 @@ Targaryen,targ,gary,tarq,targareyn
 Teal,tael
 Temperr,Temper,temperr,temper
 Tenacity,tenacity,Ten,ten,tena,tenac,tenisity,tenicity
-TerminNater,Term,Terminnater,terminater,term,termin,terminator
+TerminNater,Term,Terminnater,terminater,term,termin,terminator,terminnator
 Terz,terz
 Thaika,thai,thaik
 Thanatus,thanatus,Than,than
