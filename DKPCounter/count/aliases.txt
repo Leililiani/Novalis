@@ -95,6 +95,7 @@ ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
 Chipmunk,munk
 Chokachi,chok,Chok
+Cian14,cian
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
@@ -181,7 +182,7 @@ Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
-Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum
+Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta
@@ -440,6 +441,7 @@ Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
+Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
 Sasori12,Sasori,sasori,sasori12
@@ -541,6 +543,7 @@ Vhen,vhen
 Vibrancy,Vib,vibrancy,vib
 Villain,villian
 Viscaria,Visc,Vis,viscaria,visc,vis,viascaria
+Vizzion,vision,vizion
 Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
 Vortar Tolan,Vortar,vortar tolan,vortar,vortartolan
 Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt,wrest00alt,welts
