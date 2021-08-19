@@ -110,6 +110,7 @@ Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
 Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,dd
 Dab,dab
 Dabstar,dabstar
+DaKiller,dakiller75
 Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
@@ -162,7 +163,7 @@ Etoik,eto,etok,etoi,etok griffiths,etiok
 Evondarty,evon,darty,evan
 Exio,exio
 Eyemruss,eye,russ,eyem,eyemrus
-False Warden,false,warden,fw
+False Warden,false,warden,fw,falsewarden
 FastBlade,fb,fast,fast blade
 Fei,Fie,fei,fie
 Filet Mignon,filet mignon,Filet,filet,fillet
@@ -185,7 +186,7 @@ Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo
-GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta
+GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
 Gauze,gauz,guze,gaze,gause
@@ -237,7 +238,7 @@ Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImmortalLegend,immortal
 ImperialFlame,imperialflame,IF,if
-ImSoSavage,savage,im,imso,imasavage,imsosavafe
+ImSoSavage,savage,im,imso,imasavage,imsosavafe,iamsavage,i'msosavage
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Inactive,ina,active
