@@ -15,7 +15,7 @@ Adam09,Adam,adam
 Aemis,aemis
 Aetna,aetna
 Ahava,aha,shaba
-Ajentj,ajentj,aj,Aj,ajent,aje,ajenj,ajenjt,ajenti
+Ajentj,ajentj,aj,Aj,ajent,aje,ajenj,ajenjt,ajenti,ah
 Akeno,akeno
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
@@ -40,6 +40,7 @@ Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
+Autumn,autumnn
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua
 Ayana,aya,ayan
@@ -126,7 +127,7 @@ DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow
+DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
@@ -145,7 +146,7 @@ DRUID,druid,DRU1D,dru1d,drud
 DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
-Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin,dunk\,dunnkin
+Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin,dunk\,dunnkin,shnk
 Eandra,eand,ean,enadra
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
@@ -172,6 +173,7 @@ FireAndFire,Fnf,fireandfire,fnf,fire and fire,fireand,faf,fire
 Firecrotch,firecrotch,FC,fc
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
+Fireworkz,workz
 Firz,firez
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw
 Fleets,fleet,flee
@@ -183,7 +185,7 @@ Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
-Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun
+Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta
@@ -238,7 +240,7 @@ Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImmortalLegend,immortal
 ImperialFlame,imperialflame,IF,if
-ImSoSavage,savage,im,imso,imasavage,imsosavafe,iamsavage,i'msosavage
+ImSoSavage,savage,im,imso,imasavage,imsosavafe,iamsavage,i'msosavage,savage*
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Inactive,ina,active
@@ -338,7 +340,7 @@ Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids,misdem
 Miss Angelina,Angelina,miss angelina,angelina
 Missfired,missfired
-MisterWC,Mrwc,misterwc,mrwc
+MisterWC,Mrwc,misterwc,mrwc,mister
 Mo Mo,Momo,mo mo,momo,Mo,mo,mo-mo,mono
 Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
@@ -516,7 +518,7 @@ Tiff,tiff
 Todins,tod,todi
 Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
-ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire
+ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic
 Toxins,toxin,toxine
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
@@ -559,6 +561,7 @@ Wind Dancer,wind dancer
 Windward,Wind,windward,wind,windy,winward,win,windward windward
 Wiro,wiro
 Wisteria,wist,wister,wisy
+xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
 XBalanque,xbal,x,balanque,bal,xbalan,xball
 xBast,Bast,xbast,bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
@@ -583,7 +586,7 @@ xxCUPIDOxx,cupid,cupido
 xxdarkroguexx,dr,darkrogue,darkrouge
 XxLoadingxX,load,loading,loadin,xloadingx,xloading,xxloading
 xxLovelyRoguexx,Lovely,lovely
-XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch,mlgcluth
+XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch,mlgcluth,clutch
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
 xxWarcrusherxx,War,warcrusher,war
 YAMUM101,YAMUM,Mum,mum,yamum,yamom
