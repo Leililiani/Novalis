@@ -24,7 +24,7 @@ Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita
-Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy
+Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy
 Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
@@ -175,7 +175,7 @@ Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 Fireworkz,workz,fireworks
 Firz,firez,fitz
-FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw,flawlessbladd,flawleasblade
+FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw,flawlessbladd,flawleasblade,flawless blade
 Fleets,fleet,flee
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
@@ -273,6 +273,7 @@ Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
 Killua,killu,kilu,kill,killua13,kilua,kill us
 Kinglad,king,lad
+KingMaybach,kingmay,maybach,king maybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
 Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa
@@ -320,13 +321,13 @@ Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
 Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
-Macky
+Macky,mackey
 Madara Uchiha,Madara,madara urchiha,madara
 Maev,mae,meave,meav
 Maga,Mag,maga,mag
 Magicest,magi,magic,magicet
 MagicMerlin,merlin,magic merlin,megic,megicmerlin,megic merlin
-Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan
+Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan,mansion
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
 MaraJade,mara,jade,marja,mj
