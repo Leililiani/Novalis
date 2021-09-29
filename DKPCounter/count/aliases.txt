@@ -24,7 +24,7 @@ Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita
-Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy
+Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy
 Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
@@ -111,7 +111,7 @@ Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
 Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,dd
 Dab,dab
 Dabstar,dabstar
-DaKiller,dakiller75
+DaKiller,dakiller75,da killer
 Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
@@ -127,7 +127,7 @@ DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads
+DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads,deadshaodws
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
@@ -175,7 +175,7 @@ Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 Fireworkz,workz,fireworks
 Firz,firez,fitz
-FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw,flawlessbladd,flawleasblade,flawless blade
+FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw,flawlessbladd,flawleasblade,flawless blade,flaw 5
 Fleets,fleet,flee
 Flexypants,flex,flexy
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
@@ -189,7 +189,7 @@ Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frume
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta
-Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
+Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan,ganni
 Garein,garein
 Gauze,gauz,guze,gaze,gause
 Gebu,gebu
@@ -241,7 +241,7 @@ Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImmortalLegend,immortal
 ImperialFlame,imperialflame,IF,if
-ImSoSavage,savage,im,imso,imasavage,imsosavafe,iamsavage,i'msosavage,savage*,iamsosavage
+ImSoSavage,savage,im,imso,imasavage,imsosavafe,iamsavage,i'msosavage,savage*,iamsosavage,sabage
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Inactive,ina,active
@@ -260,7 +260,7 @@ Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kamii,kami
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
-Kartos,kart,kar,kartos78,kartox78,kratos,karr
+Kartos,kart,kar,kartos78,kartox78,kratos,karr,jarrod
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat,katie macarn
 Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
@@ -299,7 +299,7 @@ Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
 Lexion,lex,lexicon,lexionn,lexi
 LiamX,Liam,liamx,liam
-Lianna,lia,lian,liann,liana
+Lianna,lia,lian,liann,liana,leanna
 Lifebonds,Lb,lifebonds,lb
 LifeGuard,Lg,lifeguard,lg,life
 Lightly69,light,lightly,lighty,lighty69,litghty69
@@ -320,6 +320,7 @@ LovelyRogue,lovely,xxlovelyrougexx
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
 Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn
+Lute2,lute
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky,mackey
 Madara Uchiha,Madara,madara urchiha,madara
