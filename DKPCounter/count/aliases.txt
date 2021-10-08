@@ -15,7 +15,7 @@ Adam09,Adam,adam
 Aemis,aemis
 Aetna,aetna
 Ahava,aha,shaba
-Ajentj,ajentj,aj,Aj,ajent,aje,ajenj,ajenjt,ajenti,ah,ajeent
+Ajentj,ajentj,aj,Aj,ajent,aje,ajenj,ajenjt,ajenti,ah,ajeent,atentj
 Akeno,akeno
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
@@ -127,7 +127,7 @@ DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads,deadshaodws
+DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads,deadshaodws,deathshadows
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
@@ -255,12 +255,12 @@ Ivan Drago,Ivan,ivan drago,ivan
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
-Kahala,kahala,kahal,kaha,khala
+Kahala,kahala,kahal,kaha,khala,kayla,kuhala
 Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kamii,kami
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
-Kartos,kart,kar,kartos78,kartox78,kratos,karr,jarrod
+Kartos,kart,kar,kartos78,kartox78,kratos,karr,jarrod,martins
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat,katie macarn
 Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
@@ -320,7 +320,7 @@ LovelyRogue,lovely,xxlovelyrougexx
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
 Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn
-Lute2,lute
+Lute2,lute,lite2
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky,mackey
 Madara Uchiha,Madara,madara urchiha,madara
@@ -338,7 +338,7 @@ Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,on mhhmm,mmhm
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,on mhhmm,mmhm,mhhmmmm
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids,misdem
@@ -448,6 +448,7 @@ Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
+Sagittarii,sagitari,sagittari,sagitarii,sagi
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
@@ -582,7 +583,7 @@ xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonate,Res,resonate,res,xres,xresonate,reso,xresonatex
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster,rogue master
-xRoYaLx
+xRoYaLx,xroyalz
 xShionx,shi,shion,xshion,shionx
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
