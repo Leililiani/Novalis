@@ -96,7 +96,7 @@ ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
 Chipmunk,munk
 Chokachi,chok,Chok
-Cian14,cian
+Cian14,cian,cain14
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
@@ -273,7 +273,7 @@ Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
 Killua,killu,kilu,kill,killua13,kilua,kill us
 Kinglad,king,lad
-KingMaybach,kingmay,maybach,king maybach
+KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
 Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa
@@ -447,7 +447,7 @@ Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
-Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw
+Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager
 Sagittarii,sagitari,sagittari,sagitarii,sagi
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
@@ -588,7 +588,7 @@ xShionx,shi,shion,xshion,shionx
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
 xTooxBlackx
-Xul Darkstorm,xul
+Xul Darkstorm,xul,xul darkstrorm
 xxCUPIDOxx,cupid,cupido
 xxdarkroguexx,dr,darkrogue,darkrouge
 XxLoadingxX,load,loading,loadin,xloadingx,xloading,xxloading
