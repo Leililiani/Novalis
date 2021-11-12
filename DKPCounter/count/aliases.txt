@@ -120,6 +120,7 @@ Daliah,dal,dali,dalah,dali's
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
 Darkly,darkly
+Darkstorm
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darky69,darky,69,dark69
 Darouin,darouin
@@ -189,7 +190,7 @@ Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo
-GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta
+GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta,gangster iv
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan,ganni
 Garein,garein
 Gauze,gauz,guze,gaze,gause
@@ -277,7 +278,7 @@ Kinglad,king,lad
 KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
-Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa
+Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
