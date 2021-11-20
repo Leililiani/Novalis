@@ -24,7 +24,7 @@ Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda
-Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange
+Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy
 Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
@@ -100,7 +100,7 @@ Cian14,cian,cain14
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
-Cloudstorm,cloud,storm,cloud storm
+Cloudstorm,cloud,storm,cloud storm,cloud dtorm
 Colby1,colb,col,colby
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
@@ -124,6 +124,7 @@ Darkstorm
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darky69,darky,69,dark69
 Darouin,darouin
+DarthSniper,darth sniper,sniper
 DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
@@ -450,7 +451,7 @@ Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager
-Sagittarii,sagitari,sagittari,sagitarii,sagi
+Sagittarii,sagitari,sagittari,sagitarii,sagi,sag
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
@@ -472,7 +473,7 @@ Sneakyattack,sneaky attack,sneackyattack
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soe,soe
-Soul1,soul
+Soul1,soul,sou1
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
 Soulless,soulless,soulles
 Spacemaker 300,Spacemaker,space,Space,spacemaker3000
@@ -525,7 +526,7 @@ Tiff,tiff
 Todins,tod,todi
 Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
-ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl
+ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl,toxlfire
 Toxins,toxin,toxine
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
