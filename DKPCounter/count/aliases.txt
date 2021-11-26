@@ -124,7 +124,8 @@ Darkstorm
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darky69,darky,69,dark69
 Darouin,darouin
-DarthSniper,darth sniper,sniper
+DarthSniper,darth sniper
+DarkSniper,dark sniper,sniper
 DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
@@ -451,7 +452,7 @@ Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager
-Sagittarii,sagitari,sagittari,sagitarii,sagi,sag
+Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
@@ -586,7 +587,7 @@ xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonate,Res,resonate,res,xres,xresonate,reso,xresonatex
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster,rogue master
-xRoYaLx,xroyalz
+xRoYaLx,xroyalz,roy,royalx
 xShionx,shi,shion,xshion,shionx
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
