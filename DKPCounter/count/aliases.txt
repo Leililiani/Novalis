@@ -24,8 +24,8 @@ Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda
-Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy
-Angler,angler,Angle,angel
+Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy,angel
+Angler,angler,Angle
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
@@ -33,6 +33,7 @@ Arcta,archangel,arc,arct
 Archilies,archil
 Architect,archi,arch,arcitect,architecht,architech
 Arcta,archta,arctra,acrta,areta,arcra
+Arlene Murray,arlene
 Armadillo,armadillo,Arma,arma,arna,arm
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
@@ -47,6 +48,7 @@ Ayana,aya,ayan
 Azena,azena,Zena,zena
 Azenia,azenia,Zenia,zenia
 Azona,azona,Zona,zona,az
+Azure Aura,azure
 Bangin,Bang,bangin,bang
 Bape,bapelord,Bape,bape,Bap,bap
 Bashbashbash,Bash,Bashbashbash,bash
