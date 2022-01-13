@@ -57,6 +57,7 @@ Baubles,baub,bauble
 Baybee,bay,bayb,baybe,baby
 Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
+Benko,benki
 Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen
 BiggieLDN,Big,biggie,big,bihgie,ldn
@@ -143,6 +144,7 @@ Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
 Dima1,Dima,dima1,dima
 Donaldtheduck,Donald,donaldtheduck,donald,donald the duck36
 Donatello,Don,donatello,don,Dona,dona
+Dora Hier,dora,hier
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
 Dragole,drago,dragol,dragone
@@ -268,7 +270,7 @@ Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kamii,kami
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
-Kartos,kart,kar,kartos78,kartox78,kratos,karr,jarrod,martins
+Kartos,kart,kar,kartos78,kartox78,kratos,karr,jarrod,martins,karts78
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat,katie macarn
 Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
@@ -405,6 +407,7 @@ Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
 Peachyy,peachy,peach,peachhy,peachhyy,peacyy
 PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel,pehl,phil,pehlv,pelv,phelivanbey,pehlvanbey
+Penthe,pent,penth,pen
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
@@ -524,7 +527,7 @@ The Diz,Diz,the diz,diz,thediz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
 The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler,thehealer,theh34ler
 The Last Ranger,the last ranger
-The Surgeon,thesurgeon,surgeon
+The Surgeon,thesurgeon,surgeon,the surg
 TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
@@ -539,7 +542,7 @@ Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 Tool
 Torque,torq
-ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl,toxlfire
+ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl,toxlfire,toxi
 Toxins,toxin,toxine
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
@@ -576,7 +579,7 @@ Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt,wrest
 Whimsy,whimsy
 Whisperr,whisper,whisp
 WhiteArrow
-WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath
+WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath,white death
 Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
