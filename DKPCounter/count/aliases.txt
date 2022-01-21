@@ -26,6 +26,7 @@ Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda
 Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy,angel
 Angler,angler,Angle
+Anonymous Beta,anon,anonymous,anonymousebeta
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
@@ -57,7 +58,7 @@ Baubles,baub,bauble
 Baybee,bay,bayb,baybe,baby
 Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
-Benko,benki
+Benko,benki,benk
 Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen
 BiggieLDN,Big,biggie,big,bihgie,ldn
@@ -195,7 +196,7 @@ Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
-Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi
+Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi,frume
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo,galiio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta,gangster iv,ganster
@@ -533,7 +534,7 @@ TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
 TheWino,wino,wimp,thewimp,the wino,thewho
-Thorin Wallace,thorin,wallace
+Thorin Wallace,thorin,wallace,thor
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
@@ -579,7 +580,7 @@ Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt,wrest
 Whimsy,whimsy
 Whisperr,whisper,whisp
 WhiteArrow
-WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath,white death
+WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath,white death,wd
 Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
