@@ -26,7 +26,7 @@ Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda
 Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy,angel
 Angler,angler,Angle
-Anonymous Beta,anon,anonymous,anonymousebeta
+Anonymous Beta,anon,anonymous,anonymousebeta,beta,anonymousbeta,anonbeta
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
@@ -79,7 +79,7 @@ Braden Cole,Braden,braden cole,braden,brad
 Braydan,bray,brayd,brayden,bryadan,braydam
 Bria Bellin,bria,bri,bellin
 Brkn2013,Brkn,brkn2013,brkn
-Bryan33,bryan33,Bryan,bryan,bryon
+Bryan33,bryan33,Bryan,bryan,bryon,brayan
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun
@@ -295,7 +295,7 @@ Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
 LadyFate,ladyfate,lady
-Lanre,lanre
+Lanre,lanre,lan
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
 Ledion,Led,ledion,led
@@ -444,7 +444,8 @@ ReignWrath,reign,wrath
 Renaissance,ren,renais,renaise,rena,renai,rennaisance,reinassance
 Reverie,rev,reve,rever,reveri
 Revive,revive
-Rhinoking1,rhino,rhinoking,rhino king,king1,rhinoking01
+Rhinoking1,rhino1,rhinoking1,rhino king1,king1,rhinoking01,rhinoking
+Rhinokings,rhino,rhino kings,rhino2,rhinokings2,rhino kings2,rhino kings02
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright,rick style
 Rikimarro,riki,rikim,marro,rikki
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
@@ -464,7 +465,7 @@ Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager
-Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius
+Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
@@ -589,7 +590,7 @@ Windward,Wind,windward,wind,windy,winward,win,windward windward
 Wiro,wiro
 Wisteria,wist,wister,wisy
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
-XBalanque,xbal,x,balanque,bal,xbalan,xball
+XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance
 xBast,Bast,xbast,bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
