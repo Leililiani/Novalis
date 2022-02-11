@@ -396,7 +396,7 @@ function getBonusType(name) {
     return null;
 }
 function getLevelBonusTypes() {
-    return [LevelBonusType.LEVEL_150_155, LevelBonusType.LEVEL_155_160, LevelBonusType.LEVEL_160_165, LevelBonusType.LEVEL_165_170, LevelBonusType.LEVEL_170_175, LevelBonusType.LEVEL_180_185, LevelBonusType.LEVEL_185_190, LevelBonusType.LEVEL_190_195, LevelBonusType.LEVEL_195_200, LevelBonusType.LEVEL_200_205, LevelBonusType.LEVEL_205_210, LevelBonusType.LEVEL_210_215, LevelBonusType.LEVEL_215_220, LevelBonusType.LEVEL_220_225, LevelBonusType.LEVEL_225_230, LevelBonusType.LEVEL_230_235, LevelBonusType.LEVEL_235_240];
+    return [LevelBonusType.LEVEL_150_155, LevelBonusType.LEVEL_155_160, LevelBonusType.LEVEL_160_165, LevelBonusType.LEVEL_165_170, LevelBonusType.LEVEL_170_175, LevelBonusType.LEVEL_175_180, LevelBonusType.LEVEL_180_185, LevelBonusType.LEVEL_185_190, LevelBonusType.LEVEL_190_195, LevelBonusType.LEVEL_195_200, LevelBonusType.LEVEL_200_205, LevelBonusType.LEVEL_205_210, LevelBonusType.LEVEL_210_215, LevelBonusType.LEVEL_215_220, LevelBonusType.LEVEL_220_225, LevelBonusType.LEVEL_225_230, LevelBonusType.LEVEL_230_235, LevelBonusType.LEVEL_235_240];
 }
 //where levels is a string such as "150-155"
 function getLevelBonusType(levels) {
