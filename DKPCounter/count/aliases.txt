@@ -216,6 +216,7 @@ g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
 GoodDoMan,good,doman,gooddo,goodoman
 Goonch,goonch
 Goonsquad,goonsquad
+Greengow,green,gow,greengo
 Grimalkin,grimalkin
 Grimheals
 GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
@@ -359,6 +360,7 @@ Miss Angelina,Angelina,miss angelina,angelina
 Missfired,missfired
 MisterWC,Mrwc,misterwc,mrwc,mister
 Mo Mo,Momo,mo mo,momo,Mo,mo,mo-mo,mono
+Mobryn,mobrin,robyn
 Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
@@ -621,6 +623,7 @@ XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch,mlgcluth,clutch,xxmlgc
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
 xxWarcrusherxx,War,warcrusher,war
 YAMUM101,YAMUM,Mum,mum,yamum,yamom
+Yemozoo,yemo,yem,yemoz,yemozo
 Yoshimura,yoshi,yosh
 YourHero,yourhero,YH,yh,Yh,yH
 Ysana Pembroke,Ysana,ysana
