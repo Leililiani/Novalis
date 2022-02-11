@@ -108,6 +108,7 @@ Clinch,clich
 Cloudstorm,cloud,storm,cloud storm,cloud dtorm
 Colby1,colb,col,colby
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
+Corpseman,corpse,corp,corpsman,corpse man,corps man
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina,cristis,christinaa,cristina,cristinaa,christina
 Crixos*,Crix,crixos,crix
@@ -225,6 +226,7 @@ Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
 Guyun,Guy,guyun,guy
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
+Halder,harder,hader,hald,hal,hard
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa
@@ -418,7 +420,7 @@ ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
 Purepk9r,pk9r
 Purpose,purp
-Pyromancer,pyro
+Pyromancer,pyro,pyrom,prom
 Pyropete,pete
 Quickie,quickie
 Quickscope,quikscope, quick scope
