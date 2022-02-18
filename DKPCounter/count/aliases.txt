@@ -43,7 +43,7 @@ Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
-Autumn,autumnn,autum
+Autumn,autumnn,autum,aut
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua
 Ayana,aya,ayan
@@ -223,7 +223,7 @@ GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
 Grimoire,grimo,grim
 Grinding,grind,grinder,griding
 Gspot,gspot
-Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
+Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard,guardianangel
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
 Guyun,Guy,guyun,guy
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
@@ -417,6 +417,7 @@ Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
+Pop Tarts,pop,poptarts,poptart,pop tart
 Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip,portato,potatocho,potatopchip
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
@@ -480,6 +481,7 @@ Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
 Shipwreck,ship,wreck
+Shooter,shooter guy,shooterguy
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze,sk3
