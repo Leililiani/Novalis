@@ -65,7 +65,7 @@ BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
 Blade77,blade
 BlackRhinoJr,Blackrhino
-BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs
+BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
 Black Cobra,blackcobra,cobra
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
 Bloodsweezy,blood,bloods,sweezy,bloodsweez
@@ -101,7 +101,7 @@ ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
 Chipmunk,munk
 Chokachi,chok,Chok
-Cian14,cian,cain14
+Cian14,cian,cain14,ciam
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
@@ -117,13 +117,13 @@ Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
 Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,dd
 Dab,dab
 Dabstar,dabstar
-DaKiller,dakiller75,da killer,dakikler
+DaKiller,dakiller75,da killer,dakikler,dakilller
 Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble
 Dakuna,Dak,dakuna,dak
-Daliah,dal,dali,dalah,dali's
+Daliah,dal,dali,dalah,dali's,dalilah
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
 Darkly,darkly
@@ -137,7 +137,7 @@ DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads,deadshaodws,deathshadows
+DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads,deadshaodws,deathshadows,dead shadows
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
@@ -223,11 +223,11 @@ GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
 Grimoire,grimo,grim
 Grinding,grind,grinder,griding
 Gspot,gspot
-Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard,guardianangel
+Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard,guardianangel,gurdian angel
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
 Guyun,Guy,guyun,guy
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
-Halder,harder,hader,hald,hal,hard
+Halder,harder,hader,hald,hal,hard,alder
 Headhunterz,headhunter,head
 HealingSpells,healing
 HealsFromAbove,Hfa,healsfromabove,hfa
@@ -249,7 +249,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr,icxrouge
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi,illunis,ilunis
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -382,7 +382,7 @@ MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld,myworld11
-N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee,ne0
+N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee,ne0,n30p1r4te
 Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
@@ -436,6 +436,7 @@ Ragz,ragz
 Rampage,rampageeex,ramp,rampageex,rampag,rampagee
 RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin,ranged assassin
 RangerIT,IT,ranger it,it
+Rangi,rang
 Rapheal,rapheal,Rap,rap
 Raven Spike,spike,raven,ravenspike
 Raznik,raz,razn,razniik
@@ -597,7 +598,7 @@ Wiro,wiro
 Wisteria,wist,wister,wisy
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
 XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance
-xBast,Bast,xbast,bast
+xBast,Bast,xbast,bast,x bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
