@@ -1,5 +1,5 @@
 0blivion,Oblivion,0b,Ob,oblivion,ob,0bliv,Obliv,obliv
-000000000000000,00000,0000,000,00,0
+000000000000000,000000,00000,0000,000,00,0
 21
 2po,po
 00Zedd00,Zedd,Zed,zed,zedd
@@ -23,7 +23,7 @@ Alcohol,alcohol,Alchol,alchol
 Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
-AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda
+AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda,america
 Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy,angel
 Angler,angler,Angle
 Anonymous Beta,anon,anonymous,anonymousebeta,beta,anonymousbeta,anonbeta
@@ -60,7 +60,7 @@ Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
 Benko,benki,benk
 Berkanf,Berk,berkan,berk
-Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen
+Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen,berry ice
 BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
 Blade77,blade
@@ -82,7 +82,7 @@ Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon,brayan
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj
-Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun
+Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
@@ -121,9 +121,9 @@ DaKiller,dakiller75,da killer,dakikler,dakilller
 Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
-DailyDouble,daily double,bailydouble,daily,bailydouble
+DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il
 Dakuna,Dak,dakuna,dak
-Daliah,dal,dali,dalah,dali's,dalilah
+Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
 Darkly,darkly
@@ -333,7 +333,7 @@ LoveIsMe,loveisme,Love,love
 LovelyRogue,lovely,xxlovelyrougexx
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
-Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn,luminious
+Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn,luminious,lunin
 Lute2,lute,lite2
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky,mackey
@@ -369,7 +369,7 @@ Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
 Mr. Tiger,mr tiger,tiger,mrtiger
-MrLahey,mr lahey,lahey
+MrLahey,mr lahey,lahey,mr lahy
 MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
 MrRogue,Mr,mrrogue,mrrouge
 MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty,meaty,mrsmeaty,mrscheamty
@@ -515,8 +515,8 @@ Supermedo,super,medo,super medo
 Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
 Swish,swish
 Swishy,swishy,swshy,swisy
-Taborlin,taborlin.Tab,tab,tabor
-Taffy,taffy
+Taborlin,taborlin.Tab,tab,tabor,tablorin
+Taffy,taffy,targy
 Tagus,tagus,Tag,tag,tangu
 Talon,tal,talo,tali,talonkarrde
 Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro,tanji
@@ -541,7 +541,7 @@ TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
-TheWino,wino,wimp,thewimp,the wino,thewho
+TheWino,wino,wimp,thewimp,the wino,thewho,threwino
 Thorin Wallace,thorin,wallace,thor
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
