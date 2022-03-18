@@ -249,7 +249,8 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr,icxrouge
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi,illunis,ilunis
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi
+Illunis,ilunis,illun,ilun
 Illusions
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
