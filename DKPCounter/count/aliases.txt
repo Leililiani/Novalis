@@ -37,6 +37,7 @@ Arcta,archta,arctra,acrta,areta,arcra
 Ardyn,ardin
 Arlene Murray,arlene
 Armadillo,armadillo,Arma,arma,arna,arm
+Asgards,asgard,asg
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
 Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat
@@ -396,7 +397,7 @@ Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik,nikh
 NLRogue,nl
 Noblesse,noblesse
-NugNug,nugnug,Nug,nug
+NugNug,nugnug,Nug,nug,nug nug
 Nyx,nyx
 OG Mudbone,OG,og mudbone,og
 Ojah,oh ah,oj,joah,ojha,the ojah,onah
@@ -446,6 +447,7 @@ Rebound,reb,rebo
 Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump,red pumpkin,redpumpking
+Red Viper,viper,redviper
 ReevesHealer,reeves
 ReignWrath,reign,wrath
 Renaissance,ren,renais,renaise,rena,renai,rennaisance,reinassance
@@ -543,7 +545,7 @@ TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
 TheWino,wino,wimp,thewimp,the wino,thewho,threwino
-Thorin Wallace,thorin,wallace,thor
+Thorin Wallace,thorin,wallace
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
@@ -552,7 +554,7 @@ Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 Tool
 Torque,torq
-ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl,toxlfire,toxi
+ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl,toxlfire,toxi,toxic fire
 Toxins,toxin,toxine
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
@@ -564,7 +566,7 @@ Try Again,try,tryagain,again,tru
 Twisted Rogue,twisted,twist,twiste
 Tymur,tymur,Ty,ty,Tym,tym,ty ur
 Ungodly,ungodly
-UrMom69,ur,urm,urmom,mom,mom69
+UrMom69,ur,urm,urmom,mom,mom69,urmum69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Vagos,vago
@@ -588,7 +590,7 @@ Vortar Tolan,Vortar,vortar tolan,vortar,vortartolan
 Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt,wrest00alt,welts
 Whimsy,whimsy
 Whisperr,whisper,whisp
-WhiteArrow
+WhiteArrow,whitearrrow
 WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath,white death,wd
 Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
@@ -625,6 +627,7 @@ XxLoadingxX,load,loading,loadin,xloadingx,xloading,xxloading
 xxLovelyRoguexx,Lovely,lovely
 XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch,mlgcluth,clutch,xxmlgclutch
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
+xxThorxx,thor,xthorx,xthor,thorx,xxthor,thorxx
 xxWarcrusherxx,War,warcrusher,war
 YAMUM101,YAMUM,Mum,mum,yamum,yamom
 Yemozoo,yemo,yem,yemoz,yemozo
