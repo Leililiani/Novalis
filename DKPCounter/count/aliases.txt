@@ -23,7 +23,7 @@ Alcohol,alcohol,Alchol,alchol
 Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
-AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda,america
+AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda,america,armita
 Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy,angel
 Angler,angler,Angle
 Anonymous Beta,anon,anonymous,anonymousebeta,beta,anonymousbeta,anonbeta
@@ -46,7 +46,7 @@ Atrocity,atro,atroc
 Audden,aud,audd,audden finley
 Autumn,autumnn,autum,aut
 Avalon2,avalon2,Avalon,avalon,Ava,ava
-AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua
+AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua,question
 Ayana,aya,ayan
 Azena,azena,Zena,zena
 Azenia,azenia,Zenia,zenia
@@ -554,7 +554,7 @@ Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 Tool
 Torque,torq
-ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl,toxlfire,toxi,toxic fire
+ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire,toxcic,toxicifre,toxl,toxlfire,toxi,toxic fire,tox1cfire
 Toxins,toxin,toxine
 Transgress,tran,trans,trqnsgress
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
