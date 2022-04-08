@@ -83,7 +83,7 @@ Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon,brayan
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj
-Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns
+Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
@@ -133,7 +133,7 @@ DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darky69,darky,69,dark69
 Darouin,darouin
 DarthSniper,darth sniper
-DarkSniper,dark sniper,sniper
+DarkSniper,dark sniper,sniper,darknsiper
 DaveTheWizard,Dave,davethewizard,dave
 Dayanara,dayanara,Day,day,daya,dayan
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
@@ -239,6 +239,7 @@ Helldiver,Hell,helldiver,hell
 HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi,hiiiiiiiii,hiiii
 Holmes,holme,holm,holmens,homes,homles
+Hologram,holo,gram
 Hostile,hostile
 Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
@@ -299,6 +300,7 @@ Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
 Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
+Lady Luna,luna
 LadyFate,ladyfate,lady
 Lanre,lanre,lan
 Layla1,lay,layla
@@ -472,7 +474,7 @@ Royalninja,Royal,royalninja,royal,royal ninja,ninja,royalnonja
 Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
-Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin
+Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager
 Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri
 Saint Nicholas,saintnicholas,nicholas,saint
@@ -507,7 +509,7 @@ Spiritaldeath,spiritaldeath,spirit,spiritual
 Squirrel,squirrel,squirel,Squirrrrel,squirrrel
 Squirts,squirts
 Squirtz,squirtz,squirt
-Stabetha,stabetha
+Stabetha,stabetha,sabetha,stab
 Starrynight54,starrynight54,starry
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
@@ -602,7 +604,7 @@ Wisteria,wist,wister,wisy
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
 XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance
 xBast,Bast,xbast,bast,x bast
-XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
+XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
@@ -627,7 +629,7 @@ XxLoadingxX,load,loading,loadin,xloadingx,xloading,xxloading
 xxLovelyRoguexx,Lovely,lovely
 XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch,mlgcluth,clutch,xxmlgclutch
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
-xxThorxx,thor,xthorx,xthor,thorx,xxthor,thorxx
+xxThorxx,thor,xthorx,xthor,thorx,xxthor,thorxx,xrhorx
 xxWarcrusherxx,War,warcrusher,war
 YAMUM101,YAMUM,Mum,mum,yamum,yamom
 Yemozoo,yemo,yem,yemoz,yemozo
