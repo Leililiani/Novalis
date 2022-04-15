@@ -69,7 +69,7 @@ BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
 Black Cobra,blackcobra,cobra
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
-Bloodsweezy,blood,bloods,sweezy,bloodsweez
+Bloodsweezy,blood,bloods,sweezy,bloodsweez,bloodwheezy
 BlueGlow
 Bobymage,Boby,bobymage,boby
 Bone7,bone
@@ -269,6 +269,7 @@ Iseabal,isea,ise,isaebel,bale,isabel,iseabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Ivan Drago,Ivan,ivan drago,ivan
+J1e5f0f,j1e5fof,jeff,jeff150
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
@@ -346,7 +347,7 @@ Maev,mae,meave,meav
 Maga,Mag,maga,mag
 Magicest,magi,magic,magicet
 MagicMerlin,merlin,magic merlin,megic,megicmerlin,megic merlin
-Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan,mansion
+Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan,mansion,mami son
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
 MaraJade,mara,jade,marja,mj
@@ -402,7 +403,7 @@ Noblesse,noblesse
 NugNug,nugnug,Nug,nug,nug nug
 Nyx,nyx
 OG Mudbone,OG,og mudbone,og
-Ojah,oh ah,oj,joah,ojha,the ojah,onah
+Ojah,oh ah,oj,joah,ojha,the ojah,onah,omaha
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -490,7 +491,7 @@ Shipwreck,ship,wreck
 Shooter,shooter guy,shooterguy
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
-Sk33ze,sk33ze,Skeeze,skeeze,sk3
+Sk33ze,sk33ze,Skeeze,skeeze,sk3,sk33se
 Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher
 Sky Era,sky era
 Slasher42,slash,slasher,dasher
@@ -641,6 +642,7 @@ YunTheCobra,yun
 Zabet,zab
 Zafira,zafira,Fira,fira,zaf
 Zahid,zahid
+Zaralia,zara,zaral
 Zavier,zavier,Zav,zav,zaviar,xavier,xav
 Zapp,zapp,Zap,zap,zapps
 Zealot,Z,Zea,zealot,z,zea,zeal
@@ -650,4 +652,3 @@ Zn,zn
 Zodiac X,zodiac
 Zol,zol,Vannee,Van,vannee,van,Itxaro,itxaro,itx,xaro,txaro,zoo
 Zxn
-Zxra,zora,zxrs,zx,zxar,zxr,zara,zxraa
