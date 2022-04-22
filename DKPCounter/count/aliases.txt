@@ -269,7 +269,7 @@ Iseabal,isea,ise,isaebel,bale,isabel,iseabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Ivan Drago,Ivan,ivan drago,ivan
-J1e5f0f,j1e5fof,jeff,jeff150
+J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
@@ -294,7 +294,7 @@ Kinglad,king,lad
 KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
-Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii
+Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
@@ -414,6 +414,7 @@ Owein Colt,owein,owe,colt,oweincolt
 Oxygen,oxy,gen
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
+Palermo,pale,paler,palerm
 Payload,Pay,payload,pay
 Peachyy,peachy,peach,peachhy,peachhyy,peacyy
 PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel,pehl,phil,pehlv,pelv,phelivanbey,pehlvanbey
@@ -450,7 +451,7 @@ Rebound,reb,rebo
 Redbud,bud,Redb
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin,redpumkin,redpump,red pumpkin,redpumpking
-Red Viper,viper,redviper
+Red Viper,viper,redviper,rv
 ReevesHealer,reeves
 ReignWrath,reign,wrath
 Renaissance,ren,renais,renaise,rena,renai,rennaisance,reinassance
