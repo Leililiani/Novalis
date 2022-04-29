@@ -419,6 +419,7 @@ Payload,Pay,payload,pay
 Peachyy,peachy,peach,peachhy,peachhyy,peacyy
 PEHLIVANBEY,Pehli,pehlivanbey,pehli,pehil,pehliv,pehlivan,pheli,pehilvanbey,peh,phel,pehl,phil,pehlv,pelv,phelivanbey,pehlvanbey
 Penthe,pent,penth,pen
+PEST1LENCE,pest,pestilence
 Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
@@ -550,7 +551,7 @@ TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
 TheWino,wino,wimp,thewimp,the wino,thewho,threwino
 Thorin Wallace,thorin,wallace
-Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
+Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz,thunder buns
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
 Todins,tod,todi
@@ -606,7 +607,7 @@ Wisteria,wist,wister,wisy
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
 XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance
 xBast,Bast,xbast,bast,x bast
-XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra
+XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra,xblack cobrax
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
@@ -615,7 +616,7 @@ Xeni1387,Xeni
 Xerces,xer
 xHoneyx,Honey,honey
 XNoirX,noir
-xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi
+xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi,rapidx
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
 xResonate,Res,resonate,res,xres,xresonate,reso,xresonatex
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue masterx,xroguemasterx,xrougemaster,xrouge master,rn,rougemaster,rogue master
