@@ -1,6 +1,7 @@
 0blivion,Oblivion,0b,Ob,oblivion,ob,0bliv,Obliv,obliv
 000000000000000,000000,00000,0000,000,00,0
 21
+2ez,2easy
 2po,po
 00Zedd00,Zedd,Zed,zed,zedd
 0Zeus0,Zeus,zeus,ozeuso,ozueso,ozeus
@@ -102,7 +103,7 @@ ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
 Chipmunk,munk
 Chokachi,chok,Chok
-Cian14,cian,cain14,ciam
+Cian14,cian,cain14,ciam,cain
 Cinch,cinch
 Clayton369,clayton,clay
 Clinch,clich
@@ -269,7 +270,7 @@ Iseabal,isea,ise,isaebel,bale,isabel,iseabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Ivan Drago,Ivan,ivan drago,ivan
-J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f
+J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
