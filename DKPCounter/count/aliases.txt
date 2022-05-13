@@ -270,7 +270,7 @@ Iseabal,isea,ise,isaebel,bale,isabel,iseabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Ivan Drago,Ivan,ivan drago,ivan
-J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f
+J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f,jef
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
@@ -425,7 +425,7 @@ Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 Poca
-Pop Tarts,pop,poptarts,poptart,pop tart
+Pop Tarts,pop,poptarts,poptart,pop tart,pop parts
 Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip,portato,potatocho,potatopchip
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
