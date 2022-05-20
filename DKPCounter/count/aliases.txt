@@ -188,7 +188,7 @@ Firecrotch,firecrotch,FC,fc
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 Fireworkz,workz,fireworks,firework
-Firz,firez,fitz
+Firz,firez,fitz,fir
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw,flawlessbladd,flawleasblade,flawless blade,flaw 5
 Fleets,fleet,flee
 Flexypants,flex,flexy
@@ -221,7 +221,7 @@ Goonsquad,goonsquad
 Greengow,green,gow,greengo
 Grimalkin,grimalkin
 Grimheals
-GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
+GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock,grimlocks
 Grimoire,grimo,grim
 Grinding,grind,grinder,griding
 Gspot,gspot
@@ -474,7 +474,7 @@ Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood,roling,rollingwood
 Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
-Royalninja,Royal,royalninja,royal,royal ninja,ninja,royalnonja
+Royalninja,Royal,royalninja,royal,royal ninja,ninja,royalnonja,roy
 Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
@@ -494,7 +494,7 @@ Shipwreck,ship,wreck
 Shooter,shooter guy,shooterguy
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
-Sk33ze,sk33ze,Skeeze,skeeze,sk3,sk33se
+Sk33ze,sk33ze,Skeeze,skeeze,sk3,sk33se,sweezt
 Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher
 Sky Era,sky era
 Slasher42,slash,slasher,dasher
@@ -642,7 +642,7 @@ YourHero,yourhero,YH,yh,Yh,yH
 Ysana Pembroke,Ysana,ysana
 Yuh1,Yuh,yuh
 YunTheCobra,yun
-Zabet,zab
+Zabet,zab,sabet
 Zafira,zafira,Fira,fira,zaf
 Zahid,zahid
 Zaralia,zara,zaral
