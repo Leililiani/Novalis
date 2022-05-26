@@ -155,7 +155,7 @@ Dragole,drago,dragol,dragone
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,drag,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DRUID,druid,DRU1D,dru1d,drud
+DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
@@ -311,7 +311,7 @@ Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
-Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani,leiliani
+Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani,leiliani,leililiane
 Lendoerl,lendoerl,Len,len,Lend,lend,landoerl,lendoer1,lendorl,lendoer,lendoeri
 Leo mdeivel,Leo,leomdeivel,mdeivel,leo mdeival
 Lesniik,lesnik,les,lesn,niik,less,lesiik
@@ -479,7 +479,7 @@ Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra
-Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager
+Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar
 Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
@@ -552,7 +552,7 @@ TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
 TheWino,wino,wimp,thewimp,the wino,thewho,threwino
 Thorin Wallace,thorin,wallace
-Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz,thunder buns
+Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz,thunder buns,thundebuns
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
 Todins,tod,todi
