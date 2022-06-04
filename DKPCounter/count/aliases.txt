@@ -151,8 +151,8 @@ Donatello,Don,donatello,don,Dona,dona
 Dora Hier,dora,hier
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
-Dragole,drago,dragol,dragone
-DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,drag,dragon slayer,sl4yer,dragonsl4er
+Dragole,drago,dragol,dragone,drag
+DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
 DRUID,druid,DRU1D,dru1d,drud,drui1d
@@ -403,6 +403,7 @@ NLRogue,nl
 Noblesse,noblesse
 NugNug,nugnug,Nug,nug,nug nug
 Nyx,nyx
+Odokawa,odo,odok,kawa
 OG Mudbone,OG,og mudbone,og
 Ojah,oh ah,oj,joah,ojha,the ojah,onah,omaha
 Omega,Megs,Mega,omega,megs,mega
