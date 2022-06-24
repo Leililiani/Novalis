@@ -48,7 +48,7 @@ Audden,aud,audd,audden finley
 Autumn,autumnn,autum,aut
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua,question
-Ayana,aya,ayan
+Ayana,aya,ayan,alana
 Azena,azena,Zena,zena
 Azenia,azenia,Zenia,zenia
 Azona,azona,Zona,zona,az
@@ -136,16 +136,17 @@ Darouin,darouin
 DarthSniper,darth sniper
 DarkSniper,dark sniper,sniper,darknsiper
 DaveTheWizard,Dave,davethewizard,dave
-Dayanara,dayanara,Day,day,daya,dayan
+Dayanara,dayanara,Day,day,daya,dayan,dayana,data
 DailyDouble,dailydouble,daily,Daily,DD,dd,daily double
 Dead Inside,inside
-DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads,deadshaodws,deathshadows,dead shadows
+DeadShadows,dead,shadow,shadows,ds,deadahadows,darkshadows,deadshadow,deads,deadshaodws,deathshadows,dead shadows,deadshaddows
 Death Spite,Death,deathspite,death
 Dellboy,dell,boy
 Dementia,Dem,dementia,dem,demen,dement
 Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil,devils
 Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
 Dima1,Dima,dima1,dima
+Doc11
 Donaldtheduck,Donald,donaldtheduck,donald,donald the duck36
 Donatello,Don,donatello,don,Dona,dona
 Dora Hier,dora,hier
@@ -159,7 +160,7 @@ DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
-Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin,dunk\,dunnkin,shnk
+Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin,dunk\,dunnkin,shnk,dunkinnn
 Eandra,eand,ean,enadra
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
@@ -298,7 +299,7 @@ Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
 Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
-Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
+Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
@@ -350,7 +351,7 @@ Magicest,magi,magic,magicet
 MagicMerlin,merlin,magic merlin,megic,megicmerlin,megic merlin
 Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan,mansion,mami son
 Mana Ogilvie,Mana,mana ogilvie,mana
-Mancan,mancan
+Mancan,mancan,macan
 MaraJade,mara,jade,marja,mj
 Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
