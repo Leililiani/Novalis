@@ -89,6 +89,7 @@ Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
 ByulHa,byul,byulh
+Cakes,cake
 Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
 CarSladoleda,car,cars,carsla,carslad,carslado,leda
 Cazer,caz,caze,case
@@ -125,6 +126,7 @@ DaedricLord,dae
 DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il
 Dakuna,Dak,dakuna,dak
+Dalamadur,dala,dalam,dalamder,dalamader
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
@@ -374,7 +376,7 @@ Morgatha,Morg,morgatha,morg
 Mountaineer,mountain
 Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
-Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
+Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy,mr piggi
 Mr. Tiger,mr tiger,tiger,mrtiger
 MrLahey,mr lahey,lahey,mr lahy
 MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
