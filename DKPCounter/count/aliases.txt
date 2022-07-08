@@ -158,6 +158,7 @@ Dragole,drago,dragol,dragone,drag
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
+DrLilFoot,drlil,lilfoot
 DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
 Druidz,druidz
@@ -167,6 +168,7 @@ Eandra,eand,ean,enadra
 EatMySpells,eat,eatmy,myspells,spells,spell,ems
 Elderboss,elderboss,Eld,eld,elder
 ElDiablo,ElDia,eldiablo,eldia
+ElectroDude,electro
 Elementz,element,ele,elem,elememtz,elememts,elements
 EliteHealz,Elite,eliteheals,elite,Eh,eh
 EllaofEden,Ella,Eden
@@ -191,7 +193,7 @@ Firecrotch,firecrotch,FC,fc
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 Fireworkz,workz,fireworks,firework
-Firz,firez,fitz,fir
+Firz,firez,fitz,fir,furz
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw,flawlessbladd,flawleasblade,flawless blade,flaw 5
 Fleets,fleet,flee
 Flexypants,flex,flexy
@@ -314,7 +316,7 @@ Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
 LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
-Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani,leiliani,leililiane
+Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla,peil,Leila,leilillani,leiliani,leililiane,leili
 Lendoerl,lendoerl,Len,len,Lend,lend,landoerl,lendoer1,lendorl,lendoer,lendoeri
 Leo mdeivel,Leo,leomdeivel,mdeivel,leo mdeival
 Lesniik,lesnik,les,lesn,niik,less,lesiik
@@ -404,6 +406,7 @@ Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik,nikh
 NLRogue,nl
 Noblesse,noblesse
+Nobu,nob
 NugNug,nugnug,Nug,nug,nug nug
 Nyx,nyx
 Odokawa,odo,odok,kawa
@@ -490,7 +493,9 @@ Saraaaa98,Sara,saraaa,sara
 Sarang,saran
 Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
+Savingurazz,saving,savingur
 Savos,savos
+Sebulon,seb,sebu
 Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
@@ -511,6 +516,7 @@ Soul1,soul,sou1
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
 Soulless,soulless,soulles
 Spacemaker 300,Spacemaker,space,Space,spacemaker3000
+Spaceman,space man
 SpartanIII,Spartan
 Speedz,speedz,Speed,speed,Sz,sz
 Spiritaldeath,spiritaldeath,spirit,spiritual
