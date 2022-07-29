@@ -362,6 +362,7 @@ Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark,markistan
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
+Mc Flaffy,mcflaffy,flaffy
 Medical,medical,Med,med
 Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,on mhhmm,mmhm,mhhmmmm,mmhhmm
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
@@ -406,7 +407,7 @@ Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik,nikh
 NLRogue,nl
 Noblesse,noblesse
-Nobu,nob
+Nobu,nob,nobs
 NugNug,nugnug,Nug,nug,nug nug
 Nyx,nyx
 Odokawa,odo,odok,kawa
@@ -493,7 +494,7 @@ Saraaaa98,Sara,saraaa,sara
 Sarang,saran
 Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
-Savingurazz,saving,savingur
+Savingurazz,saving,savingur,savin
 Savos,savos
 Sebulon,seb,sebu
 Senia,senia
