@@ -284,7 +284,7 @@ Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kamii,kami
 Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan,kanagasa,kanaga
-Kartos,kart,kar,kartos78,kartox78,kratos,karr,jarrod,martins,karts78
+Kartos,kart,kar,kartos78,kartox78,kratos,karr,jarrod,martins,karts78,karts
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat,katie macarn
 Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
@@ -501,7 +501,7 @@ Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
 Shipwreck,ship,wreck
-Shooter,shooter guy,shooterguy
+Shooter,shooter guy,shooterguy,sg
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze,sk3,sk33se,sweezt
