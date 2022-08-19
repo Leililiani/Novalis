@@ -37,7 +37,7 @@ Architect,archi,arch,arcitect,architecht,architech
 Arcta,archta,arctra,acrta,areta,arcra
 Ardyn,ardin
 Arlene Murray,arlene
-Armadillo,armadillo,Arma,arma,arna,arm
+Armadillo,armadillo,Arma,arma,arna,arm,amradillo
 Asgards,asgard,asg
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
@@ -126,7 +126,7 @@ DaedricLord,dae
 DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il
 Dakuna,Dak,dakuna,dak
-Dalamadur,dala,dalam,dalamder,dalamader,dalamar
+Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
@@ -279,7 +279,7 @@ J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f,jef
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
-Kahala,kahala,kahal,kaha,khala,kayla,kuhala
+Kahala,kahala,kahal,kaha,khala,kayla,kuhala,kalahar
 Kalhalla,kalhala
 Kalina,kalina,Kal,kal
 Kamii,kami
@@ -290,7 +290,7 @@ Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
-Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog,kellogg
+Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog,kellogg,kel
 Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
