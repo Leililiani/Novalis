@@ -386,7 +386,7 @@ MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
 MrRogue,Mr,mrrogue,mrrouge
 MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty,meaty,mrsmeaty,mrscheamty
 mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
-MrWanted77,mr,wanted,mrwanted
+MrWanted77,mr,wanted,mrwanted,mr wanted
 Msboby,msboby
 Mukk,Muk,mukk,muk
 MukkDruid,mukkdruid
