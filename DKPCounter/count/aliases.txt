@@ -126,7 +126,7 @@ DaedricLord,dae
 DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il
 Dakuna,Dak,dakuna,dak
-Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma
+Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
@@ -295,7 +295,7 @@ Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
-Killua,killu,kilu,kill,killua13,kilua,kill us
+Killua,killu,kilu,kill,killua13,kilua,kill us,killau
 Kinglad,king,lad
 KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
@@ -488,7 +488,7 @@ Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar
-Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri
+Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri,sagitt
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
@@ -617,7 +617,7 @@ Windward,Wind,windward,wind,windy,winward,win,windward windward
 Wiro,wiro
 Wisteria,wist,wister,wisy
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
-XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance
+XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance,xblanque
 xBast,Bast,xbast,bast,x bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra,xblack cobrax
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
