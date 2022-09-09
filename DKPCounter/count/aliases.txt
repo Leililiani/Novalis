@@ -158,7 +158,7 @@ Dragole,drago,dragol,dragone,drag
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DrLilFoot,drlil,lilfoot,lil foot
+DrLilFoot,drlil,lilfoot,lil foot,drlil foot
 DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
 Druidz,druidz
@@ -535,7 +535,7 @@ Supermedo,super,medo,super medo
 Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
 Swish,swish
 Swishy,swishy,swshy,swisy
-Taborlin,taborlin.Tab,tab,tabor,tablorin
+Taborlin,taborlin.Tab,tab,tabor,tablorin,tablorlin
 Taffy,taffy,targy
 Tagus,tagus,Tag,tag,tangu
 Talon,tal,talo,tali,talonkarrde
