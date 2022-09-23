@@ -41,7 +41,7 @@ Armadillo,armadillo,Arma,arma,arna,arm,amradillo
 Asgards,asgard,asg
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
-Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat
+Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
@@ -126,7 +126,7 @@ DaedricLord,dae
 DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il
 Dakuna,Dak,dakuna,dak
-Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur
+Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur,dalamudar
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
@@ -179,6 +179,7 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Etoik,eto,etok,etoi,etok griffiths,etiok
+Eveleen,evel
 Eve21,eve
 Evondarty,evon,darty,evan
 Exio,exio
@@ -353,7 +354,7 @@ Maev,mae,meave,meav
 Maga,Mag,maga,mag
 Magicest,magi,magic,magicet
 MagicMerlin,merlin,magic merlin,megic,megicmerlin,megic merlin
-Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan,mansion,mami son,mamisom
+Mamison,mamison,Mami,mami,Mam,mam,mani,manison,mamsion,mamsison,mamisan,mansion,mami son,mamisom,madison
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan,macan
 MaraJade,mara,jade,marja,mj
@@ -413,6 +414,7 @@ Nyx,nyx
 Odokawa,odo,odok,kawa
 OG Mudbone,OG,og mudbone,og
 Ojah,oh ah,oj,joah,ojha,the ojah,onah,omaha
+Olivia,olive,olivi,oliv
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -496,7 +498,7 @@ Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
 Savingurazz,saving,savingur,savin
 Savos,savos
-Sebulon,seb,sebu
+Sebulon,seb,sebu,sebul
 Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
@@ -520,6 +522,7 @@ Spacemaker 300,Spacemaker,space,Space,spacemaker3000
 Spaceman,space man
 SpartanIII,Spartan
 Speedz,speedz,Speed,speed,Sz,sz
+Spellguy,spell guy,spell
 Spiritaldeath,spiritaldeath,spirit,spiritual
 Squirrel,squirrel,squirel,Squirrrrel,squirrrel
 Squirts,squirts
@@ -545,6 +548,7 @@ Tankie,tankie,Tanki,tanki
 tankasaurus,Tankasaurus
 Targaryen,targ,gary,tarq,targareyn
 Teal,tael
+Teddy Westside,teddy,teddywestside
 Temperr,Temper,temperr,temper,temp
 Tenacity,tenacity,Ten,ten,tena,tenac,tenisity,tenicity
 TerminNater,Term,Terminnater,terminater,term,termin,terminator,terminnator
