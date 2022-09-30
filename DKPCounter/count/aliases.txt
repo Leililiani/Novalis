@@ -414,7 +414,7 @@ Nyx,nyx
 Odokawa,odo,odok,kawa
 OG Mudbone,OG,og mudbone,og
 Ojah,oh ah,oj,joah,ojha,the ojah,onah,omaha
-Olivia,olive,olivi,oliv
+Olivia,olive,olivi,oliv,olivia maclear
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -488,7 +488,7 @@ Royalninja,Royal,royalninja,royal,royal ninja,ninja,royalnonja,roy
 Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
-Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra
+Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra,sabr
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar
 Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri,sagitt
 Saint Nicholas,saintnicholas,nicholas,saint
