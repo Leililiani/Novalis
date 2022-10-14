@@ -296,13 +296,13 @@ Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog,kellogg,kel
 Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
-Killshot,Ks,killshot,ks
+Killshot,killshot
 Killua,killu,kilu,kill,killua13,kilua,kill us,killau
 Kinglad,king,lad
 KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
-Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii
+Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
@@ -499,7 +499,7 @@ Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
 Savingurazz,saving,savingur,savin
 Savos,savos
-Sebulon,seb,sebu,sebul
+Sebulon,seb,sebu,sebul,set
 Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
