@@ -65,6 +65,7 @@ Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen,berry ice
 BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
+Bizaro,biz,biazro
 Blade77,blade
 BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
@@ -84,7 +85,7 @@ Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon,brayan
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj
-Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns
+Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
@@ -158,7 +159,8 @@ Dragole,drago,dragol,dragone,drag
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DrLilFoot,drlil,lilfoot,lil foot,drlil foot
+DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot
+DrStrange,strange,dr strange
 DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
 Druidz,druidz
@@ -304,6 +306,7 @@ Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
 Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
+Korlisra,kor,korl,korli
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
@@ -499,7 +502,7 @@ Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
 Savingurazz,saving,savingur,savin
 Savos,savos
-Sebulon,seb,sebu,sebul,set
+Sebulon,seb,sebu,sebul,set,subulon
 Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
