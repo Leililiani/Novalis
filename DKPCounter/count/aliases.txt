@@ -125,7 +125,7 @@ DaKiller,dakiller75,da killer,dakikler,dakilller,dakill
 Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
-DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il
+DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il,double
 Dakuna,Dak,dakuna,dak
 Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur,dalamudar
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
@@ -306,14 +306,14 @@ Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
 Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
-Korlisra,kor,korl,korli
+Korlisra,kor,korl,korli,kol,korisa
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
-Lady Luna,luna
-LadyFate,ladyfate,lady
+Lady Luna,luna,lady
+LadyFate,ladyfate
 Lanre,lanre,lan
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
@@ -402,7 +402,7 @@ MyWorld1,myworld,Myworld,myworld11
 N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee,ne0,n30p1r4te
 Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
-NameMyHero,Nmh,Hero,namemyhero,nmh,hero
+NameMyHero,Nmh,Hero,namemyhero,nmh,hero,name my hero
 Narcisse,narc,narci,narcis,narcise
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen, neneja
@@ -456,7 +456,7 @@ R0,ro,Ro,r0
 Radner,rad,radn
 Ragz,ragz
 Rampage,rampageeex,ramp,rampageex,rampag,rampagee
-RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin,ranged assassin
+RangedAssassin,RA,rangedassassin,ra,ranged,rangedassasin,ranged assassin,ramged
 RangerIT,IT,ranger it,it
 Rangi,rang
 Rapheal,rapheal,Rap,rap
@@ -522,8 +522,8 @@ Soe,soe
 Soul1,soul,sou1
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
 Soulless,soulless,soulles
-Spacemaker 300,Spacemaker,space,Space,spacemaker3000
-Spaceman,space man
+Spacemaker 300,Spacemaker,spacemaker3000
+Spaceman,space man,space
 SpartanIII,Spartan
 Speedz,speedz,Speed,speed,Sz,sz
 Spellguy,spell guy,spell
@@ -570,7 +570,7 @@ TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
 TheWino,wino,wimp,thewimp,the wino,thewho,threwino
 Thorin Wallace,thorin,wallace
-Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz,thunder buns,thundebuns
+Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz,thunder buns,thundebuns,thunder
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
 Tiff,tiff
 Todins,tod,todi
