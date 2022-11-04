@@ -314,7 +314,7 @@ Lady Anarchy,lady anarchy
 Lady Lock,lady lock
 Lady Luna,luna,lady
 LadyFate,ladyfate
-Lanre,lanre,lan
+Lanre,lanre,lan,larne
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
 Ledion,Led,ledion,led
@@ -402,7 +402,7 @@ MyWorld1,myworld,Myworld,myworld11
 N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee,ne0,n30p1r4te
 Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
-NameMyHero,Nmh,Hero,namemyhero,nmh,hero,name my hero
+NameMyHero,Nmh,Hero,namemyhero,nmh,hero,name my hero,namemy,namymyhero
 Narcisse,narc,narci,narcis,narcise
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen, neneja
