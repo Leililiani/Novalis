@@ -41,7 +41,7 @@ Armadillo,armadillo,Arma,arma,arna,arm,amradillo
 Asgards,asgard,asg
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
-Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty
+Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty,asteria l
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
@@ -84,7 +84,7 @@ Bria Bellin,bria,bri,bellin
 Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon,brayan
 Buffy,Buff,Buf,buffy,buff,buf
-Buj4nski,Buj,buj4nski,buj
+Buj4nski,Buj,buj4nski,buj,buj4
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
@@ -235,7 +235,7 @@ Grinding,grind,grinder,griding
 Gspot,gspot
 Guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard,guardianangel,gurdian angel
 GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,gucci flip flops,flip flops,gucci flipflops
-Guyun,Guy,guyun,guy
+Guyun,Guy,guyun,guy,guyon
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 H0RT3N,horten,hort,hort3n
 Halder,harder,hader,hald,hal,hard,alder
@@ -402,7 +402,7 @@ MyWorld1,myworld,Myworld,myworld11
 N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r4eee,ne0,n30p1r4te
 Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
-NameMyHero,Nmh,Hero,namemyhero,nmh,hero,name my hero,namemy,namymyhero
+NameMyHero,Nmh,Hero,namemyhero,nmh,hero,name my hero,namemy,namymyhero,name
 Narcisse,narc,narci,narcis,narcise
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen, neneja
@@ -418,7 +418,7 @@ Nyx,nyx
 Odokawa,odo,odok,kawa
 OG Mudbone,OG,og mudbone,og
 Ojah,oh ah,oj,joah,ojha,the ojah,onah,omaha
-Olivia,olive,olivi,oliv,olivia maclear
+Olivia,olive,olivi,oliv,olivia maclear,olivia  maclear
 Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
@@ -531,7 +531,7 @@ Spiritaldeath,spiritaldeath,spirit,spiritual
 Squirrel,squirrel,squirel,Squirrrrel,squirrrel
 Squirts,squirts
 Squirtz,squirtz,squirt
-Stabetha,stabetha,sabetha,stab
+Stabetha,stabetha,sabetha,stab,steb
 Starrynight54,starrynight54,starry
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
