@@ -10,6 +10,7 @@
 3rd Eye,3rd,third,eye,3rdeye
 5inch,inch,5
 5hade,shade
+Abylle,aby,abyl,abyle,abyll
 Accident,acci,accid
 Accord,Acc,accord,acc
 Adam09,Adam,adam
@@ -65,7 +66,7 @@ Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen,berry ice
 BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
-Bizaro,biz,biazro
+Bizaro,biz,biazro,bist
 Blade77,blade
 BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
@@ -167,7 +168,7 @@ Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
 Dunkinn,Dunk,dunkinn,dunk,dun,dunkiin,dunkin,dino,dubkin,dunk\,dunnkin,shnk,dunkinnn
 Eandra,eand,ean,enadra
-EatMySpells,eat,eatmy,myspells,spells,spell,ems
+EatMySpells,eat,eatmy,myspells,spells,spell,ems,eat my spells
 Elderboss,elderboss,Eld,eld,elder
 ElDiablo,ElDia,eldiablo,eldia
 ElectroDude,electro
@@ -181,7 +182,7 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Etoik,eto,etok,etoi,etok griffiths,etiok
-Eveleen,evel
+Eveleen,evel,everleen
 Eve21,eve
 Evondarty,evon,darty,evan
 Exio,exio
@@ -312,7 +313,7 @@ Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
-Lady Luna,luna,lady
+Lady Luna,luna,lady,ladyluna
 LadyFate,ladyfate
 Lanre,lanre,lan,larne
 Layla1,lay,layla
@@ -335,6 +336,7 @@ LifeGuard,Lg,lifeguard,lg,life
 Lightly69,light,lightly,lighty,lighty69,litghty69
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
+LilMonster,lil monster
 LittleH,H,little h,h,lh
 Little Monster,littlem,monster,lm,little mister,little,littlemonster
 Livid,livid
