@@ -22,7 +22,7 @@ Akeno,akeno
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
 Alcohol,alcohol,Alchol,alchol
-Aleister,aleister,Ale,ale
+Aleister,aleister,Ale,ale,alister
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda,america,armita
@@ -66,7 +66,7 @@ Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen,berry ice
 BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
-Bizaro,biz,biazro,bist
+Bizaro,biz,biazro,bist,bizz
 Blade77,blade
 BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
@@ -85,7 +85,7 @@ Bria Bellin,bria,bri,bellin
 Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon,brayan
 Buffy,Buff,Buf,buffy,buff,buf
-Buj4nski,Buj,buj4nski,buj,buj4
+Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
@@ -160,7 +160,7 @@ Dragole,drago,dragol,dragone,drag
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot
+DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot,foot
 DrStrange,strange,dr strange
 DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
@@ -280,7 +280,7 @@ Iseabal,isea,ise,isaebel,bale,isabel,iseabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Ivan Drago,Ivan,ivan drago,ivan
-J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f,jef
+J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f,jef,j1
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
@@ -305,9 +305,9 @@ Kinglad,king,lad
 KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
-Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks
+Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks,faii,lsfaii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
-Korlisra,kor,korl,korli,kol,korisa
+Korlisra,kor,korl,korli,kol,korisa,korlisa
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
