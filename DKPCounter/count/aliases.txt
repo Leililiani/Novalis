@@ -85,7 +85,7 @@ Bria Bellin,bria,bri,bellin
 Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon,brayan
 Buffy,Buff,Buf,buffy,buff,buf
-Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski
+Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski,bij4nski
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
@@ -119,14 +119,14 @@ Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,crist
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
 Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
-Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,dd
+Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,
 Dab,dab
 Dabstar,dabstar
 DaKiller,dakiller75,da killer,dakikler,dakilller,dakill
 Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
-DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il,double
+DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il,double,dd
 Dakuna,Dak,dakuna,dak
 Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur,dalamudar
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
@@ -182,7 +182,7 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Etoik,eto,etok,etoi,etok griffiths,etiok
-Eveleen,evel,everleen
+Eveleen,evel,everleen,evvlen,eveelen
 Eve21,eve
 Evondarty,evon,darty,evan
 Exio,exio
@@ -351,7 +351,7 @@ LoveIsMe,loveisme,Love,love
 LovelyRogue,lovely,xxlovelyrougexx
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
-Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn,luminious,lunin
+Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious,liminous,lumim,lummy,lumn,luminious,lunin,luninous
 Lute2,lute,lite2
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky,mackey
@@ -495,7 +495,7 @@ Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra,sabr
-Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar
+Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar,saerah m,searah m
 Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri,sagitt
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
@@ -567,7 +567,7 @@ The Diz,Diz,the diz,diz,thediz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
 The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler,thehealer,theh34ler
 The Last Ranger,the last ranger
-The Machine,themachine,machine
+The Machine,themachine,machine,mach
 TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
@@ -594,7 +594,7 @@ Try Again,try,tryagain,again,tru
 Twisted Rogue,twisted,twist,twiste
 Tymur,tymur,Ty,ty,Tym,tym,ty ur
 Ungodly,ungodly
-Unheal,inheal,un heal
+Unheal,inheal,un heal,unh
 UrMom69,ur,urm,urmom,mom,mom69,urmum69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
