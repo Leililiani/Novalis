@@ -32,6 +32,7 @@ Anonymous Beta,anon,anonymous,anonymousebeta,beta,anonymousbeta,anonbeta
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
+AquaMarine,aqua,marine,aqua marine
 Arcta,archangel,arc,arct
 Archilies,archil
 Architect,archi,arch,arcitect,architecht,architech
@@ -122,12 +123,12 @@ Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
 Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,
 Dab,dab
 Dabstar,dabstar
-DaKiller,dakiller75,da killer,dakikler,dakilller,dakill
+DaKiller,dakiller75,da killer,dakikler,dakilller,dakill,Daki
 Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il,double,dd
-Dakuna,Dak,dakuna,dak
+Dakuna,Dak,dakuna,dak,dam
 Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur,dalamudar
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
 Daric Pierce,Daric,daric pierce,daric
@@ -182,9 +183,10 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Etoik,eto,etok,etoi,etok griffiths,etiok
+Evandre,evan
 Eveleen,evel,everleen,evvlen,eveelen
 Eve21,eve
-Evondarty,evon,darty,evan
+Evondarty,evon,darty,evon darty
 Exio,exio
 Eyemruss,eye,russ,eyem,eyemrus
 False Warden,false,warden,fw,falsewarden,falsew,fasle warden
@@ -197,7 +199,7 @@ Firecrotch,firecrotch,FC,fc
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 Fireworkz,workz,fireworks,firework
-Firz,firez,fitz,fir,furz
+Firz,firez,fitz,fir,furz,friz
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw,fkaw,flawlessbladd,flawleasblade,flawless blade,flaw 5
 Fleets,fleet,flee
 Flexypants,flex,flexy
@@ -307,7 +309,7 @@ Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
 Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks,faii,lsfaii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
-Korlisra,kor,korl,korli,kol,korisa,korlisa,kora
+Korlisra,kor,korl,korli,kol,korisa,korlisa,kora,koisra
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
@@ -315,6 +317,7 @@ Lady Anarchy,lady anarchy
 Lady Lock,lady lock
 Lady Luna,luna,lady,ladyluna
 LadyFate,ladyfate
+Lanoja Gower,lanoja,gower,lanojagower
 Lanre,lanre,lan,larne
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
@@ -371,7 +374,7 @@ Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Mc Flaffy,mcflaffy,flaffy
 Medical,medical,Med,med
-Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,on mhhmm,mmhm,mhhmmmm,mmhhmm
+Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,on mhhmm,mmhm,mhhmmmm,mmhhmm,mhn
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour,mids,misdem
@@ -542,7 +545,7 @@ Stringer,String,stinger
 Stu,st
 Sundown,Sun,sundown,sun,sundow
 Supermedo,super,medo,super medo
-Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge,The Surgeon,thesurgeon,the surg
+Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge,The Surgeon,thesurgeon,the surg,sarge
 Swish,swish
 Swishy,swishy,swshy,swisy
 Taborlin,taborlin.Tab,tab,tabor,tablorin,tablorlin
@@ -638,7 +641,7 @@ XdiabloX,diablo
 xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax
 Xeni1387,Xeni
 Xerces,xer
-xHoneyx,Honey,honey
+xHoneyx,Honey,honey,xhoney
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi,rapidx
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
