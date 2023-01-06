@@ -39,7 +39,7 @@ Architect,archi,arch,arcitect,architecht,architech
 Arcta,archta,arctra,acrta,areta,arcra
 Ardyn,ardin,arden
 Arlene Murray,arlene
-Armadillo,armadillo,Arma,arma,arna,arm,amradillo
+Armadillo,armadillo,Arma,arma,arna,arm,amradillo,armadillos
 Asgards,asgard,asg
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
@@ -67,7 +67,7 @@ Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen,berry ice
 BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
-Bizaro,biz,biazro,bist,bizz
+Bizaro,biz,biazro,bist,bizz,bizarro
 Blade77,blade
 BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
@@ -84,9 +84,9 @@ Braden Cole,Braden,braden cole,braden,brad
 Braydan,bray,brayd,brayden,bryadan,braydam
 Bria Bellin,bria,bri,bellin
 Brkn2013,Brkn,brkn2013,brkn
-Bryan33,bryan33,Bryan,bryan,bryon,brayan,bry
+Bryan33,bryan33,Bryan,bryan,bryon,brayan,bry,bryanz
 Buffy,Buff,Buf,buffy,buff,buf
-Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski,bij4nski,buj4snki
+Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski,bij4nski,buj4snki,bj
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
@@ -130,7 +130,7 @@ DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il,double,dd
 Dakuna,Dak,dakuna,dak,dam
 Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur,dalamudar
-Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah
+Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah,dalia
 Daric Pierce,Daric,daric pierce,daric
 Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
 Darkly,darkly
@@ -161,7 +161,7 @@ Dragole,drago,dragol,dragone,drag
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot,foot
+DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot,foot,drlilfoor
 DrStrange,strange,dr strange
 DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
@@ -282,7 +282,7 @@ Iseabal,isea,ise,isaebel,bale,isabel,iseabel
 ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Ivan Drago,Ivan,ivan drago,ivan
-J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f,jef,j1
+J1e5f0f,j1e5fof,jeff,jeff150,j1e5,j1ef0f,j1e50f,jef,j1,j1e
 Jakez,jakezz,jake,jakezzz,jakes,jakerzz,jakeszz
 jnors1,Jnors1,Jnors,jnors,jnorst
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
@@ -309,7 +309,7 @@ Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
 Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks,faii,lsfaii
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
-Korlisra,kor,korl,korli,kol,korisa,korlisa,kora,koisra
+Korlisra,kor,korl,korli,kol,korisa,korlisa,kora,koisra,korlis,korlrisa
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
@@ -450,6 +450,7 @@ Pop Tarts,pop,poptarts,poptart,pop tart,pop parts
 Potatochip,potato,potato chip,pitatochip,pitato chip,patato,chip,portato,potatocho,potatopchip
 ProteinChipmunk,Protein,proteinchipmunk,protein,protien,proteoin,prot
 Proteus Prime,proteus prime
+Public Enemy,public,publicenemy
 Purepk9r,pk9r
 Purpose,purp
 Pyromancer,pyro,pyrom,prom
@@ -634,7 +635,7 @@ Windward,Wind,windward,wind,windy,winward,win,windward windward
 Wiro,wiro
 Wisteria,wist,wister,wisy
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
-XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance,xblanque
+XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance,xblanque,bala
 xBast,Bast,xbast,bast,x bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra,xblack cobrax
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
@@ -643,7 +644,7 @@ XdiabloX,diablo
 xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax
 Xeni1387,Xeni
 Xerces,xer
-xExTiNcTx,ext,extinct,xextinct,extinctx
+xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe
 xHoneyx,Honey,honey,xhoney
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi,rapidx
