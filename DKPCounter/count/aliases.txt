@@ -47,7 +47,7 @@ Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty,asteria l
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
-Autumn,autumnn,autum,aut
+Autumn,autumnn,autum,aut,autuum
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua,question
 Ayana,aya,ayan,alana
@@ -73,7 +73,7 @@ BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
 Black Cobra,blackcobra,cobra
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
-Bloodsweezy,blood,bloods,sweezy,bloodsweez,bloodwheezy
+Bloodsweezy,blood,bloods,sweezy,bloodsweez,bloodwheezy,sweeazy
 BlueGlow
 Bobymage,Boby,bobymage,boby
 Bone7,bone
@@ -114,6 +114,7 @@ Clinch,clich
 Cloudstorm,cloud,storm,cloud storm,cloud dtorm
 Colby1,colb,col,colby
 Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
+Combust,comb
 Corpseman,corpse,corp,corpsman,corpse man,corps man
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
 Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina,cristis,christinaa,cristina,cristinaa,christina
@@ -264,7 +265,7 @@ iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr,icxrouge
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi,ilumin
 Illunis,ilunis,illun,ilun
 Illusions
 Ily2,Ily,ily2,ily
@@ -485,6 +486,7 @@ Rhinoking1,rhino1,rhinoking1,rhino king1,king1,rhinoking01,rhinoking
 Rhinokings,rhino,rhino kings,rhino2,rhinokings2,rhino kings2,rhino kings02
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright,rick style
 Rikimarro,riki,rikim,marro,rikki
+Rikimartin,martin
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
@@ -635,7 +637,7 @@ Windward,Wind,windward,wind,windy,winward,win,windward windward
 Wiro,wiro
 Wisteria,wist,wister,wisy
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
-XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance,xblanque,bala
+XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance,xblanque,bala,xbala,xbalanq,xblanq
 xBast,Bast,xbast,bast,x bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra,xblack cobrax
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
@@ -644,7 +646,7 @@ XdiabloX,diablo
 xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax
 Xeni1387,Xeni
 Xerces,xer
-xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe
+xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc
 xHoneyx,Honey,honey,xhoney
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi,rapidx
@@ -670,6 +672,7 @@ Yemozoo,yemo,yem,yemoz,yemozo
 Yoshimura,yoshi,yosh
 YourHero,yourhero,YH,yh,Yh,yH
 Ysana Pembroke,Ysana,ysana
+Yugure,yug,yugu,yugur
 Yuh1,Yuh,yuh
 YunTheCobra,yun
 Zabet,zab,sabet
