@@ -211,7 +211,7 @@ Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
-Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi,frume
+Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi,frume,Zabet,zab,sabet
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo,galiio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta,gangster iv,ganster
@@ -252,7 +252,7 @@ Heavyshot,Heavy,HS,heavyshot,heavy,hs,heavy shot
 Helldiver,Hell,helldiver,hell
 HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi,hiiiiiiiii,hiiii
-Holmes,holme,holm,holmens,homes,homles
+Holmes,holme,holm,holmens,homes,homles,holems
 Hologram,holo,gram
 Hostile,hostile
 Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
@@ -486,7 +486,7 @@ Rhinoking1,rhino1,rhinoking1,rhino king1,king1,rhinoking01,rhinoking
 Rhinokings,rhino,rhino kings,rhino2,rhinokings2,rhino kings2,rhino kings02
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright,rick style
 Rikimarro,riki,rikim,marro,rikki
-Rikimartin,martin
+Rikimartin,martin,mar,mart,rkimartin
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
@@ -675,7 +675,6 @@ Ysana Pembroke,Ysana,ysana
 Yugure,yug,yugu,yugur
 Yuh1,Yuh,yuh
 YunTheCobra,yun
-Zabet,zab,sabet
 Zafira,zafira,Fira,fira,zaf
 Zahid,zahid
 Zaralia,zara,zaral
