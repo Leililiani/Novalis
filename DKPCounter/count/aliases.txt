@@ -37,7 +37,7 @@ Arcta,archangel,arc,arct
 Archilies,archil
 Architect,archi,arch,arcitect,architecht,architech
 Arcta,archta,arctra,acrta,areta,arcra
-Ardyn,ardin,arden
+Ardyn,ardin,arden,ard
 Arlene Murray,arlene
 Armadillo,armadillo,Arma,arma,arna,arm,amradillo,armadillos
 Asgards,asgard,asg
@@ -344,6 +344,7 @@ Lilani,lilani,Lil,lil
 LilMonster,lil monster
 LittleH,H,little h,h,lh
 Little Monster,littlem,monster,lm,little mister,little,littlemonster
+Liusaidh,liu,liusaid
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama,ilama,iiama
 Lno,ino
@@ -486,7 +487,7 @@ Rhinoking1,rhino1,rhinoking1,rhino king1,king1,rhinoking01,rhinoking
 Rhinokings,rhino,rhino kings,rhino2,rhinokings2,rhino kings2,rhino kings02
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright,rick style
 Rikimarro,riki,rikim,marro,rikki
-Rikimartin,martin,mar,mart,rkimartin
+Rikimartin,martin,mar,mart,rkimartin,rikimar
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
@@ -503,7 +504,7 @@ Royalpain
 Rustung,rust
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra,sabr
-Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar,saerah m,searah m
+Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar,saerah m,searah m,searah
 Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri,sagitt
 Saint Nicholas,saintnicholas,nicholas,saint
 Saraaaa98,Sara,saraaa,sara
@@ -530,7 +531,7 @@ Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soe,soe
 Sor Uren,sor,soruren,uren
-Soul1,soul,sou1
+Soul1,soul,sou1,soup
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
 Soulless,soulless,soulles
 Spacemaker 300,Spacemaker,spacemaker3000
@@ -646,7 +647,7 @@ XdiabloX,diablo
 xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax
 Xeni1387,Xeni
 Xerces,xer
-xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc
+xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc
 xHoneyx,Honey,honey,xhoney
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi,rapidx
