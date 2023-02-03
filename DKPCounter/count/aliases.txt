@@ -47,7 +47,7 @@ Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty,asteria l
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
-Autumn,autumnn,autum,aut,autuum
+Autumn,autumnn,autum,aut,autuum,autumm
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua,question
 Ayana,aya,ayan,alana
@@ -299,6 +299,7 @@ Katrek,katrek,rek,katrec,katr
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
 Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog,kellogg,kel
+Khaine,kane,kaine,khain
 Khun,kh
 Kidruzy,kid,ruzy,kidr
 Killmon,Km,killmon,km
@@ -389,7 +390,7 @@ Mobryn,mobrin,robyn
 Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
-Mountaineer,mountain
+Mountaineer,mountain,mount
 Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy,mr piggi
@@ -411,7 +412,7 @@ N30p1r4t3,n3,n30,n30p,n30p1r4teee,n30pr4teee,n30p1r,n30pr1,n3o,n30p1,n03p,n30p1r
 Neopirate,neo
 Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero,name my hero,namemy,namymyhero,name
-Narcisse,narc,narci,narcis,narcise
+Narcisse,narc,narci,narcis,narcise,narcissi
 Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja,neeeenj,neeenj,neenja,neenja808,neej,neeenja808,neeen,neeeen, neneja
 NeonLights,neonlights,Neon,neon,neon lights
@@ -511,7 +512,7 @@ Saraaaa98,Sara,saraaa,sara
 Sarang,saran
 Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
-Savingurazz,saving,savingur,savin
+Savingurazz,saving,savingur,savin,savinguraz
 Savos,savos
 Sebulon,seb,sebu,sebul,set,subulon,devil on
 Senia,senia
@@ -647,7 +648,7 @@ XdiabloX,diablo
 xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax
 Xeni1387,Xeni
 Xerces,xer
-xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc
+xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc,xex
 xHoneyx,Honey,honey,xhoney
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi,rapidx
@@ -657,7 +658,7 @@ xRougeMasterx,Rouge,RM,roguemaster,rogue,rm,xrouge masterx,rouge master,xrogue m
 xRoYaLx,xroyalz,roy,royalx,xroy,xroyal
 xShionx,shi,shion,xshion,shionx
 xSweetiex,Sweetie,sweetie
-xTimurx,Tim,timur,tim,XT,xt,Xt,xT,xtim,xtimur
+xTimurx,Tim,timur,tim,XT,xt,Xt,xT,xtim,xtimur,time
 xTooxBlackx
 Xul Darkstorm,xul,xul darkstrorm
 xxCUPIDOxx,cupid,cupido
