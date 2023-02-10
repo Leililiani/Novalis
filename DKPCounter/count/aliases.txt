@@ -86,7 +86,7 @@ Bria Bellin,bria,bri,bellin
 Brkn2013,Brkn,brkn2013,brkn
 Bryan33,bryan33,Bryan,bryan,bryon,brayan,bry,bryanz
 Buffy,Buff,Buf,buffy,buff,buf
-Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski,bij4nski,buj4snki,bj
+Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski,bij4nski,buj4snki,bj,budj4nsku
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
 Butai,buta,but,butia
 Butcher629,Butcher,Butch,butcher629,butcher,butch
@@ -422,10 +422,10 @@ nikhilrajj,Nik,Nikhirajj,nik,nikh
 NLRogue,nl
 Noblesse,noblesse
 Nobu,nob,nobs
-nrg nrg,nrg,nrgnrg
+nrg nrg,nrg,nrgnrg,nrh
 NugNug,nugnug,Nug,nug,nug nug
 Nyx,nyx
-Odokawa,odo,odok,kawa,odowaka
+Odokawa,odo,odok,kawa,odowaka,oda
 OG Mudbone,OG,og mudbone,og
 Ojah,oh ah,oj,joah,ojha,the ojah,onah,omaha
 Olivia,olive,olivi,oliv,olivia maclear,olivia  maclear
@@ -488,7 +488,7 @@ Rhinoking1,rhino1,rhinoking1,rhino king1,king1,rhinoking01,rhinoking
 Rhinokings,rhino,rhino kings,rhino2,rhinokings2,rhino kings2,rhino kings02
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright,rick style
 Rikimarro,riki,rikim,marro,rikki
-Rikimartin,martin,mar,mart,rkimartin,rikimar
+Rikimartin,martin,mar,mart,rkimartin,rikimar,rikimart
 RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
@@ -507,7 +507,7 @@ Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra,sabr
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar,saerah m,searah m,searah
 Sagittarii,sagitari,sagittari,sagitarii,sagi,sag,sagittarrii,sagittarius,sagittarri,sagitt
-Saint Nicholas,saintnicholas,nicholas,saint
+Saint Nicholas,saintnicholas,nicholas,saint,saint nich
 Saraaaa98,Sara,saraaa,sara
 Sarang,saran
 Sasori12,Sasori,sasori,sasori12
@@ -645,7 +645,7 @@ XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra,xblack cobrax
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
-xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax
+xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax,elecktra
 Xeni1387,Xeni
 Xerces,xer
 xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc,xex
