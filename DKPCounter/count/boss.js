@@ -235,7 +235,7 @@ const Boss = {
         }
     },
     LEGACY_180: {
-        aliases: ["legacy180", "legacy_180", "natan", "athatch", "garanak", "gara", "urchaid", "maelstrom", "whirlwinds", "whirlwind", "smolach", "annihilator", "skain", "osan", "blight", "tomb", "mono"],
+        aliases: ["legacy180", "legacy", "legacy_180", "natan", "athatch", "garanak", "gara", "urchaid", "maelstrom", "whirlwinds", "whirlwind", "smolach", "annihilator", "skain", "osan", "blight", "tomb", "mono"],
         points: {
             camp: 0,
             kill4: 0,
