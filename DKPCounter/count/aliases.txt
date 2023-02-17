@@ -184,7 +184,7 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Etoik,eto,etok,etoi,etok griffiths,etiok
-Evandre,evan
+Evandre,evan,evand,evandro
 Eveleen,evel,everleen,evvlen,eveelen
 Eve21,eve
 Evondarty,evon,darty,evon darty
@@ -211,7 +211,7 @@ Formal,formal,Form,form,fromal,forma,forml
 Foxfire,fox
 Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
-Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi,frume,Zabet,zab,sabet
+Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi,frume,Zabet,zab,sabet,frumm
 FuriousRogue,Furi,furi,Furious,furious rogue
 Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo,galiio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta,gangster iv,ganster
@@ -425,7 +425,7 @@ Nobu,nob,nobs
 nrg nrg,nrg,nrgnrg,nrh
 NugNug,nugnug,Nug,nug,nug nug
 Nyx,nyx
-Odokawa,odo,odok,kawa,odowaka,oda
+Odokawa,odo,odok,kawa,odowaka,oda,odakawa
 OG Mudbone,OG,og mudbone,og
 Ojah,oh ah,oj,joah,ojha,the ojah,onah,omaha
 Olivia,olive,olivi,oliv,olivia maclear,olivia  maclear
