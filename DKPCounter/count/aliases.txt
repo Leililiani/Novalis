@@ -43,7 +43,7 @@ Armadillo,armadillo,Arma,arma,arna,arm,amradillo,armadillos
 Asgards,asgard,asg
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
-Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty,asteria l
+Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty,asteria l,astr
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
@@ -68,10 +68,10 @@ Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen,berry ice
 BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
 Bizaro,biz,biazro,bist,bizz,bizarro
-Blade77,blade
+Blade77,blade,blade 77
 BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
-Black Cobra,blackcobra,cobra
+Black Cobra,blackcobra,cobra,bcob
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
 Bloodsweezy,blood,bloods,sweezy,bloodsweez,bloodwheezy,sweeazy
 BlueGlow
@@ -184,7 +184,7 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Etoik,eto,etok,etoi,etok griffiths,etiok
-Evandre,evan,evand,evandro
+Evandre,evan,evand,evandro,eva
 Eveleen,evel,everleen,evvlen,eveelen
 Eve21,eve
 Evondarty,evon,darty,evon darty
@@ -373,7 +373,7 @@ Mancan,mancan,macan
 MaraJade,mara,jade,marja,mj
 Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
-Markistan3,Mark,markistan3,mark,markistan
+Markistan3,Mark,markistan3,mark,markistan,marki
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Mc Flaffy,mcflaffy,flaffy
@@ -649,7 +649,7 @@ xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax,elecktra
 Xeni1387,Xeni
 Xerces,xer
 xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc,xex
-xHoneyx,Honey,honey,xhoney
+xHoneyx,Honey,honey,xhoney,honeyx
 XNoirX,noir
 xRapid,xrapidd,rapid,rapidd,rapi,rapif,rapit,x rapid,rap,xrap,xrapi,rapidx
 xRedJamiex,Jamie,red jamie,jamie,xred jamiex
