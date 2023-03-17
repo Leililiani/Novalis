@@ -316,10 +316,11 @@ Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv,kvoth
 Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
+Lady Celeste,celeste,ladyceleste
 Lady Lock,lady lock
 Lady Luna,luna,lady,ladyluna
 LadyFate,ladyfate
-Lanoja Gower,lanoja,gower,lanojagower
+Lanoja Gower,lanoja,gower,lanojagower,lano
 Lanre,lanre,lan,larne
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
@@ -342,7 +343,7 @@ LifeGuard,Lg,lifeguard,lg,life
 Lightly69,light,lightly,lighty,lighty69,litghty69
 LikeaBossz,like,likea,bossz
 Lilani,lilani,Lil,lil
-LilMonster,lil monster
+LilMonster,lil monster,li
 LittleH,H,little h,h,lh
 Little Monster,littlem,monster,lm,little mister,little,littlemonster
 Liusaidh,liu,liusaid
@@ -484,8 +485,7 @@ ReignWrath,reign,wrath
 Renaissance,ren,renais,renaise,rena,renai,rennaisance,reinassance
 Reverie,rev,reve,rever,reveri
 Revive,revive
-Rhinoking1,rhino1,rhinoking1,rhino king1,king1,rhinoking01,rhinoking
-Rhinokings,rhino,rhino kings,rhino2,rhinokings2,rhino kings2,rhino kings02
+Rhinokings,rhino,rhino kings,rhino2,rhinokings2,rhino kings2,rhino kings02,Rhinoking1,rhino1,rhinoking1,rhino king1,king1,rhinoking01,rhinoking
 Rickstyle,Rick,rickstyle,rick,Brightly,Bright,brightly,bright,rick style
 Rikimarro,riki,rikim,marro,rikki
 Rikimartin,martin,mar,mart,rkimartin,rikimar,rikimart
