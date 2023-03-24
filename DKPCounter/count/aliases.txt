@@ -95,6 +95,7 @@ ByulHa,byul,byulh
 Cakes,cake
 Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
 CarSladoleda,car,cars,carsla,carslad,carslado,leda
+Cat Astrophe,catastrophe,cat
 Cazer,caz,caze,case
 Chainz,chainz,Chains,chains
 ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
@@ -152,6 +153,7 @@ Dementia,Dem,dementia,dem,demen,dement
 Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil,devils
 Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
 Dima1,Dima,dima1,dima
+Dimple,dimp
 Doc11
 Donaldtheduck,Donald,donaldtheduck,donald,donald the duck36
 Donatello,Don,donatello,don,Dona,dona
@@ -320,7 +322,7 @@ Lady Celeste,celeste,ladyceleste
 Lady Lock,lady lock
 Lady Luna,luna,lady,ladyluna
 LadyFate,ladyfate
-Lanoja Gower,lanoja,gower,lanojagower,lano
+Lanoja Gower,lanoja,gower,lanojagower,lano,lanoga gower
 Lanre,lanre,lan,larne
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
@@ -346,7 +348,7 @@ Lilani,lilani,Lil,lil
 LilMonster,lil monster,li
 LittleH,H,little h,h,lh
 Little Monster,littlem,monster,lm,little mister,little,littlemonster
-Liusaidh,liu,liusaid
+Liusaidh,liu,liusaid,liusaidh.
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama,ilama,iiama
 Lno,ino
@@ -629,7 +631,7 @@ Vortar Tolan,Vortar,vortar tolan,vortar,vortartolan
 Werts00alts,Wert,werts00alts,wert,warts,wers00alt,werts,werts00,werts00alt,wrest00alt,welts
 Whimsy,whimsy
 Whisperr,whisper,whisp
-WhiteArrow,whitearrrow
+WhiteArrow,whitearrrow,white arrow
 WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath,white death,wd
 Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
