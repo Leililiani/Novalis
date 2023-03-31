@@ -47,7 +47,7 @@ Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty,asteria l
 Athlete,Lete,athlete,lete
 Atrocity,atro,atroc
 Audden,aud,audd,audden finley
-Autumn,autumnn,autum,aut,autuum,autumm
+Autumn,autumnn,autum,aut,autuum,autumm,ayt
 Avalon2,avalon2,Avalon,avalon,Ava,ava
 AxeYouAQuestion,axeyouaquestion,Axe,axe,axeyou,axeyoua,question
 Ayana,aya,ayan,alana
@@ -311,7 +311,7 @@ Kinglad,king,lad
 KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
-Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks,faii,lsfaii
+Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks,faii,lsfaii,fai
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Korlisra,kor,korl,korli,kol,korisa,korlisa,kora,koisra,korlis,korlrisa
 Kos,kos
@@ -376,7 +376,7 @@ Mancan,mancan,macan
 MaraJade,mara,jade,marja,mj
 Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
-Markistan3,Mark,markistan3,mark,markistan,marki
+Markistan3,Mark,markistan3,mark,markistan,marki,markis
 Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Mc Flaffy,mcflaffy,flaffy
@@ -579,7 +579,7 @@ The Diz,Diz,the diz,diz,thediz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
 The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler,thehealer,theh34ler
 The Last Ranger,the last ranger
-The Machine,themachine,machine,mach
+The Machine,themachine,machine,mach,machi
 TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
