@@ -17,7 +17,7 @@ Adam09,Adam,adam
 Aemis,aemis
 Aetna,aetna
 Ahava,aha,shaba
-Ajentj,ajentj,aj,Aj,ajent,aje,ajenj,ajenjt,ajenti,ah,ajeent,atentj
+Ajentj,ajentj,aj,Aj,ajent,aje,ajenj,ajenjt,ajenti,ah,ajeent,atentj,ajentji
 Akeno,akeno
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
@@ -88,7 +88,7 @@ Bryan33,bryan33,Bryan,bryan,bryon,brayan,bry,bryanz
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski,bij4nski,buj4snki,bj,budj4nsku
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
-Butai,buta,but,butia
+Butai,buta,but,butia,booty tooty
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
 ByulHa,byul,byulh
@@ -134,7 +134,7 @@ Dakuna,Dak,dakuna,dak,dam
 Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur,dalamudar
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah,dalia
 Daric Pierce,Daric,daric pierce,daric
-Dark Lizard,Dark,lizard,dark lizzard,darklizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
+DarkLizard,Dark,lizard,dark lizzard,dark lizard,darklizzard,drak lizard,draklizard,far lizard,dark dizard,iizard,dark izard,liz,dark lizad,dark lord
 Darkly,darkly
 Darkstorm
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
@@ -164,7 +164,7 @@ Dragole,drago,dragol,dragone,drag
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot,foot,drlilfoor
+DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot,foot,drlilfoor,simppatrol
 DrStrange,strange,dr strange
 DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
@@ -244,6 +244,7 @@ GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,guc
 Guyun,Guy,guyun,guy,guyon
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 H0RT3N,horten,hort,hort3n
+H4TD0GZ,hotdogz,hotd0gz,hatdogz,hatd0gz,hotdogs,hotdog,hot dog,hot dogs,h4td0gz
 Halder,harder,hader,hald,hal,hard,alder
 Headhunterz,headhunter,head
 HealingSpells,healing
@@ -260,14 +261,14 @@ Hostile,hostile
 Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
 Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur,hursaaaaaay,Hursaaaaaay,hursaaaaaaay
-I Am,Iam,i am,iam
+IAm,I am,i am,iam
 I Bite,bite,ibite
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr,icxrouge
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi,ilumin
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi,ilumin,ilumeee
 Illunis,ilunis,illun,ilun
 Illusions
 Ily2,Ily,ily2,ily
@@ -320,7 +321,7 @@ Laark,lark,laar,lar
 Lady Anarchy,lady anarchy
 Lady Celeste,celeste,ladyceleste
 Lady Lock,lady lock
-Lady Luna,luna,lady,ladyluna
+LadyLuna,luna,lady,lady luna
 LadyFate,ladyfate
 Lanoja Gower,lanoja,gower,lanojagower,lano,lanoga gower
 Lanre,lanre,lan,larne
@@ -393,7 +394,7 @@ Mobryn,mobrin,robyn
 Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
-Mountaineer,mountain,mount
+Mountaineer,mountain,mount,mountie
 Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy,mr piggi
@@ -525,16 +526,16 @@ Shooter,shooter guy,shooterguy,sg,shooter  guy
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze,sk3,sk33se,sweezt
-Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher
+Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher,skull crusher,skull krusher,skullster,skully wully
 Sky Era,sky era
 Slasher42,slash,slasher,dasher
-sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
+sneakybeaky,sb,Sneaky beaky,Sb,sneaky beaky,sneaky,Sneaky,Sneaky beaky
 Sneakyattack,sneaky attack,sneackyattack
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soe,soe
 Sor Uren,sor,soruren,uren
-Soul1,soul,sou1,soup
+Soul1,soul,sou1,soup,soulami
 Soul Warrior,soul warrior,Sw,sw,soulwarrior
 Soulless,soulless,soulles
 Spacemaker 300,Spacemaker,spacemaker3000
@@ -610,7 +611,7 @@ Unheal,inheal,un heal,unh
 UrMom69,ur,urm,urmom,mom,mom69,urmum69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
-Vagos,vago,gos,vag
+Vagos,vago,gos,vag,vagos,vagman
 Valindra,Val,valindra,val,valin
 Valkyrja,valkyria,valk,valkyr,valkrja,valkryja,valkyra,valky,valkryja
 Valyria,valyria,Valy,valy,Valyr,valyr,valeria,balyria,valria,valrya
@@ -639,7 +640,7 @@ Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
 Windward,Wind,windward,wind,windy,winward,win,windward windward
 Wiro,wiro
-Wisteria,wist,wister,wisy
+Wisteria,wist,wister,wisy,astin powers
 xAaliyahx,aaliyah,xaaliyah,aliyah,xaliyahx,xaliyah
 XBalanque,xbal,x,balanque,bal,xbalan,xball,x balance,xblanque,bala,xbala,xbalanq,xblanq
 xBast,Bast,xbast,bast,x bast
