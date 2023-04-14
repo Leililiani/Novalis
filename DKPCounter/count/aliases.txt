@@ -526,7 +526,7 @@ Shooter,shooter guy,shooterguy,sg,shooter  guy
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze,sk3,sk33se,sweezt
-Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher,skull crusher,skull krusher,skullster,skully wully
+Skullkrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher,skull crusher,skull krusher,skullster,skully wully
 Sky Era,sky era
 Slasher42,slash,slasher,dasher
 sneakybeaky,sb,Sneaky beaky,Sb,sneaky beaky,sneaky,Sneaky,Sneaky beaky
@@ -567,7 +567,7 @@ Tank of Mabon,tank of mabon,tankofmabon,tank ofmabon,tankof mabon,tank
 Tankie,tankie,Tanki,tanki
 tankasaurus,Tankasaurus
 Targaryen,targ,gary,tarq,targareyn
-Teal,tael
+Teal,tael,tea
 Teddy Westside,teddy,teddywestside,ted
 Temperr,Temper,temperr,temper,temp
 Tenacity,tenacity,Ten,ten,tena,tenac,tenisity,tenicity
