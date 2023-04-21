@@ -73,7 +73,7 @@ BlackRhinoJr,Blackrhino
 BlackSash,sash,black sash,blaksash,blak sash,sasy,sasv,blachsash,bs,backsash
 Black Cobra,blackcobra,cobra,bcob
 BlazinStar,blazinstar,Blazin,blazin,blazing,blazingstar,blazing
-Bloodsweezy,blood,bloods,sweezy,bloodsweez,bloodwheezy,sweeazy
+Bloodsweezy,blood,bloods,sweezy,bloodsweez,bloodwheezy,sweeazy,sweeezy
 BlueGlow
 Bobymage,Boby,bobymage,boby
 Bone7,bone
@@ -437,6 +437,7 @@ Omega,Megs,Mega,omega,megs,mega
 OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
 Oopsie,oops,oopsi,opsie,opsi
+OPss,ops,op
 Oryx
 OwO,owo,0w0
 Owein Colt,owein,owe,colt,oweincolt
@@ -648,7 +649,7 @@ XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra,xblack cobrax
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
-xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax,elecktra
+xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax,elecktra,elect
 Xeni1387,Xeni
 Xerces,xer
 xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc,xex
