@@ -26,6 +26,7 @@ Aleister,aleister,Ale,ale,alister
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp,apli
 AmritaAnanda,amrita,rita,amarita,Amarita,amrita ananda,america,armita,amirta
+Anapa,anap
 Angel ofMercy,angel,angelofmercy,angelof mercy,angel of mercy,mercy,aom,angle ofmercy,angel mercy,ange,angle of mercy,angel
 Angler,angler,Angle
 Anonymous Beta,anon,anonymous,anonymousebeta,beta,anonymousbeta,anonbeta
@@ -185,8 +186,9 @@ Episode,Epi,episode,epi
 Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
+Ethhic,ethicx,ethic,eth
 Etoik,eto,etok,etoi,etok griffiths,etiok
-Evandre,evan,evand,evandro,eva
+Evandre,evan,evand,evandro,eva,evandra
 Eveleen,evel,everleen,evvlen,eveelen
 Eve21,eve
 Evondarty,evon,darty,evon darty
@@ -215,7 +217,7 @@ Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi,frume,Zabet,zab,sabet,frumm
 FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo,galiio
+Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo,galiio,galz
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta,gangster iv,ganster
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan,ganni
 Garein,garein
@@ -506,7 +508,7 @@ Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal,royal ninja,ninja,royalnonja,roy
 Royalpain
-Rustung,rust
+Rustung,rust,rusting
 Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab,sabb,sabs,san,sav,sabres gethin,sebra,sebras,sabra,sabr
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah,saw,mager,sar,saerah m,searah m,searah
@@ -635,7 +637,7 @@ Whimsy,whimsy
 Whisperr,whisper,whisp
 WhiteArrow,whitearrrow,white arrow
 WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath,white death,wd
-Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
+Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes,white yea,whit
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
@@ -650,7 +652,7 @@ XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
 xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax,elecktra,elect
-Xeni1387,Xeni
+Xeni1387,Xeni,xen
 Xerces,xer
 xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc,xex
 xHoneyx,Honey,honey,xhoney,honeyx
