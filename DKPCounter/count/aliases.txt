@@ -186,7 +186,7 @@ Episode,Epi,episode,epi
 Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
-Ethhic,ethicx,ethic,eth
+Ethhic,ethicx,ethic,eth,ethhicx
 Etoik,eto,etok,etoi,etok griffiths,etiok
 Evandre,evan,evand,evandro,eva,evandra
 Eveleen,evel,everleen,evvlen,eveelen
