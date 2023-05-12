@@ -165,7 +165,7 @@ Dragole,drago,dragol,dragone,drag
 DragonSlayer,dragonsl4yer,dragaonsl,dragonsl,dragon,dragons,slayer,slay,dragon slayer,sl4yer,dragonsl4er
 Dragon Fangs,Fangs,dragon fangs,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury,drakon
-DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot,foot,drlilfoor,simppatrol
+DrLilFoot,drlil,lilfoot,lil foot,drlil foot,drillfoot,drliloot,foot,drlilfoor
 DrStrange,strange,dr strange
 DRUID,druid,DRU1D,dru1d,drud,drui1d
 DruiDiz
@@ -186,7 +186,7 @@ Episode,Epi,episode,epi
 Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
-Ethhic,ethicx,ethic,eth,ethhicx
+Ethhic,ethicx,ethic,eth,ethhicx,ethh
 Etoik,eto,etok,etoi,etok griffiths,etiok
 Evandre,evan,evand,evandro,eva,evandra
 Eveleen,evel,everleen,evvlen,eveelen
@@ -246,7 +246,7 @@ GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,guc
 Guyun,Guy,guyun,guy,guyon
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 H0RT3N,horten,hort,hort3n
-H4TD0GZ,hotdogz,hotd0gz,hatdogz,hatd0gz,hotdogs,hotdog,hot dog,hot dogs,h4td0gz
+H4TD0GZ,hotdogz,hotd0gz,hatdogz,hatd0gz,hotdogs,hotdog,hot dog,hot dogs,h4td0gz,h4t,h4tdogz
 Halder,harder,hader,hald,hal,hard,alder
 Headhunterz,headhunter,head
 HealingSpells,healing
@@ -528,6 +528,7 @@ Shipwreck,ship,wreck
 Shooter,shooter guy,shooterguy,sg,shooter  guy
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
+simppatrol,simp
 Sk33ze,sk33ze,Skeeze,skeeze,sk3,sk33se,sweezt
 Skullkrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher,skullkrucher,skull crusher,skull krusher,skullster,skully wully
 Sky Era,sky era
@@ -637,7 +638,7 @@ Whimsy,whimsy
 Whisperr,whisper,whisp
 WhiteArrow,whitearrrow,white arrow
 WHITEDEATH,whitedeath,WhiteDeath,Death,death,whihitedeath,white death,wd
-Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes,white yea,whit
+Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes,white yea,whit,whiteys
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
@@ -651,7 +652,7 @@ XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black,xxblackcobra,xblack cobrax
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
-xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax,elecktra,elect
+xElektrax,ele,elek,elektra,xelectrax,xelectra,electra,electrax,elecktra,elect,elekra
 Xeni1387,Xeni,xen
 Xerces,xer
 xExTiNcTx,ext,extinct,xextinct,extinctx,dextinctx,exe,exit,extinc,xextinc,xex
