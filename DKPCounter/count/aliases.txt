@@ -42,7 +42,7 @@ Ardyn,ardin,arden,ard
 Arlene Murray,arlene
 Armadillo,armadillo,Arma,arma,arna,arm,amradillo,armadillos
 Asgards,asgard,asg
-Ashley A,Ashley,Ash,ashley a,ashley,ash
+Ashley A,Ashley,Ash,ashley a,ashley,ash,ashleya
 AsianKidXX,Asian,Asia,asiankid,asian,asia
 Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria,asti,aat,asty,asteria l,astr
 Athlete,Lete,athlete,lete
@@ -187,7 +187,7 @@ Ertuu,ert,ertu
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan,ethan1
 Ethhic,ethicx,ethic,eth,ethhicx,ethh
-Etoik,eto,etok,etoi,etok griffiths,etiok
+Etoik,eto,etok,etoi,etok griffiths,etiok,grif
 Evandre,evan,evand,evandro,eva,evandra
 Eveleen,evel,everleen,evvlen,eveelen
 Eve21,eve
@@ -327,6 +327,7 @@ LadyLuna,luna,lady,lady luna
 LadyFate,ladyfate
 Lanoja Gower,lanoja,gower,lanojagower,lano,lanoga gower
 Lanre,lanre,lan,larne
+Lateralus,later,lateral
 Layla1,lay,layla
 LazyScy,Lazy,lazyscy,lazy
 Leaf Thorinson,leaf,thorinson
@@ -525,7 +526,7 @@ Senia,senia
 SerialKilla,Killa,serialkilla,killa
 Shadowstrikerx,striker,strikerx,shadowstriker
 Shipwreck,ship,wreck
-Shooter,shooter guy,shooterguy,sg,shooter  guy
+Shooter,shooter guy,shooterguy,sg,shooter  guy,shooter
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
 simppatrol,simp
