@@ -217,7 +217,7 @@ Franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro,myth,frozenmyth,frozem
 Frumentarii,fru,frum,frumentari,frue,frumen,frumnen,frument,from,deum,frun,frumentary,frumentaris,frumi,frume,Zabet,zab,sabet,frumm
 FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo,galiio,galz
+Galio,galio,galoi,gaio,galli,halio,gal,gallo,glaio,galioq,gailo,galiio,galz,gap
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang,gansteriv,gamgsta,gangsta,gangster iv,ganster
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan,ganni
 Garein,garein
@@ -385,6 +385,7 @@ Marknato,marknato,Nato,nato
 Master Splinter,master splinter,Splint,splint,splinter,master
 Mc Flaffy,mcflaffy,flaffy
 Medical,medical,Med,med
+Medicare
 Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,on mhhmm,mmhm,mhhmmmm,mmhhmm,mhn
 Michaelangelo,Mich,michaelangelo,mich,much,Michael,michaelengelo,mickaelangelo,michelangelo
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
@@ -558,6 +559,7 @@ Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
 Stringer,String,stinger
 Stu,st
+Sun Tzu,suntzu
 Sundown,Sun,sundown,sun,sundow
 Supermedo,super,medo,super medo
 Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge,The Surgeon,thesurgeon,the surg,sarge
@@ -591,6 +593,7 @@ TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals,therm,thermal
 TheWino,wino,wimp,thewimp,the wino,thewho,threwino
+Thyestes,thy,thest,thestes
 Thorin Wallace,thorin,wallace
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz,thunder buns,thundebuns,thunder
 Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
@@ -613,6 +616,7 @@ Twisted Rogue,twisted,twist,twiste
 Tymur,tymur,Ty,ty,Tym,tym,ty ur
 Ungodly,ungodly
 Unheal,inheal,un heal,unh
+UnitedHealth,united
 UrMom69,ur,urm,urmom,mom,mom69,urmum69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
