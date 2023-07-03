@@ -89,7 +89,7 @@ Bryan33,bryan33,Bryan,bryan,bryon,brayan,bry,bryanz
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj,buj4,bujanksi,bujanski,buj4anski,bij4nski,buj4snki,bj,budj4nsku
 Bunibuns,bunibuns,Buni,buni,bun,bun bun,bunbun,bunny buns,bunbuns,bunnibuns
-Butai,buta,but,butia,booty tooty
+Butai,buta,but,butia,booty tooty,burai
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
 ByulHa,byul,byulh
@@ -131,7 +131,7 @@ Dantrag,Dan,Dant
 DaedricLord,dae
 DaedricPrince
 DailyDouble,daily double,bailydouble,daily,bailydouble,daily d’où il,double,dd
-Dakuna,Dak,dakuna,dak,dam
+Dakuna,Dak,dakuna,dak,dam,daku,dakz
 Dalamadur,dala,dalam,dalamder,dalamader,dalamar,dalma,dalmadur,dalamudar
 Daliah,dal,dali,dalah,dali's,dalilah,delilah,dahiah,dalia
 Daric Pierce,Daric,daric pierce,daric
@@ -246,7 +246,7 @@ GucciFlipFlops,gucci,flip,flops,flipflops,flipflop,flop,gucciflip,gucci flip,guc
 Guyun,Guy,guyun,guy,guyon
 GwartLucas,lucas,gwart,gwar,gwarr,gwartthhs,qwart
 H0RT3N,horten,hort,hort3n
-H4TD0GZ,hotdogz,hotd0gz,hatdogz,hatd0gz,hotdogs,hotdog,hot dog,hot dogs,h4td0gz,h4t,h4tdogz
+H4TD0GZ,hotdogz,hotd0gz,hatdogz,hatd0gz,hotdogs,hotdog,hot dog,hot dogs,h4td0gz,h4t,h4tdogz,dogz
 Halder,harder,hader,hald,hal,hard,alder
 Headhunterz,headhunter,head
 HealingSpells,healing
@@ -269,7 +269,7 @@ iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 ICxRogue,icxrogue,icx,icxr,icxrouge
 IDRC,idrc
-Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
+Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,illillillilll
 Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi,ilu,ilui,ilium,illu,ilimi,illum,iliumi,ilumin,ilumeee
 Illunis,ilunis,illun,ilun
 Illusions
@@ -303,7 +303,7 @@ Katrak,katrak,rak
 Katrek,katrek,rek,katrec,katr
 KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
 Kefla,kefla,Kef,kef
-Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog,kellogg,kel
+Kellogs,kellogs,kelloggs,kellgos,kellogs,kellog,kellogg,kel,kell
 Khaine,kane,kaine,khain
 Khun,kh
 Kidruzy,kid,ruzy,kidr
@@ -314,7 +314,7 @@ Kinglad,king,lad
 KingMaybach,kingmay,maybach,king maybach,kingmybach
 Kit Kat,kitkat,kit,kat,tik tak
 Kittenkicker,kitten,kitt,kicker,kick,kittenkick,:(
-Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks,faii,lsfaii,fai
+Ksfaii,ksf,ksfai,kasfaii,kafaii,ksfa,ksafii,ksafaii,ks,faii,lsfaii,fai,kfs,lsf
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Korlisra,kor,korl,korli,kol,korisa,korlisa,kora,koisra,korlis,korlrisa
 Kos,kos
@@ -403,7 +403,7 @@ Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy,mr piggi
 Mr. Tiger,mr tiger,tiger,mrtiger
-MrLahey,mr lahey,lahey,mr lahy
+MrLahey,mr lahey,lahey,mr lahy,mr lah
 MrNiceGuy420,mrniceguy,mrnice,niceguy,nice
 MrRogue,Mr,mrrogue,mrrouge
 MrSchmeaty,mrscheaty,schmeat,mrshmeaty,shmeaty,schmeaty,mr schmeaty,meaty,mrsmeaty,mrscheamty
@@ -426,7 +426,7 @@ Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808
 NeonLights,neonlights,Neon,neon,neon lights
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
-nikhilrajj,Nik,Nikhirajj,nik,nikh
+nikhilrajj,Nik,Nikhirajj,nik,nikh,nikhil
 NLRogue,nl
 Noblesse,noblesse
 Nobu,nob,nobs
@@ -616,7 +616,7 @@ Twisted Rogue,twisted,twist,twiste
 Tymur,tymur,Ty,ty,Tym,tym,ty ur
 Ungodly,ungodly
 Unheal,inheal,un heal,unh
-UnitedHealth,united
+UnitedHealth,united,united health
 UrMom69,ur,urm,urmom,mom,mom69,urmum69
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
