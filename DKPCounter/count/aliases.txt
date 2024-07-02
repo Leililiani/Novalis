@@ -66,6 +66,7 @@ Belisama,Beli,belisama,beli,Bel,bel
 Benko,benki,benk
 Berkanf,Berk,berkan,berk
 Berry Iceman,berry,iceman,beryy,berryiceman,berryicemen,berry ice
+BigChris,Chris
 BiggieLDN,Big,biggie,big,bihgie,ldn
 Bill Gryll,Bill,bill gryll,bill
 Bizaro,biz,biazro,bist,bizz,bizarro
