@@ -700,5 +700,5 @@ Zeero,Zero,zeero,zero
 Zenitsu,zenitsu,Zen,zen,zenitus
 Zn,zn
 Zodiac X,zodiac
-Zol,zol,Vannee,Van,vannee,van,Itxaro,itxaro,itx,xaro,txaro,zoo
+Zol,zol
 Zxn
