@@ -119,7 +119,7 @@ Coldsteel,cold,steel,xcoldsteelx,xxcoldsteelxx,cold steel
 Combust,comb
 Corpseman,corpse,corp,corpsman,corpse man,corps man
 Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
-Cristiana,christi,christ,christianaaa,christiannaaaa,chris,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina,cristis,christinaa,cristina,cristinaa,christina
+Cristiana,christi,christ,christianaaa,christiannaaaa,cris,christiana,cristi,crist,cristianaaa,cristianaaaa,criss,cristian,cristina,cristis,christinaa,cristina,cristinaa,christina
 Crixos*,Crix,crixos,crix
 Cruiser,Cruise,cruiser,cruis,cruise
 Crusher1,Crusher,Crush,crusher1,crusher,crush,crisher1,crisher,crish
