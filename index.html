@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="DKPCounter/count/boss.js"></script>
+    <script src="DKPCounter/count/pointparser.js"></script>
+    <script src="DKPCounter/count/count.js"></script>
+    <script src="DKPCounter/count/playeraliases.js"></script>
+    <link rel="stylesheet" type="text/css" href="DKPCounter/count/main.css">
+    <script>
+        function formatDKP() {
+			loadAliases(document.getElementById("playeraliases").value);
+            let input = document.getElementById('dkpinput').value;
+            let formatted = formatInput(input);
+            document.getElementById("dkpoutput").value = formatted;
+        }
+        function countDKP() {
+			loadAliases(document.getElementById("playeraliases").value);
+            let input = document.getElementById('dkpinput').value;
+            let formatted = formatInput(input);
+            let counted = countPoints(formatted);
+            document.getElementById("dkpoutput").value = counted;
+        }
+        function clearOutput() {
+            document.getElementById("dkpoutput").value = "";
+        }
+		var playerAliases = "";
+		
+		var client = new XMLHttpRequest();
+		client.open('GET', 'https://raw.githubusercontent.com/Leililiani/Novalis/master/DKPCounter/count/aliases.txt');
+		client.onload = function() {
+  			playerAliases = client.responseText
+			document.getElementById("playeraliases").value = playerAliases;
+		}
+client.send();
+
+    </script>
+</head>
+<body style="text-align:left;" onLoad="document.getElementById('playeraliases').value = playerAliases;">
+    <div id="container">
+        <div id="left_container">
+            <textarea id="dkpinput" style="width:100%;height:500px;resize:none;"></textarea>
+            <button type="button" style="display:inline-block;" onclick="formatDKP();">Format</button>
+            <button type="button" style="display:inline-block;" onclick="countDKP();">Count DKP</button>
+			</p>
+			<b>Aliases</b>
+			<textarea id="playeraliases" style="width:100%;height:250px;resize:none;"></textarea>
+        </div>
+
+        <div id="right_container">
+            <textarea id="dkpoutput" style="width:100%;height:500px;resize:none;"></textarea>
+            <button type="button" style="display:inline-block;" onclick="clearOutput();">Clear</button>
+
+        </div>
+</div>
+        <div style="margin:10px;float:left;">
+        <b>Instructions</b>
+        <br />
+        This is a web page for counting "Dragon Kill Points" for Novalis. To begin you will need to download the desktop application, <a href="">Line Messenger</a>.
+        <br />
+        Login and navigate to the group where screenshots of bosses are posted.
+        <br />
+        Select everything in that group since the last count, copy, and paste it into the textbox on the left side. Line will add timestamps and other noise to messages in that group but they can be filtered out.
+        <p />
+        Pressing "Count DKP" will count up all the points and display them in the "name, points" format
+        <br/>
+        Pressing "Format" will filter out everything except for the lines following the correct syntax. This can be used to debug why some players aren't getting an accurate amount of points.
+        <p />
+        This script counts points based on messages (not screenshots) following the DKPCounter syntax found <a href="../syntax.md">here</a>.
+        <br />
+        Points awarded for each boss can be found <a href="../points.md">here</a>.
+
+        <p />
+        <b>Awarding on WebDKP</b>
+        <br />
+        Originally this was a Java desktop application but since it was mainly basic string parsing I was able to rewrite it in JavaScript and create this web page. All this page does is count points; it does not automatically post them on WebDKP.
+        Posting points on WebDKP will require you to copy the output of this web page into AwardDKP, the desktop application that makes it easier to award these points. That application is more complicated and based around manipulating HTTP requests. This is not something that I will be able to create a JavaScript page for.
+        <p />
+        Some people had problems running my software on their computer which is the reason behind this page. Even if you must manually award points on WebDKP, it is still less time consuming then counting points by hand. This page is to make sure that counts get done during periods where I am inactive without having to resort to counting manually.
+    </div>
+</body>
+</html>
