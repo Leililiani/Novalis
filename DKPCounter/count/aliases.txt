@@ -57,7 +57,7 @@ NitesDeath,nites,nite
 Peachyy,peachy,peach
 Pop Tarts,poptarts,poptart,pop
 Pyromancer,pyro
-RangedAssasin,ranged assassin,ranged assasin,ranged,ra
+RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged,ra
 RitZ1,ritz,rit
 S0Z0,sozo
 Sabras Gethin,sabras,sab
