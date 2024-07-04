@@ -48,7 +48,7 @@ Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,m
 Mo Mo,momo,mo,mo-mo,mono
 Morgatha,morg
 Mountaineer,mountain,mount
-Mr piggi,mrpiggi,piggy
+Mr piggi,mrpiggi,piggi
 Mr Frog,mrfrog,frog
 MrNiceGuy420,mrniceguy,mrnice,niceguy,guy
 Myworld1,myworld,world
@@ -57,12 +57,12 @@ NitesDeath,nites,nite
 Peachyy,peachy,peach
 Pop Tarts,poptarts,poptart,pop
 Pyromancer,pyro
-RangedAssasin,rangedassassin,ranged,ra
+RangedAssasin,ranged assassin,ranged,ra
 RitZ1,ritz,rit
 S0Z0,sozo
 Sabras Gethin,sabras,sab
-Saerah Magar,saerah,sae
-Saraaaa98,saraaa,sara
+Saerah Magar,saerah,sae,saw
+Saraaaa98,saraaa98,saraaa,sara
 Serene,sereene,sere,ser
 Shooter guy,shooterguy,shooter
 Steeeeve,steeeve,steeve,steve
@@ -74,7 +74,7 @@ Treasa,trea
 Tuila,tulia,tul
 Viscaria,visc,vis
 xHoneyx,xhoney,honey
-xRedJamiex,redjamie,red,jamie,xred
+xRedJamiex,redjamie,red jamie,red,jamie,xred
 xXironhideXx,ironhide
 xxTHORxx,thor
 Zol
