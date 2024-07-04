@@ -8,7 +8,7 @@ Armadillo,arma,arm
 Artemisia,arte
 Autumnn,autumn,aut
 Bigchris,chris
-BigFl0ydGaming,bigfl0yd,fl0yd,bigfloyd,floyd
+BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd
 Bizaro,biz
 Butai,but
 c00kie,cookie,cook
@@ -42,7 +42,7 @@ LockBlock
 Luminous,lumin,lum
 Maev,mae,meave,meav
 Mamison,mami
-Mc Flaffy,mcflaffy,flaffy
+Mc Flaffy,mcflaffy,flaffy,fluffy
 Menhit,men,hit
 Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,mmhm,mhhmmmm,mmhhmm,mhn
 Mo Mo,momo,mo,mo-mo,mono
@@ -57,7 +57,7 @@ NitesDeath,nites,nite
 Peachyy,peachy,peach
 Pop Tarts,poptarts,poptart,pop
 Pyromancer,pyro
-RangedAssasin,ranged assassin,ranged,ra
+RangedAssasin,ranged assassin,ranged assasin,ranged,ra
 RitZ1,ritz,rit
 S0Z0,sozo
 Sabras Gethin,sabras,sab
