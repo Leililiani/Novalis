@@ -62,8 +62,8 @@ grimheals,grim
 guardianAngel,guardian angel,ga
 Hiiiiiiiii,Hiiiiiiii,hiiiiiii,hiiiiii,hiiiii,hiiii,hiii,hii,hi
 Holmes,homes
-I AM,iam
-I Bite,ibite,bite
+IAM,i am
+IBite,i bite,bite
 ImightNot
 Inactive,ina
 Iseabal,isea,ise,isaebel,isabel,iseabel
@@ -119,7 +119,7 @@ Myworld1,myworld,world
 Narcisse,narc,narci,narcis,narcise,narcissi
 nikhilrajj,nikhil,nik
 NitesDeath,nites,nite
-Nobu
+Nobu,nob
 NugNug,nug
 Odokawa,odo,odok,odowaka,oda,odakawa
 OliviaMacLear,olivia maclear,olivia
