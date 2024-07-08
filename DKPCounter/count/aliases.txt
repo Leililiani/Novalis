@@ -19,7 +19,8 @@ Ayana
 Badassassin1,badassassin
 Bangin,bang
 Bape
-Bigchris,chris
+Berryiceman,berry iceman,berry,iceman
+Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd
 Bizaro,biz
 Bojji,bojii
@@ -39,8 +40,8 @@ DaricPierce,daric pierce,daric
 DarkWing71,darkwing,wing
 Dayanara,daya,day
 Ddd5ddd5,ddd5,dd5,d5
-deadp00l,deadpool,pool,p00l
-DismantldSoul,dismantled,dis
+DeadP00I,deadpool,pool,p00l
+DismantldSoul,dismantld,dismantled,dis
 Donatello,don,dona
 DRU1D,druid
 Elementz,element,ele,elem,elements
@@ -92,7 +93,7 @@ Maev,mae,meave,meav
 Maga,mag
 Mamison,mami
 Mancan,man
-Markistan3,mark,markistan,marki,markis
+Markistan3,mark,markistan,marki,markis,markstain
 MasterSplinter,master splinter,splinter
 McFlaffy,mc flaffy,flaffy,fluffy
 Medicare,medi,med
@@ -112,7 +113,7 @@ MrFrog,mr frog,frog
 MrGoat,mr goat,goat
 MrGrizzly,mr grizzly,grizzly
 MrNiceGuy420,mrniceguy,mrnice,niceguy,guy
-Mrpiggi,mr piggi,piggi
+Mrpiggi,mr piggi,piggi,mr piggy,mrpiggy,piggy
 MrsHolmes,mrs holmes
 Mythic,myth
 Myworld1,myworld,world
@@ -146,7 +147,7 @@ SabrasGethin,sabrags gethin,sabras,sab
 SaerahMagar,saerah magar,saerah,sae,saw
 Sagittarii,sagittari,sagitarii,sagitari,sagi,sag,sagittarius
 Sajna,saj.sajn
-Saraaaa98,saraaa98,saraaa,sara
+Saraaaa98,saraaa98,saraaa,saraa,sara
 Serene,sereene,sere,ser
 Shooterguy,shooter guy,shooter
 SirWilliam1,sir william,william
@@ -170,11 +171,12 @@ Thunderbuns,buns
 Thyestes,thy
 ToxICfire,toxi
 Treasa,trea
-Tuila,tulia,tul
+Tuila,tulia,tuzla,
 Twistedrogue,twisted rogue
 Twistedwarrior,twisted warrior
 Tymur
 UnitedHealth,united
+Vagos,Vag
 vannee,vann,van
 Vapegod
 Vendy
