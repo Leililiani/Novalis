@@ -23,6 +23,7 @@ Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd
 Bizaro,biz
+BlackAsian,black asian
 Bojji,bojii
 Brazil
 Butai,but
@@ -73,6 +74,7 @@ Izumi
 Juxta,jux,juta
 KatieMcArn,katie mcarn,katie,kat
 Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
+Khaine
 Killua13,killua,kill
 Kingwatcher,kingw,kw
 Korlisra,korl,kor,korli
@@ -83,8 +85,9 @@ LeafThorinson,leaf thorinson,leaf
 Leemaster,lee
 Legendmoka,legend moka,moka
 Leililiani,leil,lei
-little monster,monster,lm
+little monster,monster,lilmonster
 Liusaidh,liusaidh,liu,liusaid,liusaidh
+Lock_Block,lock block
 LockBlock
 Luminous,lumin,lum
 Lw
@@ -121,6 +124,7 @@ Narcisse,narc,narci,narcis,narcise,narcissi
 nikhilrajj,nikhil,nik
 NitesDeath,nites,nite
 Nobu,nob
+nrgnrg,nrg
 NugNug,nug
 Odokawa,odo,odok,odowaka,oda,odakawa
 OliviaMacLear,olivia maclear,olivia
@@ -166,6 +170,7 @@ Taffy
 TerminNater,terminater,term
 Thanatus,than
 Thefuture
+TheMachine,the machine,machine
 ThorinWallace,thorin wallace,thorin
 Thunderbuns,buns
 Thyestes,thy
@@ -175,13 +180,14 @@ Tuila,tulia,tuzla,
 Twistedrogue,twisted rogue
 Twistedwarrior,twisted warrior
 Tymur
+ulavanking,ulavan king,ulavan,uk
 UnitedHealth,united
 Vagos,Vag
 vannee,vann,van
 Vapegod
 Vendy
 Vexey
-Viscaria,visc,vis
+Viscaria,visc,vis,viscera
 VortarTolan,vortar,vortar tolan
 WhiteArrow,white arrow
 WHITEDEATH
