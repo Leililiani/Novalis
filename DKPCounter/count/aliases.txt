@@ -182,8 +182,8 @@ Twistedwarrior,twisted warrior
 Tymur
 ulavanking,ulavan king,ulavan,uk
 UnitedHealth,united
-Vagos,Vag
-vannee,vann,van
+Vagos,vag,vagis
+Vannee,vann,van
 Vapegod
 Vendy
 Vexey
