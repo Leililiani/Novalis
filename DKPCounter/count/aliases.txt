@@ -41,7 +41,7 @@ DaricPierce,daric pierce,daric
 DarkWing71,darkwing,wing
 Dayanara,daya,day
 Ddd5ddd5,ddd5,dd5,d5
-DeadP00I,deadpool,pool,p00l
+DeadP00I,deadpool,pool,p00l,deadp00l
 DismantldSoul,dismantld,dismantled,dis
 Donatello,don,dona
 DRU1D,druid
@@ -156,7 +156,7 @@ Serene,sereene,sere,ser
 Shooterguy,shooter guy,shooter
 SirWilliam1,sir william,william
 Sk33ze,skeeze
-Skullkrusher,skull,skully
+Skullkrusher,skull,skully,skullcrusher
 Slasher42,slasher
 Sorvia
 Spacemaker3000,spacemaker,space
