@@ -83,9 +83,9 @@ LanojaGower,lanoja gower,lanoja,gower,lano
 Lateralus,lateral,later
 LeafThorinson,leaf thorinson,leaf
 Leemaster,lee
-Legendmoka,legend moka,moka
+Legendmoka,legend moka,moka,legend
 Leililiani,leil,lei
-little monster,monster,lilmonster
+littlemonster,little monster,monster,lilmonster,little
 Liusaidh,liusaidh,liu,liusaid,liusaidh
 Lock_Block,lock block
 LockBlock
