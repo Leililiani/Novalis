@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <script src="boss.js"></script>
-    <script src="pointparser.js"></script>
-    <script src="count.js"></script>
-    <script src="playeraliases.js"></script>
+    <script src="DKPCounter/count/boss.js"></script>
+    <script src="DKPCounter/count/pointparser.js"></script>
+    <script src="DKPCounter/count/count.js"></script>
+    <script src="DKPCounter/count/playeraliases.js"></script>
     <link rel="stylesheet" type="text/css" href="main.css">
     <script>
         function formatDKP() {
@@ -28,7 +28,7 @@
 		var playerAliases = "";
 		
 		var client = new XMLHttpRequest();
-		client.open('GET', 'aliases.txt');
+		client.open('GET', 'DKPCounter/count/aliases.txt');
 		client.onload = function() {
   			playerAliases = client.responseText
 			document.getElementById("playeraliases").value = playerAliases;
@@ -39,16 +39,22 @@ client.send();
 <body style="text-align:left;" onLoad="document.getElementById('playeraliases').value = playerAliases;">
     <div id="container">
         <div id="left_container">
-            <textarea id="dkpinput" style="width:100%;height:500px;resize:none;"></textarea>
+            <br />
+            <textarea id="dkpinput" style="width:66%;height:350px;resize:none;"></textarea>
+            <br />
             <button type="button" style="display:inline-block;" onclick="formatDKP();">Format</button>
             <button type="button" style="display:inline-block;" onclick="countDKP();">Count DKP</button>
 			</p>
+            <br />
 			<b>Aliases</b>
-			<textarea id="playeraliases" style="width:100%;height:250px;resize:none;"></textarea>
+            <br />
+			<textarea id="playeraliases" style="width:66%;height:250px;resize:none;"></textarea>
         </div>
 
         <div id="right_container">
-            <textarea id="dkpoutput" style="width:100%;height:500px;resize:none;"></textarea>
+            <br />
+            <textarea id="dkpoutput" style="width:66%;height:350px;resize:none;"></textarea>
+            <br />
             <button type="button" style="display:inline-block;" onclick="clearOutput();">Clear</button>
 
         </div>
