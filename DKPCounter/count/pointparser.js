@@ -107,7 +107,8 @@ function lineContainsBonusType(line) {
 }
 //filters out all the typos and such
 function formatInput(text, playerAliases) {
-    let splitText = text.split("\n");
+    let removedSpaces = text.replace(/ +(?= )/g,'');
+    let splitText = removedSpaces.split("\n");
     let formatted = "";
     for (let i = 0; i < splitText.length; i++) {
         let line = splitText[i].toLowerCase();
