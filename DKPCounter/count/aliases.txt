@@ -58,10 +58,10 @@ Frozen Myth,frozen,frozo,froz,froze,frozenmyth
 Frumentari,Frumentarii,frum,from
 Galio,gal
 gangsterIV,gangster,gang
-Godstrike,God,Gs,godstrike,god,gs,godstrilke,godstike
+Godstrike,godstrike,god,gs
 GriffinMcCain,griffin mccain,griffin,griff
 grimheals,grim
-guardianAngel,guardian angel,ga, gua
+guardianAngel,guardian angel,ga,gua
 Hiiiiiiiii,Hiiiiiiii,hiiiiiii,hiiiiii,hiiiii,hiiii,hiii,hii,hi
 Holmes,homes
 IAM,i am
@@ -121,7 +121,7 @@ MrsHolmes,mrs holmes
 Mythic,myth
 Myworld1,myworld,world
 Narcisse,narc,narci,narcis,narcise,narcissi
-nikhilrajj,nikhil,nik, nikhilraj
+nikhilrajj,nikhil,nik,nikhilraj
 NitesDeath,nites,nite
 Nobu,nob
 nrgnrg,nrg
