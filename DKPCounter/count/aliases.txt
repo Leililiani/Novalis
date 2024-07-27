@@ -36,7 +36,7 @@ ChefBoyardee,chef boyardee,chef
 Cian14,cian,cain14,ciam,cain
 CloudStorm,cloud storm,cloud
 Combust,comb
-Dabstar,dabs,dab
+Dabstar,dabs
 DailyDouble,daily double,daily,dd
 Dakuna,dak
 DaricPierce,daric pierce,daric
@@ -198,7 +198,7 @@ WhiteArrow,white arrow
 WHITEDEATH
 xBlackCobrax
 xDiablox,diablo,xdia,dia
-XherbalhealzX,xherbal healzx,herbal,herbalhealz,hh
+XherbalhealzX,xherbal healzx,xherbal,xhh
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
