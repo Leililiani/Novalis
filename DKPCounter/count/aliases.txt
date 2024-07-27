@@ -3,6 +3,7 @@
 Abylle,aby,abyl,abyle,abyll
 Accord
 Adam09,adam
+Aleister,ale,alister
 Alpi,alp,apli
 AmritaAnanda,amrita ananda,amrita,rita
 Anapa,anap
@@ -35,6 +36,7 @@ ChefBoyardee,chef boyardee,chef
 Cian14,cian,cain14,ciam,cain
 CloudStorm,cloud storm,cloud
 Combust,comb
+Dabstar,dabs,dab
 DailyDouble,daily double,daily,dd
 Dakuna,dak
 DaricPierce,daric pierce,daric
@@ -50,6 +52,7 @@ Emma2,emma
 Episode,epi
 ethhicx,Ethhic,ethicx,ethic,eth
 Evandre,evan,evand,evandro,eva,evandra
+Eve21,eve
 Eveleen,evel,everleen
 false,Flase
 FirZ,fir
@@ -128,6 +131,7 @@ nrgnrg,nrg
 NugNug,nug
 Odokawa,odo,odok,odowaka,oda,odakawa
 OliviaMacLear,olivia maclear,olivia
+Orkuza,ork
 OZeusO,0zeus0,zeus,ozeus,0zeus,zues
 Payload,pay
 Peachyy,peachy,peach
@@ -144,7 +148,7 @@ RedMan1,redman
 RedViper,red viper,viper
 Reverie,rev
 Rikimarro,riki,rikim,rikki
-RitZ1,ritz,rit
+RitZ1,ritz,rit,titz
 Royalninja,royal,royal ninja,ninja,roy
 S0Z0,sozo
 SabrasGethin,sabrags gethin,sabras,sab
@@ -158,6 +162,7 @@ SirWilliam1,sir william,william
 Sk33ze,skeeze
 Skullkrusher,skull,skully,skullcrusher
 Slasher42,slasher
+Sneakyshadow, sneaky shadow,sneaky
 Sorvia
 Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
@@ -193,6 +198,7 @@ WhiteArrow,white arrow
 WHITEDEATH
 xBlackCobrax
 xDiablox,diablo,xdia,dia
+XherbalhealzX,xherbal healzx,herbal,herbalhealz,hh
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
