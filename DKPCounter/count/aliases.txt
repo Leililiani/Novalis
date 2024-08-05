@@ -7,7 +7,7 @@ Aleister,ale,alister
 Alpi,alp,apli
 AmritaAnanda,amrita ananda,amrita,rita
 Anapa,anap
-AnnabelleLee,annabelle lee,anabelle,anna
+AnnabelleLee,annabelle lee,anabelle,anna,annabelle
 AquaMarine,aqua marine,aqua
 Armadillo,arma,arm
 Artemisia,arte,art
@@ -41,6 +41,7 @@ DailyDouble,daily double,daily,dd
 Dakuna,dak
 DaricPierce,daric pierce,daric
 DarkWing71,darkwing,wing
+DarkLizard,dark lizard,lizard,liz
 Dayanara,daya,day
 Ddd5ddd5,ddd5,dd5,d5
 DeadP00I,deadpool,pool,p00l,deadp00l
@@ -80,7 +81,8 @@ Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
 Khaine
 Killua13,killua,kill
 Kingwatcher,kingw,kw
-Korlisra,korl,kor,korli
+kingteddy,king teddy,teddy
+Korlisra,korl,kor,korli,korlisa
 LadyLuna,lady luna,luna,lady
 LanojaGower,lanoja gower,lanoja,gower,lano
 Lateralus,lateral,later,laterus
@@ -140,7 +142,7 @@ PopTarts,pop tarts,poptart,pop
 PublicEnemy,public enemy,public,pub
 Pyromancer,pyro
 Ragz,rags
-RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged,ra
+RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged
 Rapheal,raphael,raph
 RavenSpike,raven spike,raven,spike
 Redish,red,reddish
@@ -202,7 +204,7 @@ XherbalhealzX,xherbal healzx,xherbal,xhh
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
-xRedJamiex,redjamie,red jamie,red,jamie,xred
+xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
 xResonate,resonate,res,xres,
 xXironhideXx,ironhide
 xxTHORxx,thor
