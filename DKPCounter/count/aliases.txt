@@ -20,6 +20,7 @@ Ayana
 Badassassin1,badassassin
 Bangin,bang
 Bape
+Bauble
 Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd
@@ -40,8 +41,9 @@ Dabstar,dabs
 DailyDouble,daily double,daily,dd
 Dakuna,dak
 DaricPierce,daric pierce,daric
-DarkWing71,darkwing,wing
 DarkLizard,dark lizard,lizard,liz
+DarkSniper
+DarkWing71,darkwing,wing
 Dayanara,daya,day
 Ddd5ddd5,ddd5,dd5,d5
 DeadP00I,deadpool,pool,p00l,deadp00l
@@ -56,13 +58,14 @@ Evandre,evan,evand,evandro,eva,evandra
 Eve21,eve
 Eveleen,evel,everleen
 false,Flase
+Fei
 FirZ,fir
 FlawlessBlade,flawless blade,flawless,flaw
-Frozen Myth,frozen,frozo,froz,froze,frozenmyth
+FrozenMyth,frozen,frozo,froz,froze,frozen myth
 Frumentari,Frumentarii,frum,from
 Galio,gal
 gangsterIV,gangster,gang
-Godstrike,godstrike,god,gs
+Godstrike,godstrike,gs
 GriffinMcCain,griffin mccain,griffin,griff
 grimheals,grim
 guardianAngel,guardian angel,ga,gua
@@ -75,13 +78,14 @@ Inactive,ina
 Iseabal,isea,ise,isaebel,isabel,iseabel
 Itxaro,itaro,it
 Izumi
+Joel11,joel
 Juxta,jux,juta
 KatieMcArn,katie mcarn,katie,kat
 Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
 Khaine
 Killua13,killua,kill
-Kingwatcher,kingw,kw
 kingteddy,king teddy,teddy
+Kingwatcher,kingw,kw
 Korlisra,korl,kor,korli,korlisa
 LadyLuna,lady luna,luna,lady
 LanojaGower,lanoja gower,lanoja,gower,lano
@@ -141,6 +145,8 @@ Petal
 PopTarts,pop tarts,poptart,pop
 PublicEnemy,public enemy,public,pub
 Pyromancer,pyro
+Quicksteal
+QuickTank
 Ragz,rags
 RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged
 Rapheal,raphael,raph
@@ -164,7 +170,7 @@ SirWilliam1,sir william,william
 Sk33ze,skeeze
 Skullkrusher,skull,skully,skullcrusher
 Slasher42,slasher
-Sneakyshadow, sneaky shadow,sneaky
+Sneakyshadow, sneaky shadow
 Sorvia
 Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
@@ -178,6 +184,7 @@ TerminNater,terminater,term
 Thanatus,than
 Thefuture
 TheMachine,the machine,machine
+TheSurgeon,surgeon,surg
 ThorinWallace,thorin wallace,thorin
 Thunderbuns,buns
 Thyestes,thy
@@ -196,6 +203,8 @@ Vendy
 Vexey
 Viscaria,visc,vis,viscera
 VortarTolan,vortar,vortar tolan
+Walls
+warlorde
 WhiteArrow,white arrow
 WHITEDEATH
 xBlackCobrax
