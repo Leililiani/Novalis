@@ -47,8 +47,11 @@ DarkWing71,darkwing,wing
 Dayanara,daya,day
 Ddd5ddd5,ddd5,dd5,d5
 DeadP00I,deadpool,pool,p00l,deadp00l
+Dee5,dee
 DismantldSoul,dismantld,dismantled,dis
 Donatello,don,dona
+Doynok,doy
+Drac1,drac
 DRU1D,druid
 Elementz,element,ele,elem,elements
 Emma2,emma
@@ -145,7 +148,7 @@ Petal
 PopTarts,pop tarts,poptart,pop
 PublicEnemy,public enemy,public,pub
 Pyromancer,pyro
-Quicksteal
+Quicksteal,qsteal,steal
 QuickTank
 Ragz,rags
 RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged
@@ -153,6 +156,7 @@ Rapheal,raphael,raph
 RavenSpike,raven spike,raven,spike
 Redish,red,reddish
 RedMan1,redman
+Redohealer,redo
 RedViper,red viper,viper
 Reverie,rev
 Rikimarro,riki,rikim,rikki
@@ -162,6 +166,7 @@ S0Z0,sozo
 SabrasGethin,sabrags gethin,sabras,sab
 SaerahMagar,saerah magar,saerah,sae,saw
 Sagittarii,sagittari,sagitarii,sagitari,sagi,sag,sagittarius
+Sagron2472,sagron
 Sajna,saj.sajn
 Saraaaa98,saraaa98,saraaa,saraa,sara
 Serene,sereene,sere,ser
@@ -170,6 +175,7 @@ SirWilliam1,sir william,william
 Sk33ze,skeeze
 Skullkrusher,skull,skully,skullcrusher
 Slasher42,slasher
+Sneakybeaky,sneaky beaky,sb
 Sneakyshadow, sneaky shadow
 Sorvia
 Spacemaker3000,spacemaker,space
@@ -209,7 +215,8 @@ WhiteArrow,white arrow
 WHITEDEATH
 xBlackCobrax
 xDiablox,diablo,xdia,dia
-XherbalhealzX,xherbal healzx,xherbal,xhh
+Xerces
+XherbalhealzX,xherbal healzx,xherbal,xhh,herbal,xheals
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
