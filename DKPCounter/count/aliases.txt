@@ -30,6 +30,7 @@ Bojji,bojii
 Brazil
 Butai,but
 c00kie,cookie,cook
+Cakes
 Cammybearpea,cam,cams,cammy,cbp
 CarSladoleda,car,cars,carslad,carslado
 Cazer
@@ -74,6 +75,7 @@ grimheals,grim
 guardianAngel,guardian angel,ga,gua
 Hiiiiiiiii,Hiiiiiiii,hiiiiiii,hiiiiii,hiiiii,hiiii,hiii,hii,hi
 Holmes,homes
+HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
 ImightNot
@@ -87,9 +89,11 @@ KatieMcArn,katie mcarn,katie,kat
 Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
 Khaine
 Killua13,killua,kill
+KingJames,king james
 kingteddy,king teddy,teddy
 Kingwatcher,kingw,kw
 Korlisra,korl,kor,korli,korlisa
+Kyro12,kyro
 LadyLuna,lady luna,luna,lady
 LanojaGower,lanoja gower,lanoja,gower,lano
 Lateralus,lateral,later,laterus
@@ -97,6 +101,7 @@ LeafThorinson,leaf thorinson,leaf
 Leemaster,lee
 Legendmoka,legend moka,moka,legend
 Leililiani,leil,lei
+Lilani
 littlemonster,little monster,monster,lilmonster,little
 Liusaidh,liusaidh,liu,liusaid,liusaidh
 Lock_Block,lock block
@@ -127,8 +132,8 @@ MrDuck,mr duck,duck
 MrFrog,mr frog,frog
 MrGoat,mr goat,goat
 MrGrizzly,mr grizzly,grizzly
-MrNiceGuy420,mrniceguy,mrnice,niceguy,guy
 Mrpiggi,mr piggi,piggi,mr piggy,mrpiggy,piggy
+MrNiceGuy420,mrniceguy,mrnice,niceguy,guy
 MrsHolmes,mrs holmes
 Mythic,myth
 Myworld1,myworld,world
@@ -154,10 +159,10 @@ Ragz,rags
 RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged
 Rapheal,raphael,raph
 RavenSpike,raven spike,raven,spike
+RedViper,red viper,viper
 Redish,red,reddish
 RedMan1,redman
 Redohealer,redo
-RedViper,red viper,viper
 Reverie,rev
 Rikimarro,riki,rikim,rikki
 RitZ1,ritz,rit,titz
@@ -182,8 +187,8 @@ Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
-Sunrise,sun
 Suntzu,suntzu
+Sunrise,sun
 Swishy
 Taffy
 TerminNater,terminater,term
@@ -223,6 +228,7 @@ xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
 xResonate,resonate,res,xres,
 xXironhideXx,ironhide
+XxIvanhoexX,ivanhoe,ivan hoe, ivan
 xxTHORxx,thor
 Yoshimura,yoshi
 YunTheCobra,yun
