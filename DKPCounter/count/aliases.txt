@@ -30,6 +30,7 @@ Bojji,bojii
 Brazil
 Butai,but
 c00kie,cookie,cook
+CadiKindrick,cadi kindrick,cadi
 Cakes
 Cammybearpea,cam,cams,cammy,cbp
 CarSladoleda,car,cars,carslad,carslado
@@ -38,6 +39,7 @@ ChefBoyardee,chef boyardee,chef
 Cian14,cian,cain14,ciam,cain
 CloudStorm,cloud storm,cloud
 Combust,comb
+CrimsonL,crimson,crimy,crim
 Dabstar,dabs
 DailyDouble,daily double,daily,dd
 Dakuna,dak
@@ -111,6 +113,7 @@ Lw
 Macky,mack
 Maev,mae,meave,meav
 Maga,mag
+MageDaniela,mage daniela,daniela,dan
 Mamison,mami
 Mancan,man
 Markistan3,mark,markistan,marki,markis,markstain
@@ -132,8 +135,8 @@ MrDuck,mr duck,duck
 MrFrog,mr frog,frog
 MrGoat,mr goat,goat
 MrGrizzly,mr grizzly,grizzly
-Mrpiggi,mr piggi,piggi,mr piggy,mrpiggy,piggy
 MrNiceGuy420,mrniceguy,mrnice,niceguy,guy
+Mrpiggi,mr piggi,piggi,mr piggy,mrpiggy,piggy
 MrsHolmes,mrs holmes
 Mythic,myth
 Myworld1,myworld,world
@@ -159,10 +162,10 @@ Ragz,rags
 RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged
 Rapheal,raphael,raph
 RavenSpike,raven spike,raven,spike
-RedViper,red viper,viper
 Redish,red,reddish
 RedMan1,redman
 Redohealer,redo
+RedViper,red viper,viper
 Reverie,rev
 Rikimarro,riki,rikim,rikki
 RitZ1,ritz,rit,titz
@@ -175,6 +178,7 @@ Sagron2472,sagron
 Sajna,saj.sajn
 Saraaaa98,saraaa98,saraaa,saraa,sara
 Serene,sereene,sere,ser
+ShadowOfMordor,shadow of mordor,mordor,som
 Shooterguy,shooter guy,shooter
 SirWilliam1,sir william,william
 Sk33ze,skeeze
@@ -187,8 +191,8 @@ Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
-Suntzu,suntzu
 Sunrise,sun
+Suntzu,suntzu
 Swishy
 Taffy
 TerminNater,terminater,term
@@ -199,6 +203,7 @@ TheSurgeon,surgeon,surg
 ThorinWallace,thorin wallace,thorin
 Thunderbuns,buns
 Thyestes,thy
+Tounting,tount,taunt
 ToxICfire,toxi
 Treasa,trea
 Tuila,tulia,tuzla,
@@ -226,9 +231,9 @@ xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
-xResonate,resonate,res,xres,
+xResonate,resonate,res,xres
 xXironhideXx,ironhide
-XxIvanhoexX,ivanhoe,ivan hoe, ivan
+XxIvanhoexX,ivanhoe,ivan hoe,ivan
 xxTHORxx,thor
 Yoshimura,yoshi
 YunTheCobra,yun
