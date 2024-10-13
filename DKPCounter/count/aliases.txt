@@ -187,6 +187,7 @@ Slasher42,slasher
 Sneakybeaky,sneaky beaky,sb
 Sneakyshadow, sneaky shadow
 Sorvia
+Soul1,soul
 Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
 Steeeeve,steeeve,steeve,steve
@@ -215,6 +216,7 @@ UnitedHealth,united
 Vagos,vag,vagis,vagus
 Vannee,vann,van
 Vapegod
+Vavita,vav
 Vendy
 Vexey
 Viscaria,visc,vis,viscera
@@ -232,6 +234,7 @@ xiiZed,zed
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
 xResonate,resonate,res,xres
+XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan
 xxTHORxx,thor
