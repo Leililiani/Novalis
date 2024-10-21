@@ -75,6 +75,7 @@ Godstrike,godstrike,gs
 GriffinMcCain,griffin mccain,griffin,griff
 grimheals,grim
 guardianAngel,guardian angel,ga,gua
+GwonaEynon,gwona eynon,gwona,eynon
 Hiiiiiiiii,Hiiiiiiii,hiiiiiii,hiiiiii,hiiiii,hiiii,hiii,hii,hi
 Holmes,homes
 HuwGibby,huw gibby,huw,gibby,gib
@@ -92,8 +93,10 @@ Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
 Khaine
 Killua13,killua,kill
 KingJames,king james
+KingJames8
 kingteddy,king teddy,teddy
 Kingwatcher,kingw,kw
+Kiser49er2,kiser
 Korlisra,korl,kor,korli,korlisa
 Kyro12,kyro
 LadyLuna,lady luna,luna,lady
@@ -153,6 +156,8 @@ OZeusO,0zeus0,zeus,ozeus,0zeus,zues
 Payload,pay
 Peachyy,peachy,peach
 Petal
+PlagueHazard,plague hazard,plague
+pollypockett,polly pockett,polly
 PopTarts,pop tarts,poptart,pop
 PublicEnemy,public enemy,public,pub
 Pyromancer,pyro
