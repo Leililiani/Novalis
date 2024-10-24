@@ -195,7 +195,7 @@ const Boss = {
             kill6: 300,
         }
     },
-    /** Arcane and Garden extra **/
+    /** Extras **/
     RING_BOSS: {
         aliases: ["ringboss", "ring_boss", "rb", "rbs", "ring"],
         points: {
@@ -223,13 +223,12 @@ const Boss = {
             kill6: 0,
         }
     },
-    /** Valley of the Ancients **/
     RARE_VALLEY: {
-        aliases: ["valley", "draig", "liathphur", "sgarlaid", "dubh", "crodhearg", "sciathan", "leathair", "ialtog", "clovae", "acolyte", "doomsgail", "roamer", "thymea", "banebark"],
+        aliases: ["valley", "draig", "roamer"],
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 30,
+            kill5: 20,
             kill6: 0,
         }
     },
