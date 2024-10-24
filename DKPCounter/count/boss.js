@@ -223,7 +223,6 @@ const Boss = {
             kill6: 0,
         }
     },
-
     /** Valley of the Ancients **/
     RARE_VALLEY: {
         aliases: ["valley", "draig", "liathphur", "sgarlaid", "dubh", "crodhearg", "sciathan", "leathair", "ialtog", "clovae", "acolyte", "doomsgail", "roamer", "thymea", "banebark"],
@@ -234,7 +233,6 @@ const Boss = {
             kill6: 0,
         }
     },
-    
     /** Legacies **/
     LEGACY_150: {
         aliases: ["legacy150", "legacy_150", "witchfinder", "hopkins", "comrack", "akais", "hurricanes", "typhoons", "garyn", "devestator", "jalan", "paradai", "blizzardgore", "synak"],
