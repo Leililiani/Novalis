@@ -1,4 +1,5 @@
 0blivion,oblivion,0b,ob,0bliv,obliv
+0w0
 Abylle,aby,abyl,abyle,abyll
 Accord
 Adam09,adam
@@ -91,13 +92,13 @@ KatieMcArn,katie mcarn,katie,kat
 Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
 Khaine
 Killua13,killua,kill
-KingJames,king james
-KingJames8
+KingJames,king james,james
+KingJames8,kj8
 kingteddy,king teddy,teddy
-Kingwatcher,kingw,kw
+Kingwatcher,kingw
 Kiser49er2,kiser
 Korlisra,korl,kor,korli,korlisa
-Kyro12,kyro
+Kyro12,kyro,kyrol
 LadyLuna,lady luna,luna,lady
 LanojaGower,lanoja gower,lanoja,gower,lano
 Lateralus,lateral,later,laterus
@@ -194,6 +195,7 @@ Sorvia
 Soul1,soul
 Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
+Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
 Sunrise,sun
@@ -223,7 +225,7 @@ Vapegod
 Vavita,vav
 Vendy
 Vexey
-Viscaria,visc,vis,viscera
+Viscaria,visc,vis
 VortarTolan,vortar,vortar tolan
 Walls
 warlorde
