@@ -174,7 +174,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 400,
+            kill6: 200,
         }
     },
     BLOODTHORN: {
@@ -183,7 +183,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 500,
+            kill6: 250,
         }
     },
     DHIOTHU: {
@@ -192,7 +192,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 600,
+            kill6: 300,
         }
     },
     /** Extras **/
