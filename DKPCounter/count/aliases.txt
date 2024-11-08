@@ -1,5 +1,4 @@
 0blivion,oblivion,0b,ob,0bliv,obliv
-0w0
 Abylle,aby,abyl,abyle,abyll
 Accord
 Adam09,adam
@@ -20,22 +19,20 @@ Ayana
 Badassassin1,badassassin
 Bangin,bang
 Bape
-Bauble
 Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd
 Bizaro,biz
 BlackAsian,black asian
 Bojji,bojii
+Braydan,bray
 Brazil
-Butai,but
 c00kie,cookie,cook
 CadiKindrick,cadi kindrick,cadi
 Cakes
 Cammybearpea,cam,cams,cammy,cbp
 CarSladoleda,car,cars,carslad,carslado
 Cazer
-ChefBoyardee,chef boyardee,chef
 Cian14,cian,cain14,ciam,cain
 CloudStorm,cloud storm,cloud
 Combust,comb
@@ -69,6 +66,7 @@ FirZ,fir
 FlawlessBlade,flawless blade,flawless,flaw
 FrozenMyth,frozen,frozo,froz,froze,frozen myth
 Frumentari,Frumentarii,frum,from
+Fued
 Galio,gal
 gangsterIV,gangster,gang
 Godstrike,godstrike,gs
@@ -133,7 +131,6 @@ MisterWc,mister
 Mitsukuni,mits
 MoMo,mo mo,mo,mo-mo,mono
 Morgatha,morg
-Mountaineer,mountain,mount
 MrDuck,mr duck,duck
 MrFrog,mr frog,frog
 MrGoat,mr goat,goat
@@ -149,7 +146,6 @@ NitesDeath,nites,nite
 Nobu,nob
 nrgnrg,nrg
 NugNug,nug
-Odokawa,odo,odok,odowaka,oda,odakawa
 OliviaMacLear,olivia maclear,olivia
 Orkuza,ork
 OZeusO,0zeus0,zeus,ozeus,0zeus,zues
@@ -239,7 +235,6 @@ xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
-xResonate,resonate,res,xres
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan
