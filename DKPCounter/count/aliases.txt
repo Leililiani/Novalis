@@ -69,6 +69,7 @@ Frumentari,Frumentarii,frum,from
 Fued
 Galio,gal
 gangsterIV,gangster,gang
+Gannicus39,gannicus,gan
 Godstrike,godstrike,gs
 GriffinMcCain,griffin mccain,griffin,griff
 grimheals,grim
@@ -76,6 +77,8 @@ guardianAngel,guardian angel,ga,gua
 GwonaEynon,gwona eynon,gwona,eynon
 Hiiiiiiiii,Hiiiiiiii,hiiiiiii,hiiiiii,hiiiii,hiiii,hiii,hii,hi
 Holmes,homes
+XrogueX97,xroguex,xrogue
+Swampfox,swamp
 HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
