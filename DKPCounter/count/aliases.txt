@@ -19,6 +19,7 @@ Ayana
 Badassassin1,badassassin
 Bangin,bang
 Bape
+Bauble
 Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd
@@ -27,6 +28,7 @@ BlackAsian,black asian
 Bojji,bojii
 Braydan,bray
 Brazil
+Buj4nski,buj4,buj
 c00kie,cookie,cook
 CadiKindrick,cadi kindrick,cadi
 Cakes
@@ -75,13 +77,13 @@ GriffinMcCain,griffin mccain,griffin,griff
 grimheals,grim
 guardianAngel,guardian angel,ga,gua
 GwonaEynon,gwona eynon,gwona,eynon
+HealsFromAbove,hfa
 Hiiiiiiiii,Hiiiiiiii,hiiiiiii,hiiiiii,hiiiii,hiiii,hiii,hii,hi
 Holmes,homes
-XrogueX97,xroguex,xrogue
-Swampfox,swamp
 HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
+Ily2,ily
 ImightNot
 Inactive,ina
 Iseabal,isea,ise,isaebel,isabel,iseabel
@@ -110,6 +112,7 @@ Leililiani,leil,lei
 Lilani
 littlemonster,little monster,monster,lilmonster,little
 Liusaidh,liusaidh,liu,liusaid,liusaidh
+LlamaHunter,llama
 Lock_Block,lock block
 LockBlock
 Luminous,lumin,lum
@@ -132,6 +135,7 @@ MioChibana,mio chibana,mio
 MissDirection,miss direction,missd,miss
 MisterWc,mister
 Mitsukuni,mits
+MODMG,mod
 MoMo,mo mo,mo,mo-mo,mono
 Morgatha,morg
 MrDuck,mr duck,duck
@@ -194,11 +198,13 @@ Sorvia
 Soul1,soul
 Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
+Spike180,spike
 Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
 Sunrise,sun
 Suntzu,suntzu
+Swampfox,swamp
 Swishy
 Taffy
 TerminNater,terminater,term
@@ -238,6 +244,7 @@ xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
+XrogueX97,xroguex,xrogue,rogue97,xrougex97
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan
