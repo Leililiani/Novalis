@@ -70,18 +70,18 @@ const Boss = {
         aliases: ["195", "gron", "general"],
         points: {
             camp: 0,
-            kill4: 0,
-            kill5: 0,
-            kill6: 0,
+            kill4: 5,
+            kill5: 15,
+            kill6: 25,
         }
     },
     EDL_200: {
         aliases: ["200", "krother", "imp"],
         points: {
             camp: 0,
-            kill4: 0,
-            kill5: 0,
-            kill6: 0,
+            kill4: 5,
+            kill5: 15,
+            kill6: 25,
         }
     },
     EDL_205: {
