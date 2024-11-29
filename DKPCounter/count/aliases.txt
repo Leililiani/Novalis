@@ -39,6 +39,7 @@ Cian14,cian,cain14,ciam,cain
 CloudStorm,cloud storm,cloud
 Combust,comb
 CrimsonL,crimson,crimy,crim
+Croissont,croissant
 Dabstar,dabs
 DailyDouble,daily double,daily,dd
 Dakuna,dak
@@ -169,10 +170,10 @@ QuickTank
 Ragz,rags
 RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged
 Rapheal,raphael,raph
-RavenSpike,raven spike,raven,spike
+RavenSpike,raven spike,raven
 Redish,red,reddish
 RedMan1,redman
-Redohealer,redo
+Redohealer,redo healer, redo
 RedViper,red viper,viper
 Reverie,rev
 Rikimarro,riki,rikim,rikki
@@ -198,7 +199,7 @@ Sorvia
 Soul1,soul
 Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
-Spike180,spike
+Spike180,spike 180,spike
 Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
@@ -215,8 +216,10 @@ TheSurgeon,surgeon,surg
 ThorinWallace,thorin wallace,thorin
 Thunderbuns,buns
 Thyestes,thy
+Todins,todin
 Tounting,tount,taunt
 ToxICfire,toxi
+Toxins,toxin
 Treasa,trea
 Tuila,tulia,tuzla,
 Twistedrogue,twisted rogue
