@@ -10,6 +10,7 @@ AnnabelleLee,annabelle lee,anabelle,anna,annabelle
 AquaMarine,aqua marine,aqua
 Armadillo,arma,arm
 Artemisia,arte,art
+AsianKidXX
 AsteriaLunakis,asteria lunakis,asteria,lunakis,ast
 Autumnn,autumn,aut
 Avalon2,avalon
@@ -22,11 +23,11 @@ Bape
 Bauble
 Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
-BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd
+BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd,flo
 Bizaro,biz
 BlackAsian,black asian
 Bojji,bojii
-Braydan,bray
+Braydan,bray,brayden
 Brazil
 Buj4nski,buj4,buj
 c00kie,cookie,cook
@@ -159,6 +160,7 @@ Orkuza,ork
 OZeusO,0zeus0,zeus,ozeus,0zeus,zues
 Payload,pay
 Peachyy,peachy,peach
+Peg
 Petal
 PlagueHazard,plague hazard,plague
 pollypockett,polly pockett,polly
@@ -239,15 +241,18 @@ Walls
 warlorde
 WhiteArrow,white arrow
 WHITEDEATH
+Windward,windy
 xBlackCobrax
 xDiablox,diablo,xdia,dia
+Xeni1387,xeni
 Xerces
+xExTiNcTx,extinct
 XherbalhealzX,xherbal healzx,xherbal,xhh,herbal,xheals
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
-XrogueX97,xroguex,xrogue,rogue97,xrougex97
+XrogueX97,xroguex,xrogue,rogue97,xrougex97,xrougex,rouge97
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan
