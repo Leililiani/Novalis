@@ -114,7 +114,7 @@ Leililiani,leil,lei
 Lilani
 littlemonster,little monster,monster,lilmonster,little
 Liusaidh,liusaidh,liu,liusaid,liusaidh
-LlamaHunter,llama
+LlamaHunter,llama,lamahunter,lama
 Lock_Block,lock block
 LockBlock
 Luminous,lumin,lum
@@ -206,7 +206,7 @@ Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
 Sunrise,sun
-Suntzu,suntzu
+Suntzu
 Swampfox,swamp
 Swishy
 Taffy
@@ -241,7 +241,7 @@ Walls
 warlorde
 WhiteArrow,white arrow
 WHITEDEATH
-Windward,windy
+Windward,windy,wind
 xBlackCobrax
 xDiablox,diablo,xdia,dia
 Xeni1387,xeni
