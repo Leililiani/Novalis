@@ -206,9 +206,9 @@ Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
 Sunrise,sun
-Suntzu
+Suntzu,sun tzu
 Swampfox,swamp
-Swishy
+Swishy,swish
 Taffy
 TerminNater,terminater,term
 Thanatus,than
@@ -231,7 +231,7 @@ ulavanking,ulavan king,ulavan,uk
 UnitedHealth,united
 Vagos,vag,vagis,vagus
 Vannee,vann,van
-Vapegod
+Vapegod,vape
 Vavita,vav
 Vendy
 Vexey
@@ -247,7 +247,7 @@ xDiablox,diablo,xdia,dia
 Xeni1387,xeni
 Xerces
 xExTiNcTx,extinct
-XherbalhealzX,xherbal healzx,xherbal,xhh,herbal,xheals
+XherbalhealzX,xherbal healzx,xherbal,herbal,xheals,herbal healz
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
