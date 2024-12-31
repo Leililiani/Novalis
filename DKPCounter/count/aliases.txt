@@ -27,6 +27,7 @@ BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd,flo
 Bizaro,biz
 BlackAsian,black asian
 Bojji,bojii
+bone7,bone
 Braydan,bray,brayden
 Brazil
 Buj4nski,buj4,buj
@@ -58,6 +59,7 @@ Doynok,doy
 Drac1,drac
 DRU1D,druid
 Elementz,element,ele,elem,elements
+Elowen
 Emma2,emma
 Episode,epi
 ethhicx,Ethhic,ethicx,ethic,eth
@@ -197,6 +199,7 @@ Skullkrusher,skull,skully,skullcrusher
 Slasher42,slasher
 Sneakybeaky,sneaky beaky,sb
 Sneakyshadow, sneaky shadow
+Soe
 Sorvia
 Soul1,soul
 Spacemaker3000,spacemaker,space
@@ -247,6 +250,7 @@ xDiablox,diablo,xdia,dia
 Xeni1387,xeni
 Xerces
 xExTiNcTx,extinct
+xGetNuked,getnuked,xget,get nuked,get,nuked
 XherbalhealzX,xherbal healzx,xherbal,herbal,xheals,herbal healz
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
