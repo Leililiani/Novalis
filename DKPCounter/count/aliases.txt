@@ -245,6 +245,7 @@ warlorde
 WhiteArrow,white arrow
 WHITEDEATH
 Windward,windy,wind
+Xbalanque,xbal
 xBlackCobrax
 xDiablox,diablo,xdia,dia
 Xeni1387,xeni
