@@ -31,6 +31,7 @@ bone7,bone
 Braydan,bray,brayden
 Brazil
 Buj4nski,buj4,buj
+Bunibuns,buni
 c00kie,cookie,cook
 CadiKindrick,cadi kindrick,cadi
 Cakes
@@ -252,7 +253,7 @@ Xeni1387,xeni
 Xerces
 xExTiNcTx,extinct
 xGetNuked,getnuked,xget,get nuked,get,nuked
-XherbalhealzX,xherbal healzx,xherbal,herbal,xheals,herbal healz
+XherbalhealzX,xherbal healzx,xherbal,herbal,xheals,herbal healz,herbalhealz
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
