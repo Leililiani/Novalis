@@ -89,7 +89,9 @@ HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
 Ily2,ily
+ImAGoon,goon
 ImightNot
+ImSoSick
 Inactive,ina
 Iseabal,isea,ise,isaebel,isabel,iseabel
 Itxaro,itaro,it
@@ -142,6 +144,7 @@ MisterWc,mister
 Mitsukuni,mits
 MODMG,mod
 MoMo,mo mo,mo,mo-mo,mono
+MONTAGNE,mont
 Morgatha,morg
 MrDuck,mr duck,duck
 MrFrog,mr frog,frog
@@ -150,6 +153,8 @@ MrGrizzly,mr grizzly,grizzly
 MrNiceGuy420,mrniceguy,mrnice,niceguy,guy
 Mrpiggi,mr piggi,piggi,mr piggy,mrpiggy,piggy
 MrsHolmes,mrs holmes
+Mukk
+MukkDruid
 Mythic,myth
 Myworld1,myworld,world
 Narcisse,narc,narci,narcis,narcise,narcissi
@@ -161,6 +166,7 @@ NugNug,nug
 OliviaMacLear,olivia maclear,olivia
 Orkuza,ork
 OZeusO,0zeus0,zeus,ozeus,0zeus,zues
+Painbringer
 Payload,pay
 Peachyy,peachy,peach
 Peg
@@ -259,10 +265,11 @@ xiiZed,zed
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
 XrogueX97,xroguex,xrogue,rogue97,xrougex97,xrougex,rouge97
+xTooxBlackx,TooBlack
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan
-xxTHORxx,thor
+xxTHORxx,xxthor,xthor,thor
 Yoshimura,yoshi
 YunTheCobra,yun
 Zapp,zap
