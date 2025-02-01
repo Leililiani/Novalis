@@ -63,10 +63,11 @@ Elementz,element,ele,elem,elements
 Elowen
 Emma2,emma
 Episode,epi
-ethhicx,Ethhic,ethicx,ethic,eth
+ethhicx,ethhic,ethicx,ethic,eth
 Evandre,evan,evand,evandro,eva,evandra
 Eve21,eve
 Eveleen,evel,everleen
+ExLocker,ex locker
 false,Flase
 Fei
 FirZ,fir
@@ -166,7 +167,7 @@ NugNug,nug
 OliviaMacLear,olivia maclear,olivia
 Orkuza,ork
 OZeusO,0zeus0,zeus,ozeus,0zeus,zues
-Painbringer
+Painbringer,pain bringer
 Payload,pay
 Peachyy,peachy,peach
 Peg
@@ -201,6 +202,7 @@ Serene,sereene,sere,ser
 ShadowOfMordor,shadow of mordor,mordor,som
 Shooterguy,shooter guy,shooter
 SirWilliam1,sir william,william
+SizzlingHot
 Sk33ze,skeeze
 Skullkrusher,skull,skully,skullcrusher
 Slasher42,slasher
