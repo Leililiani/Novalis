@@ -4,6 +4,7 @@ Accord
 Adam09,adam
 Aleister,ale,alister
 Alpi,alp,apli
+Amayah,ama
 AmritaAnanda,amrita ananda,amrita,rita
 Anapa,anap
 AnnabelleLee,annabelle lee,anabelle,anna,annabelle
@@ -26,10 +27,12 @@ Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd,flo
 Bizaro,biz
 BlackAsian,black asian
+BlackKnive,black knive,knive
 Bojji,bojii
 bone7,bone
 Braydan,bray,brayden
 Brazil
+BrellyraKerrac,brellyra kerrac,brellyra,kerrac,brelly,brell
 Buj4nski,buj4,buj
 Bunibuns,buni
 c00kie,cookie,cook
@@ -99,12 +102,14 @@ Itxaro,itaro,it
 Izumi
 Joel11,joel
 Juxta,jux,juta
+Kahala
 KatieMcArn,katie mcarn,katie,kat
 Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
 Khaine
 Killua13,killua,kill
 KingJames,king james,james
 KingJames8,kj8
+KingMaga
 kingteddy,king teddy,teddy
 Kingwatcher,kingw
 Kiser49er2,kiser
@@ -235,6 +240,7 @@ Tounting,tount,taunt
 ToxICfire,toxi
 Toxins,toxin
 Treasa,trea
+Trillion,trill
 Tuila,tulia,tuzla,
 Twistedrogue,twisted rogue
 Twistedwarrior,twisted warrior
@@ -251,6 +257,7 @@ Viscaria,visc,vis
 VortarTolan,vortar,vortar tolan
 Walls
 warlorde
+Warriorpower,wp
 WhiteArrow,white arrow
 WHITEDEATH
 Windward,windy,wind
