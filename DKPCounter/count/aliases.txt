@@ -10,6 +10,7 @@ Anapa,anap
 AnnabelleLee,annabelle lee,anabelle,anna,annabelle
 AquaMarine,aqua marine,aqua
 Armadillo,arma,arm
+Arsonnistic,arsonistic,arson
 Artemisia,arte,art
 AsianKidXX
 AsteriaLunakis,asteria lunakis,asteria,lunakis,ast
@@ -22,6 +23,7 @@ Badassassin1,badassassin
 Bangin,bang
 Bape
 Bauble
+BelowAverage,below average,below,average
 Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd,flo
@@ -167,6 +169,7 @@ Narcisse,narc,narci,narcis,narcise,narcissi
 nikhilrajj,nikhil,nik,nikhilraj
 NitesDeath,nites,nite
 Nobu,nob
+NoicienBiven,noicien biven,noicien,biven
 nrgnrg,nrg
 NugNug,nug
 OliviaMacLear,olivia maclear,olivia
@@ -252,6 +255,7 @@ Vannee,vann,van
 Vapegod,vape
 Vavita,vav
 Vendy
+Vestas
 Vexey
 Viscaria,visc,vis
 VortarTolan,vortar,vortar tolan
@@ -278,7 +282,7 @@ xTooxBlackx,TooBlack
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan
-xxTHORxx,xxthor,xthor,thor
+xxTHORxx,xxthor,xthor,thor,thorxx
 Yoshimura,yoshi
 YunTheCobra,yun
 Zapp,zap
