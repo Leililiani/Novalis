@@ -9,6 +9,7 @@ AmritaAnanda,amrita ananda,amrita,rita
 Anapa,anap
 AnnabelleLee,annabelle lee,anabelle,anna,annabelle
 AquaMarine,aqua marine,aqua
+Arcta
 Armadillo,arma,arm
 Arsonnistic,arsonistic,arson
 Artemisia,arte,art
@@ -35,6 +36,7 @@ bone7,bone
 Braydan,bray,brayden
 Brazil
 BrellyraKerrac,brellyra kerrac,brellyra,kerrac,brelly,brell
+Bryan33,bryan
 Buj4nski,buj4,buj
 Bunibuns,buni
 c00kie,cookie,cook
@@ -191,6 +193,7 @@ Ragz,rags
 RangedAssasin,rangedassassin,ranged assassin,ranged assasin,ranged
 Rapheal,raphael,raph
 RavenSpike,raven spike,raven
+ReaYong,rea yong,rea,yong
 Redish,red,reddish
 RedMan1,redman
 Redohealer,redo healer, redo
@@ -206,6 +209,7 @@ Sagittarii,sagittari,sagitarii,sagitari,sagi,sag,sagittarius
 Sagron2472,sagron
 Sajna,saj.sajn
 Saraaaa98,saraaa98,saraaa,saraa,sara
+Savingurazz,saving,azz
 Serene,sereene,sere,ser
 ShadowOfMordor,shadow of mordor,mordor,som
 Shooterguy,shooter guy,shooter
@@ -278,6 +282,7 @@ xiiZed,zed
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
 XrogueX97,xroguex,xrogue,rogue97,xrougex97,xrougex,rouge97
+Xslavers,slavers,xslav
 xTooxBlackx,TooBlack
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
