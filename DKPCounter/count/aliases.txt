@@ -248,7 +248,7 @@ ToxICfire,toxi
 Toxins,toxin
 Treasa,trea
 Trillion,trill
-Tuila,tulia,tuzla,
+Tuila,tulia,tuzla
 Twistedrogue,twisted rogue
 Twistedwarrior,twisted warrior
 Tymur
