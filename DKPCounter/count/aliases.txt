@@ -105,6 +105,7 @@ Iseabal,isea,ise,isaebel,isabel,iseabel
 Itxaro,itaro,it
 Izumi
 J1e5f0f,jeff
+Jakezz,jakez,jake
 Joel11,joel
 Juxta,jux,juta
 Kahala
@@ -232,7 +233,7 @@ Spike180,spike 180,spike
 Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
-Sunrise,sun
+Sunrise,sun,sunshine
 Suntzu,sun tzu
 Swampfox,swamp
 Swishy,swish
