@@ -195,6 +195,15 @@ const Boss = {
             kill6: 300,
         }
     },
+    CROMS_HELLBORNE_MANIKIN: {
+        aliases: ["manikin", "mani"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 0,
+            kill6: 1000,
+        }
+    },
     /** Extras **/
     RING_BOSS: {
         aliases: ["ringboss", "ring_boss", "rb", "rbs", "ring"],
@@ -357,7 +366,7 @@ function getKillPoints(boss, stars) {
     }
 }
 function getBosses() {
-    return [Boss.DL_155, Boss.DL_160, Boss.DL_165, Boss.DL_170, Boss.DL_180, Boss.EDL_185, Boss.EDL_190, Boss.EDL_195, Boss.EDL_200, Boss.EDL_205, Boss.EDL_210, Boss.EDL_215, Boss.AGGRAGOTH, Boss.HRUNGNIR, Boss.MORDRIS, Boss.EFNISIEN, Boss.PROTEUS_BASE, Boss.PROTEUS_PRIME, Boss.GELEBRON, Boss.BLOODTHORN, Boss.DHIOTHU, Boss.RING_BOSS, Boss.FACTIONS, Boss.BLOODTHORN_ROOT, Boss.RARE_VALLEY, Boss.LEGACY_150, Boss.LEGACY_180];
+    return [Boss.DL_155, Boss.DL_160, Boss.DL_165, Boss.DL_170, Boss.DL_180, Boss.EDL_185, Boss.EDL_190, Boss.EDL_195, Boss.EDL_200, Boss.EDL_205, Boss.EDL_210, Boss.EDL_215, Boss.AGGRAGOTH, Boss.HRUNGNIR, Boss.MORDRIS, Boss.EFNISIEN, Boss.PROTEUS_BASE, Boss.PROTEUS_PRIME, Boss.GELEBRON, Boss.BLOODTHORN, Boss.DHIOTHU, Boss.CROMS_HELLBORNE_MANIKIN, Boss.RING_BOSS, Boss.FACTIONS, Boss.BLOODTHORN_ROOT, Boss.RARE_VALLEY, Boss.LEGACY_150, Boss.LEGACY_180];
 }
 
 function getBoss(name) {
