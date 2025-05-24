@@ -53,6 +53,7 @@ Croissont,croissant
 Dabstar,dabs
 DailyDouble,daily double,daily,dd
 Dakuna,dak
+Dalamadur,dala
 DaricPierce,daric pierce,daric
 DarkLizard,dark lizard,lizard,liz
 DarkSniper
@@ -140,7 +141,7 @@ Macky,mack
 Maev,mae,meave,meav
 Maga,mag
 MageDaniela,mage daniela,daniela,dan
-Mamison,mami
+Mamison,mami,miami
 Mancan,man
 Markistan3,mark,markistan,marki,markis,markstain
 MasterSplinter,master splinter,splinter
