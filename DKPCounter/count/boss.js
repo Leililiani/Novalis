@@ -201,7 +201,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 1000,
+            kill6: 500,
         }
     },
     /** Extras **/
