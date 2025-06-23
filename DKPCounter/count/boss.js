@@ -156,7 +156,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 100,
+            kill6: 200,
         }
     },
     PROTEUS_PRIME: {
@@ -165,7 +165,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 150,
+            kill6: 300,
         }
     },
     GELEBRON: {
@@ -174,7 +174,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 200,
+            kill6: 400,
         }
     },
     BLOODTHORN: {
@@ -183,7 +183,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 250,
+            kill6: 500,
         }
     },
     DHIOTHU: {
@@ -192,7 +192,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 300,
+            kill6: 600,
         }
     },
     CROMS_HELLBORNE_MANIKIN: {
