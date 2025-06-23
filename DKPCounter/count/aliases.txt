@@ -50,6 +50,7 @@ CloudStorm,cloud storm,cloud
 Combust,comb
 CrimsonL,crimson,crimy,crim
 Croissont,croissant
+CyberBully,cyber
 Dabstar,dabs
 DailyDouble,daily double,daily,dd
 Dakuna,dak
@@ -129,6 +130,7 @@ LeafThorinson,leaf thorinson,leaf
 Leemaster,lee
 Legendmoka,legend moka,moka,legend
 Leililiani,leil,lei
+Lethe
 Lilani
 littlemonster,little monster,monster,lilmonster,little
 Liusaidh,liusaidh,liu,liusaid,liusaidh
@@ -244,6 +246,7 @@ Thanatus,than
 Thefuture
 TheMachine,the machine,machine
 TheSurgeon,surgeon,surg
+TheWino,wino
 ThorinWallace,thorin wallace,thorin
 Thunderbuns,buns
 Thyestes,thy
