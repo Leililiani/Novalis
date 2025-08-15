@@ -80,6 +80,7 @@ Eve21,eve
 Eveleen,evel,everleen
 ExLocker,ex locker
 false,Flase
+faststrike
 Fei
 FirZ,fir
 FlawlessBlade,flawless blade,flawless,flaw
@@ -100,6 +101,7 @@ Holmes,homes
 HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
+iElctron
 Ily2,ily
 ImAGoon,goon
 ImightNot
