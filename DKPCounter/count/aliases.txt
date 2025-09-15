@@ -69,6 +69,7 @@ Donatello,don,dona
 Doynok,doy
 Drac1,drac
 DRU1D,druid
+DtasOBroy,dtas,obroy
 EbonyIvory,ebony ivory,ebony,ivory
 Elementz,element,ele,elem,elements
 Elowen
@@ -212,6 +213,7 @@ Reverie,rev
 Rikimarro,riki,rikim,rikki
 RitZ1,ritz,rit,titz
 Royalninja,royal,royal ninja,ninja,roy
+Rustung,rust
 S0Z0,sozo
 SabrasGethin,sabrags gethin,sabras,sab
 SaerahMagar,saerah magar,saerah,sae,saw
@@ -223,6 +225,7 @@ Savingurazz,saving,azz
 Serene,sereene,sere,ser
 Serpio
 ShadowOfMordor,shadow of mordor,mordor,som
+Shiloh
 Shooterguy,shooter guy,shooter
 SirWilliam1,sir william,william
 SizzlingHot
@@ -237,6 +240,7 @@ Soul1,soul
 Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
 Spike180,spike 180,spike
+Squirrrel,squirrel
 Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
@@ -247,6 +251,7 @@ Swishy,swish
 Taffy
 TerminNater,terminater,term
 Thanatus,than
+TheDogman,dogman,dog
 Thefuture
 TheMachine,the machine,machine
 TheSurgeon,surgeon,surg
@@ -288,7 +293,7 @@ Xeni1387,xeni
 Xerces
 xExTiNcTx,extinct
 xGetNuked,getnuked,xget,get nuked,get,nuked
-XherbalhealzX,xherbal healzx,xherbal,herbal,xheals,herbal healz,herbalhealz
+XherbalhealzX,xherbal healzx,xherbal,herbal,xheals,herbal healz,herbalhealz,healz
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
 xRapid,rapid
