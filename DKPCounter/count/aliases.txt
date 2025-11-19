@@ -81,7 +81,7 @@ Eve21,eve
 Eveleen,evel,everleen
 ExLocker,ex locker
 false,Flase
-faststrike
+faststrike,fast
 Fei
 FirZ,fir
 FlawlessBlade,flawless blade,flawless,flaw
