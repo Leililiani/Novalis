@@ -102,6 +102,7 @@ Holmes,homes
 HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
+Iceyy,icey
 iElctron
 Ily2,ily
 ImAGoon,goon
@@ -269,7 +270,7 @@ Tuila,tulia,tuzla
 Twistedrogue,twisted rogue
 Twistedwarrior,twisted warrior
 Tymur
-ulavanking,ulavan king,ulavan,uk
+ulavanking,ulavan king,ulavan,uk,ula
 UnitedHealth,united
 Vagos,vag,vagis,vagus
 Vannee,vann,van
@@ -285,6 +286,7 @@ warlorde
 Warriorpower,wp
 WhiteArrow,white arrow
 WHITEDEATH
+witchofeden,witch,eden
 Windward,windy,wind
 Xbalanque,xbal
 xBlackCobrax
@@ -307,6 +309,7 @@ xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan
 xXpainXx,xxpain,xpain,pain,painxx
 xxTHORxx,xxthor,xthor,thor,thorxx
+xzerax,xzera,zera
 Yoshimura,yoshi
 YunTheCobra,yun
 Zapp,zap
