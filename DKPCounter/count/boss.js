@@ -243,6 +243,15 @@ const Boss = {
             kill6: 30,
         }
     },
+     VALLEY_BOSS: {
+        aliases: ["valley", "draig", "ialtog", "doomsgail"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 60,
+            kill6: 0,
+        }
+    },
 };
 const PointType = {
     KILL: ["kill", "killl", "kil", "kkil", "ki", "k", "kll", "kl"],
