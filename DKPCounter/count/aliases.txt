@@ -28,6 +28,7 @@ BelowAverage,below average,below,average
 Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd,flo
+BiggieLDN,biggie
 Bizaro,biz
 BlackAsian,black asian
 BlackKnive,black knive,knive
@@ -82,7 +83,7 @@ Eve21,eve
 Eveleen,evel,everleen
 ExLocker,ex locker
 false,Flase
-faststrike,fast
+faststrike
 Fei
 FirZ,fir
 FlawlessBlade,flawless blade,flawless,flaw
@@ -98,12 +99,12 @@ grimheals,grim
 guardianAngel,guardian angel,ga,gua
 GwonaEynon,gwona eynon,gwona,eynon
 HealsFromAbove,hfa
+HeaLz4YeaRz
 Hiiiiiiiii,Hiiiiiiii,hiiiiiii,hiiiiii,hiiiii,hiiii,hiii,hii,hi
 Holmes,homes
 HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
-Iceyy,icey
 iElctron
 Ily2,ily
 ImAGoon,goon
@@ -139,12 +140,14 @@ Legendmoka,legend moka,moka,legend
 Leililiani,leil,lei
 Lethe
 Lilani
+LittleH
 littlemonster,little monster,monster,lilmonster,little
 Liusaidh,liusaidh,liu,liusaid,liusaidh
 LlamaHunter,llama,lamahunter,lama
 Lock_Block,lock block
 LockBlock
 Luminous,lumin,lum
+Lunara
 Lw
 Macky,mack
 Maev,mae,meave,meav
@@ -152,6 +155,7 @@ Maga,mag
 MageDaniela,mage daniela,daniela,dan
 Mamison,mami,miami
 Mancan,man
+Marijuana
 Markistan3,mark,markistan,marki,markis,markstain
 MasterSplinter,master splinter,splinter
 McFlaffy,mc flaffy,flaffy,fluffy
@@ -271,7 +275,7 @@ Tuila,tulia,tuzla
 Twistedrogue,twisted rogue
 Twistedwarrior,twisted warrior
 Tymur
-ulavanking,ulavan king,ulavan,uk,ula
+ulavanking,ulavan king,ulavan,uk
 UnitedHealth,united
 Vagos,vag,vagis,vagus
 Vannee,vann,van
@@ -285,9 +289,9 @@ VortarTolan,vortar,vortar tolan
 Walls
 warlorde
 Warriorpower,wp
+Warriorsupreme
 WhiteArrow,white arrow
 WHITEDEATH
-witchofeden,witch,eden
 Windward,windy,wind
 Xbalanque,xbal
 xBlackCobrax
@@ -307,10 +311,9 @@ xTimurx,xtim,tim,timur
 xTooxBlackx,TooBlack
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
-XxIvanhoexX,ivanhoe,ivan hoe,ivan
+XxIvanhoexX,ivanhoe,ivan hoe,ivan,razorback
 xXpainXx,xxpain,xpain,pain,painxx
 xxTHORxx,xxthor,xthor,thor,thorxx
-xzerax,xzera,zera
 Yoshimura,yoshi
 YunTheCobra,yun
 Zapp,zap
