@@ -2,6 +2,7 @@
 Abylle,aby,abyl,abyle,abyll
 Accord
 Adam09,adam
+Ajentj
 Aleister,ale,alister
 Alpi,alp,apli
 Amayah,ama
@@ -36,7 +37,7 @@ Bojji,bojii
 bone7,bone
 Braydan,bray,brayden
 Brazil
-Breakinskulls,Breakin skulls,breakin,breakingskulls,breaking skulls
+Breakinskulls,Breakin skulls,breakin,breakingskulls,breaking skulls,breakinskills
 BrellyraKerrac,brellyra kerrac,brellyra,kerrac,brelly,brell
 Bryan33,bryan
 Buj4nski,buj4,buj
@@ -121,7 +122,7 @@ Juxta,jux,juta
 Kahala
 KatieMcArn,katie mcarn,katie,kat
 Kellogs,kelloggs,kellgos,kellog,kellogg,kel,kell
-Khaine
+Khaine,khanie
 Killua13,killua,kill
 KingJames,king james,james
 KingJames8,kj8
@@ -217,7 +218,7 @@ Redohealer,redo healer, redo
 RedViper,red viper,viper
 Reverie,rev
 Rikimarro,riki,rikim,rikki
-RitZ1,ritz,rit,titz
+RitZ1,ritz,rit,titz,ritzi
 Royalninja,royal,royal ninja,ninja,roy
 Rustung,rust
 S0Z0,sozo
@@ -236,7 +237,7 @@ Shooterguy,shooter guy,shooter
 SirWilliam1,sir william,william
 SizzlingHot
 Sk33ze,skeeze
-Skullkrusher,skull,skully,skullcrusher
+Skullkrusher,skull,skully,skullcrusher,skullrusher
 Slasher42,slasher
 Sneakybeaky,sneaky beaky,sb
 Sneakyshadow, sneaky shadow
