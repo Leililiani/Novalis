@@ -71,6 +71,7 @@ DismantldSoul,dismantld,dismantled,dis
 Donatello,don,dona
 Doynok,doy
 Drac1,drac
+Dracarys
 DRU1D,druid
 DtasOBroy,dtas,obroy
 EbonyIvory,ebony ivory,ebony,ivory
@@ -94,7 +95,7 @@ Fued
 Galio,gal
 gangsterIV,gangster,gang
 Gannicus39,gannicus,gan
-Godstrike,godstrike,gs
+Godstrike,gs
 GriffinMcCain,griffin mccain,griffin,griff
 grimheals,grim
 guardianAngel,guardian angel,ga,gua
@@ -106,6 +107,7 @@ Holmes,homes
 HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
+Idealy,ideally,idea,ideal
 iElctron
 Ily2,ily
 ImAGoon,goon
@@ -234,6 +236,7 @@ Serpio
 ShadowOfMordor,shadow of mordor,mordor,som
 Shiloh
 Shooterguy,shooter guy,shooter
+SiorMacPhater,sior macphater,sior,macphater
 SirWilliam1,sir william,william
 SizzlingHot
 Sk33ze,skeeze
@@ -248,6 +251,7 @@ Spacemaker3000,spacemaker,space
 Spellguy,spell guy,spell
 Spike180,spike 180,spike
 Squirrrel,squirrel
+St0rm,storm
 Stabetha,stab
 Steeeeve,steeeve,steeve,steve
 Stringer,string,stinger
@@ -264,6 +268,7 @@ TheMachine,the machine,machine
 TheSurgeon,surgeon,surg
 TheWino,wino
 ThorinWallace,thorin wallace,thorin
+Thund3rStruck,thund3r,thunder,thunderstruck
 Thunderbuns,buns
 Thyestes,thy
 Todins,todin
@@ -273,6 +278,8 @@ Toxins,toxin
 Treasa,trea
 Trillion,trill
 Tuila,tulia,tuzla
+Twisteddruid,twisted druid
+Twistedmage,twisted mage
 Twistedrogue,twisted rogue
 Twistedwarrior,twisted warrior
 Tymur
