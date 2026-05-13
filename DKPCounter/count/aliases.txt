@@ -107,6 +107,7 @@ Holmes,homes
 HuwGibby,huw gibby,huw,gibby,gib
 IAM,i am
 IBite,i bite,bite
+Iceyy
 Idealy,ideally,idea,ideal
 iElctron
 Ily2,ily
@@ -320,6 +321,7 @@ xTooxBlackx,TooBlack
 XulLightstorm,xul lightstorm,xul
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan,razorback
+xXLovelyRogueXx,lovelyrogue,lovely
 xXpainXx,xxpain,xpain,pain,painxx
 xxTHORxx,xxthor,xthor,thor,thorxx
 Yoshimura,yoshi
