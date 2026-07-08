@@ -25,7 +25,7 @@ Badassassin1,badassassin
 Bangin,bang
 Bape
 Bauble
-BelowAverage,below average,below,average
+BelowAverage,below average,below,average,ba
 Berryiceman,berry iceman,berry,iceman
 Bigchris,big chris,chris
 BigFl0ydGaming,bigfl0yd,fl0yd,bigfloydgaming,bigfloyd,floyd,flo
@@ -73,6 +73,7 @@ Doynok,doy
 Drac1,drac
 Dracarys
 DRU1D,druid
+Drunkie
 DtasOBroy,dtas,obroy
 EbonyIvory,ebony ivory,ebony,ivory
 Elementz,element,ele,elem,elements
@@ -319,7 +320,7 @@ XrogueX97,xroguex,xrogue,rogue97,xrougex97,xrougex,rouge97
 Xslavers,xslaver,slavers,xslav
 xTimurx,xtim,tim,timur
 xTooxBlackx,TooBlack
-XulLightstorm,xul lightstorm,xul
+XulLightstorm,xul lightstorm,xul,Lightstorm
 xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan,razorback
 xXLovelyRogueXx,lovelyrogue,lovely
