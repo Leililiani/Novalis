@@ -313,7 +313,7 @@ xGetNuked,getnuked,xget,get nuked,get,nuked
 XherbalhealzX,xherbal healzx,xherbal,herbal,xheals,herbal healz,herbalhealz
 xHoneyx,xhoney,honey,hon
 xiiZed,zed
-XoensusParry,parry
+XoensusParry,xoensus parry,xoensus,parry
 xRapid,rapid
 xRedJamiex,redjamie,red jamie,red,jamie,xred,xred jamiex
 XrogueX97,xroguex,xrogue,rogue97,xrougex97,xrougex,rouge97
