@@ -86,7 +86,7 @@ Eve21,eve
 Eveleen,evel,everleen
 ExLocker,ex locker
 false,Flase
-faststrike
+faststrike,fast
 Fei
 FirZ,fir
 FlawlessBlade,flawless blade,flawless,flaw
@@ -164,6 +164,7 @@ Marijuana
 Markistan3,mark,markistan,marki,markis,markstain
 MasterSplinter,master splinter,splinter
 McFlaffy,mc flaffy,flaffy,fluffy
+McSteamy,steamy
 Medicare,medi,med
 Menhit,men,hit
 Mhhmmm,mhmmm,mhhmm,mhhm,mhmm,mhm,mhh,mmhh,mmh,mhhhm,mhhh,mhhn,mh,mmhmm,mhhhmmm,mhmmmm,mmhm,mhhmmmm,mmhhmm,mhn
@@ -173,6 +174,7 @@ MioChibana,mio chibana,mio
 MissDirection,miss direction,missd,miss
 MisterWc,mister
 Mitsukuni,mits
+Modazgi,moda
 MODMG,mod
 MoMo,mo mo,mo,mo-mo,mono
 MONTAGNE,mont
