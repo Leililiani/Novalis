@@ -65,6 +65,7 @@ DarkSniper
 DarkWing71,darkwing,wing
 Dayanara,daya,day
 Ddd5ddd5,ddd5,dd5,d5
+DeadlyDeeps,deadly deeps,deadly,deeps
 DeadP00I,deadpool,pool,p00l,deadp00l
 Dee5,dee
 DismantldSoul,dismantld,dismantled,dis
@@ -111,8 +112,8 @@ IBite,i bite,bite
 Iceyy
 Idealy,ideally,idea,ideal
 iElctron
-Ily2,ily
 Illunis
+Ily2,ily
 ImAGoon,goon
 ImightNot
 ImSoSick
@@ -328,6 +329,7 @@ xXironhideXx,ironhide
 XxIvanhoexX,ivanhoe,ivan hoe,ivan,razorback
 xXLovelyRogueXx,lovelyrogue,lovely
 xXpainXx,xxpain,xpain,pain,painxx
+xxsummerxx,summer
 xxTHORxx,xxthor,xthor,thor,thorxx
 Yoshimura,yoshi
 YunTheCobra,yun
